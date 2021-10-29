@@ -1,0 +1,6 @@
+* [Home - Fall 2021](cmpt-363-213/home.md)
+* [Schedule](cmpt-363-213/schedule.md)
+* [Topics](cmpt-363-213/topics.md)
+* [All Readings](cmpt-363-213/readings.md)
+* [UX Techniques Guide](cmpt-363-213/ux-techniques-guide.md)
+* [Contact Paul or TAs](cmpt-363-213/contact.md)

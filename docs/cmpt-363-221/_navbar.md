@@ -1,0 +1,6 @@
+* [Home - Spring 2022](cmpt-363-221/home.md)
+* [Schedule](cmpt-363-221/schedule.md)
+* [Topics](cmpt-363-221/topics.md)
+* [All Readings](cmpt-363-221/readings.md)
+* [UX Techniques Guide](cmpt-363-221/ux-techniques-guide.md)
+* [Contact Paul or TAs](cmpt-363-221/contact.md)
