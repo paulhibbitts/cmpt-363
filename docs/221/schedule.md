@@ -1,11 +1,11 @@
 # Schedule
 
-## :fas fa-calendar fa-fw: [Week 1 (Jan 10 - 16)](cmpt-363-221/week-01)
+## :fas fa-calendar fa-fw: [Week 1 (Jan 10 - 16)](221/week-01)
 **Course overview**  
 :fas fa-desktop fa-fw: Course Overview [[PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Course%20Overview) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544)] <span class='badge'> [Thu Sep 9 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Course+Overview&iso=20210909T1430&p1=256&ah=1&am=50)</span>  
 :fas fa-book fa-fw: [Course Syllabus](https://canvas.sfu.ca/courses/64326/assignments/syllabus) (suggested reading)  
 
-## :fas fa-calendar fa-fw: [Week 2 (Jan 17 - 23)](cmpt-363-221/week-02)
+## :fas fa-calendar fa-fw: [Week 2 (Jan 17 - 23)](221/week-02)
 **What is usability and user experience design?**  
 :fas fa-users fa-fw: [Form Student Groups](https://canvas.sfu.ca/courses/64326/users) (4 members per group required) <span class='badge'> [Mon Sep 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Form+Student+Groups+Due+Date&iso=20210920T235900)</span>  
 :fas fa-desktop fa-fw: Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-02) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544)] <span class='badge'> [Tue Sep 14 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20210914T1430&p1=256&ah=1&am=50)</span>  
@@ -16,7 +16,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 2](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20210915T235900&p1=256)</span>   
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 2](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Fri Sep 17th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+2+Visual+Journal+Entry+Due+Date&iso=20210917T235900)</span>  
 
-## :fas fa-calendar fa-fw: [Week 3 (Jan 24 - 30)](cmpt-363-221/week-03)
+## :fas fa-calendar fa-fw: [Week 3 (Jan 24 - 30)](221/week-03)
 **What is the practice of multi-device interaction design?**  
 :fas fa-comments fa-fw: [Group Project Proposal](https://canvas.sfu.ca/courses/64326/discussion_topics/1316138) <span class='badge'> [Mon Sep 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Project+Proposal+Due+Date&iso=20210927T235900)</span>  
 :fas fa-desktop fa-fw: Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-03) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544)] <span class='badge'> [Tue Sep 21 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20210921T1430&p1=256&ah=1&am=50)</span>  
@@ -27,7 +27,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 3](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Wed Sep 22 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20210922T235900&p1=256)</span>   
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 3](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Fri Sep 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+3+Visual+Journal+Entry+Due+Date&iso=20210924T235900)</span>  
 
-## :fas fa-calendar fa-fw: [Week 4 (Jan 31 - Feb 6)](cmpt-363-221/week-04)
+## :fas fa-calendar fa-fw: [Week 4 (Jan 31 - Feb 6)](221/week-04)
 **How to conduct a user interface inspection?**  
 :fas fa-pen fa-fw: [Individual Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/64326/assignments/662758) <span class='badge'> [Tue Oct 12 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Due+Date&iso=20211012T2359&p1=256)</span>  
 :fas fa-desktop fa-fw: Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-04) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544)] <span class='badge'> [Tue Sep 28 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20210928T1430&p1=256&ah=1&am=50)</span>   
@@ -37,7 +37,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 4](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Wed Sep 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20210929T235900&p1=256)</span>  
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 4](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Fri Oct 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+4+Visual+Journal+Entry+Due+Date&iso=20211001T235900)</span>  
 
-## :fas fa-calendar fa-fw: [Week 5 (Feb 7 - 13)](cmpt-363-221/week-05)
+## :fas fa-calendar fa-fw: [Week 5 (Feb 7 - 13)](221/week-05)
 **Special topic - heuristic evaluations**  
 :fas fa-desktop fa-fw: Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-05) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544)] <span class='badge'> [Tue Oct 5 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20211005T1430&p1=256&ah=1&am=50)</span>  
 :fas fa-desktop fa-fw: Review and Discussion [[PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-05) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544)] <span class='badge'> [Thu Oct 7 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20211007T1430&p1=256&am=50)</span>   
@@ -45,7 +45,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 5](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Wed Oct 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20211006T235900&p1=256)</span>  
 :fas fa-image fa-fw: No visual journal entry     
 
-## :fas fa-calendar fa-fw: [Week 6 (Feb 14 - 20)](cmpt-363-221/week-06)
+## :fas fa-calendar fa-fw: [Week 6 (Feb 14 - 20)](221/week-06)
 **How to understand and communicate people's needs and behaviours?**  
 :fas fa-check fa-fw: [Individual Heuristic Inspection Assignment due](https://canvas.sfu.ca/courses/64326/assignments/662758) <span class='badge'> [Tue Oct 12 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Due+Date&iso=20211012T2359&p1=256)</span>  
 :fas fa-pen fa-fw: [Group User Research Assignment](https://canvas.sfu.ca/courses/64326/assignments/662762) <span class='badge'> [Mon Nov 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+User+Research+Assignment+Due+Date&iso=20211101T2359&p1=256)</span>  
@@ -58,7 +58,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 6](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Wed Oct 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20211013T235900&p1=256)</span>  
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 6](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Fri Oct 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+6+Visual+Journal+Entry+Due+Date&iso=20211015T235900)</span>  
 
-## :fas fa-calendar fa-fw: [Week 7 (Feb 21 - 27)](cmpt-363-221/week-07)
+## :fas fa-calendar fa-fw: [Week 7 (Feb 21 - 27)](221/week-07)
 **Special topic - conducting user research / Instructor user research plan group meetings**   
 :fas fa-book fa-fw: [How to Run Remote User Research (Like a Boss!) (6 minute read)](https://medium.com/mixed-methods/how-to-run-remote-user-research-like-a-boss-b3729954f03)  
 :fas fa-book fa-fw: [User Interviews: How, When, and Why to Conduct Them (13 minute read)](https://www.nngroup.com/articles/user-interviews/)  
@@ -66,7 +66,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 7](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Wed Oct 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20211020T235900&p1=256)</span>  
 :fas fa-image fa-fw: No visual journal entry  
 
-## :fas fa-calendar fa-fw: [Week 8 (Feb 28 - Mar 6)](cmpt-363-221/week-08)
+## :fas fa-calendar fa-fw: [Week 8 (Feb 28 - Mar 6)](221/week-08)
 **How to bridge the gap between the problem and design space?**  
 :fas fa-desktop fa-fw: Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-08) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544)] <span class='badge'> [Tue Oct 26 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20211026T1430&p1=256&ah=1&am=50)</span>  
 :fas fa-users fa-fw: Open Office Hours Consultations <span class='badge'> [Thu Oct 28 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Open+Office+Hours+Consultations&iso=20211028T1430&p1=256&am=50)</span>  
@@ -76,7 +76,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 8](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'>[Wed Oct 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20211027T235900&p1=256)</span>  
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 8](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Fri Oct 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+8+Visual+Journal+Entry+Due+Date&iso=20211029T235900)</span>  
 
-## :fas fa-calendar fa-fw: [Week 9 (Mar 7 - 13)](cmpt-363-221/week-09)
+## :fas fa-calendar fa-fw: [Week 9 (Mar 7 - 13)](221/week-09)
 **How to explore and describe possible design solutions?**       
 :fas fa-check fa-fw: [Group User Research Assignment due](https://canvas.sfu.ca/courses/64326/assignments/662762) <span class='badge'> [Mon Nov 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+User+Research+Assignment+Due+Date&iso=20211101T2359&p1=256)</span>  
 :fas fa-folder fa-fw: [Team Member Evaluation due](https://canvas.sfu.ca/courses/64326/assignments/662763) <span class='badge'> [Tue Nov 2 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Team+Member+Evaluation+Due+Date&iso=20211102T235900&p1=256)</span>  
@@ -90,7 +90,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 9](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Wed Nov 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20211103T235900&p1=256)</span>  
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 9](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Fri Nov 5 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+9+Visual+Journal+Entry+Due+Date&iso=20211105T235900)</span>  
 
-## :fas fa-calendar fa-fw: [Week 10 (Mar 14 - 20)](cmpt-363-221/week-10)
+## :fas fa-calendar fa-fw: [Week 10 (Mar 14 - 20)](221/week-10)
 **How to plan, conduct, and summarize usability tests?**  
 :fas fa-desktop fa-fw: Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-10) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544)] <span class='badge'> [Tue Nov 9 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20211109T1430&p1=256&ah=1&am=50)</span>  
 :fas fa-desktop fa-fw: Review and Discussion <span class='badge'> [Thu Nov 11 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20211111T1430&p1=256&am=50)</span> (Remembrance Day, no class)  
@@ -99,13 +99,13 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 10](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Wed Nov 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20211110T235900&p1=256)</span>  
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 10](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Fri Nov 12 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+10+Visual+Journal+Entry+Due+Date&iso=20211112T235900)</span>  
 
-## :fas fa-calendar fa-fw: [Week 11 (Mar 21 - 27)](cmpt-363-221/week-11)
+## :fas fa-calendar fa-fw: [Week 11 (Mar 21 - 27)](221/week-11)
 **Instructor wireframe review group meetings**  
 Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collaborate sessions  
 :fas fa-keyboard fa-fw: No required readings or one-minute summaries   
 :fas fa-book fa-fw: [How to Give and Receive Criticism](http://scottberkun.com/essays/35-how-to-give-and-receive-criticism/) (suggested reading)  
 
-## :fas fa-calendar fa-fw: [Week 12 (Mar 28 - Apr 3)](cmpt-363-221/week-12)
+## :fas fa-calendar fa-fw: [Week 12 (Mar 28 - Apr 3)](221/week-12)
 **What are the essentials of visual interface design?**  
 :fas fa-check fa-fw: [Group Design Scenarios and Storyboard Wireframes  due](https://canvas.sfu.ca/courses/64326/assignments/662760) <span class='badge'> [Mon Nov 22 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Wireframes+Assignment+Due+Date&iso=20211122T2359&p1=256)</span>    
 :fas fa-folder fa-fw: [Team Member Evaluation due](https://canvas.sfu.ca/courses/64326/assignments/662761) <span class='badge'> [Tue Nov 23 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Team+Member+Evaluation+Due+Date&iso=20211123T235900&p1=256)</span>  
@@ -118,7 +118,7 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 12](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Wed Nov 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20211124T235900&p1=256)</span>  
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 12](https://canvas.sfu.ca/courses/64326/assignments) <span class='badge'> [Fri Nov 25 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+12+Visual+Journal+Entry+Due+Date&iso=20211125T235900)</span>  
 
-## :fas fa-calendar fa-fw: [Week 13 (Apr 4 - 10)](cmpt-363-221/week-13)
+## :fas fa-calendar fa-fw: [Week 13 (Apr 4 - 10)](221/week-13)
 **Special topic - visual interface design / Open office hours consultations**  
 :fas fa-desktop fa-fw: Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-13) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544)] <span class='badge'> [Tue Nov 30 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20211103T1430&p1=256&ah=1&am=50)</span>  
 :fas fa-desktop fa-fw: Review and Discussion [[PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-13) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544)] <span class='badge'> [Thu Dec 2 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20211202T1430&p1=256&am=50)</span>  
@@ -127,7 +127,7 @@ Online instructor meetings (15 mins.), no regularly scheduled Blackboard Collabo
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 13](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Wed Dec 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+13+Due+Date&iso=20211201T235900&p1=256)</span>  
 :fas fa-image fa-fw: No visual journal entry  
 
-## :fas fa-calendar fa-fw: [Week 14 (Dec 6 - 12)](cmpt-363-221/week-14)
+## :fas fa-calendar fa-fw: [Week 14 (Dec 6 - 12)](221/week-14)
 **Course wrap-up**  
 :fas fa-check fa-fw: [Individual High-fidelity Prototype due](https://canvas.sfu.ca/courses/64326/assignments/662759) <span class='badge'> [Mon Dec 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+High-fidelity+Prototype+Due+Date&iso=20211206T2359&p1=256)</span>  
 :fas fa-desktop fa-fw: Course Wrap-up <span class='badge'> [Tue Dec 7 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Course+Wrap-up&iso=20211207T1430&p1=256&ah=1&am=50)</span>  
