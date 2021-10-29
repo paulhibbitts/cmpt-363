@@ -8,7 +8,7 @@
 ### Live Sessions
 
 * [Blackboard Mini-lectures and Activities](#) (guest access link TBA) <span class='badge'> [Tue Jan 11 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Mini-Lectures+and+Activities&iso=20220111T1430&p1=256&am=50)</span>
-* [Blackboard Review and Discussion](#) (guest access link TBA) <span class='badge'> [Fir Jan 14 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Review+and+Discussions&iso=2022014T1430&p1=256&am=50)</span>
+* [Blackboard Review and Discussion](#) (guest access link TBA) <span class='badge'> [Fri Jan 14 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Review+and+Discussions&iso=2022014T1430&p1=256&am=50)</span>
 
 ### Suggested Readings
 [Course Syllabus](#)
