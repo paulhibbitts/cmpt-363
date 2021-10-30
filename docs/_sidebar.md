@@ -12,4 +12,4 @@
 
 </style>
 
-<p style="color:#A0A0A0;font-size:16px">This site was <i class="fa fa-code" aria-hidden="true" title="Coded"></i> with <i class="fa fa-heart" aria-hidden="true" title="Love"></i> using the Docsify Open Course Starter Kit.</p>
+<p style="color:#A0A0A0;font-size:16px">This site was <i class="fa fa-code" aria-hidden="true" title="Coded"></i> with <i class="fa fa-heart" aria-hidden="true" title="Love"></i> using the Docsify Open MultiCourse Starter Kit.</p>
