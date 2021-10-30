@@ -1,3 +1,5 @@
+**Fall 2021**
+
 - [Course Welcome](213/course-welcome)
 - [Week 1 (Sep 8 - 12)](213/week-01)
 - [Week 2 (Sep 13 - 19)](213/week-02)

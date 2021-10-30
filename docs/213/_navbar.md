@@ -1,4 +1,4 @@
-* [Home - Fall 2021](213/home.md)
+* [Home](213/home.md)
 * [Schedule](213/schedule.md)
 * [Topics](213/topics.md)
 * [All Readings](213/readings.md)

@@ -1,4 +1,4 @@
-* [Home - Spring 2022](221/home.md)
+* [Home](221/home.md)
 * [Schedule](221/schedule.md)
 * [Topics](221/topics.md)
 * [All Readings](221/readings.md)
