@@ -9,8 +9,8 @@ Put your custom CSS in this file.
 
 body .markdown-section {
   font-family: "Lato", "Helvetica Neue", Arial, sans-serif;
-  line-height: 1.4;
   font-size: 16px;
+  line-height: 1.4;
 }
 
 .markdown-section blockquote {
@@ -23,4 +23,52 @@ body .markdown-section {
 
 .progress {
   background-color: #757b7f;
+}
+
+body {
+  font-family: "Lato", "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px;
+}
+
+body .app-nav {
+  font-family: "Lato", "Helvetica Neue", Arial, sans-serif;
+  font-size: 16px;
+}
+
+.app-nav:not(:empty)~main .markdown-section {
+  padding-top: 5.5rem;
+}
+
+@media only screen and (max-width: 480px) {
+
+   .markdown-section h1 {
+      font-size: 1.35rem;
+      line-height: 1.4rem;
+   }
+
+   .markdown-section h2 {
+      font-size: 1.25rem;
+      line-height: 1.3rem;
+   }
+
+   .markdown-section h3 {
+      font-size: 1.15rem;
+      line-height: 1.20rem;
+   }
+
+   .markdown-section h4 {
+      font-size: 1.10rem;
+      line-height: 1.15rem;
+   }
+
+   .markdown-section h5 {
+      font-size: 1.05rem;
+      line-height: 1.1rem;
+   }
+
+   .markdown-section h6 {
+      font-size: 1rem;
+      line-height: 1rem;
+   }
+
 }
