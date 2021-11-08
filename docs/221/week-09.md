@@ -2,7 +2,7 @@
 
 # Special topic - conducting usability tests
 
-## Open Office Hours Consultations
+## Open Office Consultations
 No regularly scheduled Tuesday Blackboard Collaborate session.
 
 ## BlackBoard Collaborate Session Slides
