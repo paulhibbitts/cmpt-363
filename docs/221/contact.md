@@ -6,11 +6,10 @@
 :fab fa-twitter fa-fw: [@hibbittsdesign](https://twitter.com/hibbittsdesign)  
 
 Suggestion or complaint?  
-:fas fa-bullhorn fa-fw: [Anonymous Course Feedback](https://www.surveymonkey.ca/r/NJXLQFS)  
+:fas fa-bullhorn fa-fw: [Anonymous Course Feedback](https://www.surveymonkey.ca/r/6CXWGF2)  
 
 **Teaching Assistants**  
-:fas fa-envelope fa-fw: [abhay_jolly@sfu.ca](mailto:abhay_jolly@sfu.ca)  
-:fas fa-envelope fa-fw: [neil_mukesh_shah@sfu.ca](mailto:neil_mukesh_shah@sfu.ca)  
+TBD
 
 This term we will be using a private Discord server for all class discussions, including assignment clarifications - [please join us on Discord!](https://www2.cs.sfu.ca/CourseCentral/363/paulh/discord-server-invite-363-213)  
 
