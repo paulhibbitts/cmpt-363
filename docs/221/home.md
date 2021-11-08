@@ -1,7 +1,7 @@
 
 <div class=alert>
 
-_While the Canvas course site is not yet available, students may find the draft [course map](https://workflowy.com/s/2022-online-cmpt-363/m4TYZabQP05jtYBo) of help to decide if this section of CMPT-363 is a good fit for them._
+_While the Canvas course site is not yet available, students may find the [course map](https://workflowy.com/s/2022-online-cmpt-363/m4TYZabQP05jtYBo) of help to decide if this online section of CMPT-363 is a good fit._
 
 # What’s Happening First Week 💫
 
