@@ -3,112 +3,113 @@
 ### [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | K | [L](#l) | M | [N](#n) | [O](#o) | [P](#p) | Q | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | X | Y | Z  
 
 ### A
-[Accessibility](week-13)  
-[Agile UX](week-02)  
+[Accessibility](221/week-12)  
+[Agile UX](221/week-01)  
 
 ### B
-[Bias](week-06)  
+[Bias](221/week-05)  
 
 ### C
-[Color](week-13)  
-[Conceptual Models](week-08)  
-[Contextual Inquiry](week-06)  
-[Creativity](week-09)  
+[Color](221/week-12)  
+[Conceptual Models](221/week-04)  
+[Contextual Inquiry](221/week-05)  
+[Creativity](221/week-08)  
 
 ### D
-[Design Ethics](week-02)  
-[Design Scenarios (also called Scenarios)](week-09)  
-[Design Thinking](week-02)  
-[Designing for Touch](week-03)  
-[Discovery Research](week-06)  
-[Double Diamond](week-02)  
+[Design Ethics](221/week-01)  
+[Design Scenarios (also called Scenarios)](221/week-08)  
+[Design Thinking](221/week-01)  
+[Designing for Touch](221/week-02)  
+[Discovery Research](221/week-05)  
+[Double Diamond](221/week-01)  
 
 ### E
-[Emotional Design](week-08)  
-[Empathy Map](week-06)  
+[Emotional Design](221/week-04)  
+[Empathy Map](221/week-05)  
 
 ### F
-[Fitts’s Law](week-03)  
-[Five Dimensions of HCI](week-03)  
-[Five Whys](week-06)  
+[Fitts’s Law](221/week-02)  
+[Five Dimensions of HCI](221/week-02)  
+[Five Whys](221/week-05)  
 
 ### G
-[Grids](week-13)  
+[Grids](221/week-12)  
 
 ### H
-[HCI Laws](week-04)  
-[Heuristic Evaluations](week-05)  
-[Hick’s Law](week-04)  
-[Hypothesis](week-02)  
+[HCI Laws](221/week-02)  
+[Heuristic Evaluations](221/week-03)  
+[Hick’s Law](221/week-02)  
+[Hypothesis](221/week-01)  
 
 ### I
-[Icons](week-12)  
-[Inclusive Design](week-08)  
-[Interaction Design](week-03)  
-[Interviews](week-06)  
+[Icons](221/week-11)  
+[Inclusive Design](221/week-04)  
+[Interaction Design](221/week-02)  
+[Interviews](221/week-05)  
 
 ### J
-[Jakob Nielsen’s Heuristics](week-04)  
-[Jobs to Be Done Framework](week-06)  
-[Job Stories](week-06)    
+[Jakob Nielsen’s Heuristics](221/week-03)  
+[Jobs to Be Done Framework](221/week-05)  
+[Job Stories](221/week-05)    
 
 ### L
-[Layout](week-12)  
-[Lean UX](week-02)  
+[Layout](221/week-11)  
+[Lean UX](221/week-01)  
 
 ### M
-[Miller’s Law](week-03)  
-[Mobile Design](week-03)  
-[Multi-device Design](week-03)  
+[Miller’s Law](221/week-02)  
+[Mobile Design](221/week-02)  
+[Multi-device Design](221/week-02)  
 
 ### N
-[Norman’s Design Principles](week-08)
+[Norman’s Design Principles](221/week-04)
 
 ### O
-[Outcomes](week-02)
+[Outcomes](221/week-01)
 
 ### P
-[Pareto Principle](week-02)  
-[Personas/Proto-Personas](week-06)  
-[Power Law of Practice](week-03)  
-[Problem Framing](week-08)  
-[Problem Statements](week-06)  
-[Product Reaction Cards](week-02)  
-[Prototyping](week-09)  
+[Pareto Principle](221/week-01)  
+[Peer Design Reviews](221/week-10)
+[Personas/Proto-Personas](221/week-05)  
+[Power Law of Practice](221/week-02)  
+[Problem Framing](221/week-04)  
+[Problem Statements](221/week-05)  
+[Product Reaction Cards](221/week-01)  
+[Prototyping](221/week-08)  
 
 ### R
-[Remote User Research and Usability Techniques](week-07)  
+[Remote User Research and Usability Techniques](221/week-06)  
 
 ### S
-[Scenario-based Design (and Task-Centered Design)](week-09)  
-[Scenarios (also called Design Scenarios)](week-09)  
-[Sketching](week-09)
-[Software Design Processes](week-02)  
-[Storyboards](week-09)  
-[Systems Thinking](week-02)  
+[Scenario-based Design (and Task-Centered Design)](221/week-08)  
+[Scenarios (also called Design Scenarios)](221/week-08)  
+[Sketching](221/week-08)
+[Software Design Processes](221/week-01)  
+[Storyboards](221/week-08)  
+[Systems Thinking](221/week-01)  
 
 ### T
-[Task Analysis](week-02)  
-[Task Flows](week-09)  
-[Thematic Analysis](week-06)  
-[Typography](week-13)  
+[Task Analysis](221/week-01)  
+[Task Flows](221/week-08)  
+[Thematic Analysis](221/week-05)  
+[Typography](221/week-12)  
 
 ### U
-[Usability](week-02)  
-[Usability Objectives](week-02)  
-[Usability Testing](week-10)  
-[User-centered Design (UCD)](week-02)  
-[User Experience Design](week-02)  
-[User Research](week-06)  
-[User Research Analysis](week-06)  
-[User Stories](week-06)  
-[UI Copy Writing](week-12)  
-[UX Objectives](week-02)  
+[Usability](221/week-01)  
+[Usability Objectives](221/week-01)  
+[Usability Testing](221/week-09)  
+[User-centered Design (UCD)](221/week-01)  
+[User Experience Design](221/week-01)  
+[User Research](221/week-05)  
+[User Research Analysis](221/week-05)  
+[User Stories](221/week-05)  
+[UI Copy Writing](221/week-11)  
+[UX Objectives](221/week-01)  
 
 ### V
-[Visual Design](week-12)  
-[Visual Design Principles (CRAP)](week-12)  
-[Visual Hierarchy](week-12)  
+[Visual Design](221/week-11)  
+[Visual Design Principles (CRAP)](221/week-11)  
+[Visual Hierarchy](221/week-11)  
 
 ### W
-[Wireframes](week-09)  
+[Wireframes](221/week-08)  

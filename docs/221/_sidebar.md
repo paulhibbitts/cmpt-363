@@ -1,5 +1,6 @@
 **Spring 2022**
 
+- [Course Welcome](221/course-welcome)
 - [Week 1 (Jan 10 - 16)](221/week-01)
 - [Week 2 (Jan 17 - 23)](221/week-02)
 - [Week 3 (Jan 24 - 30)](221/week-03)

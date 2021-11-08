@@ -2,18 +2,18 @@
 
 # Special topic - conducting user research
 
-## Instructor User Research Feedback Meetings
-No regularly scheduled Tuesday Blackboard Collaborate session.  
-
-Zoom group meetings between 12:00pm and 4:00pm PT on Oct 19th, 20th and 21st. Have your draft [one page user research plan](https://www.smashingmagazine.com/2012/01/ux-research-plan-stakeholders-love/) consisting of title, background, goals, research questions, methodology and participants (if applicable) ready for review and discussion.  
+## Open Office Hours Consultations
+No regularly scheduled Tuesday Blackboard Collaborate session.
 
 ## One-minute Summaries & Questions
 [How to Run Remote User Research (Like a Boss!)](https://canvas.sfu.ca/courses/64326/assignments/662735) <span class='badge'> [Wed Oct 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20211020T235900&p1=256)</span>  
 [Asking the right questions during user research, interviews and testing](https://canvas.sfu.ca/courses/64326/assignments/662732) <span class='badge'> [Wed Oct 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20211020T235900&p1=256)</span>  
 [User Research When You Can’t Talk to Your Users](https://canvas.sfu.ca/courses/64326/assignments/662746) <span class='badge'> [Wed Oct 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20211020T235900&p1=256)</span>  
 
-## BlackBoard Collaborate Session Slides
+## Open Office Hours Consultations
+No regularly scheduled Tuesday Blackboard Collaborate session.
 
+## BlackBoard Collaborate Session Slides
 [Week 6 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-02) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
