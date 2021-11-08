@@ -13,3 +13,10 @@
 
 ## Assignments
 [Peer Design Reviews](https://canvas.sfu.ca/courses/67116/assignments/710594) <span class='badge'> [Mon Mar 21 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Wireframes+Assignment+Due+Date&iso=20220321T2359&p1=256)</span>  
+
+## Assignment Resources  
+
+Peer Reviews  
+_The opportunity to give feedback on the work of fellow students._  
+*   [Guidelines for Students - Peer Review](https://serc.carleton.edu/sp/library/peerreview/tips.html)
+*   [How do I submit a peer review to an assignment?](https://community.canvaslms.com/t5/Student-Guide/How-do-I-submit-a-peer-review-to-an-assignment/ta-p/293)
