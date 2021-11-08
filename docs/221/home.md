@@ -10,8 +10,13 @@
 * [Blackboard Mini-lectures and Activities](#) (guest access link TBA) <span class='badge'> [Tue Jan 11 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Mini-Lectures+and+Activities&iso=20220111T1430&p1=256&am=50)</span>
 * [Blackboard Review and Discussion](#) (guest access link TBA) <span class='badge'> [Fri Jan 14 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Review+and+Discussions&iso=2022014T1430&p1=256&am=50)</span>
 
-### Suggested Readings
-[Course Syllabus](#)
+### Required Readings & One-Minute Summaries
+* [Defining usability](https://canvas.sfu.ca/courses/64326/assignments/662750) <span class='badge'> [Thu Jan 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220113T235900&p1=256)</span>   
+* [The UX Pyramid](https://canvas.sfu.ca/courses/64326/assignments/662751) <span class='badge'> [Thu Jan 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220113T235900&p1=256)</span>   
+* [Why UX Outcomes Make Better Goals Than Business Outcomes](https://canvas.sfu.ca/courses/64326/assignments/662737) <span class='badge'> [Thu Jan 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220113T235900&p1=256)</span>
+
+[Week 1 Visual Journal Entry due Jan 16](https://canvas.sfu.ca/courses/64326/assignments/662764 ':class=button')
+
 </div>
 
 # Discord Office (Student) Hours ‍👩🏽‍💻👨🏽‍💻
