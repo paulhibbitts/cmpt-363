@@ -3,21 +3,21 @@
 # Course introduction / What is usability and user experience design?
 
 ## BlackBoard Collaborate Session Slides
-[Introduction to UX — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vTl23HzbBN1Wzf6Yn_3jrWlnyB6p_4IxxeUf04FuF-FldkCeJUDJUWYJwJ9yNfkCbME17Ro7hLWaNsk/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-02) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
+[Introduction to UX — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vTl23HzbBN1Wzf6Yn_3jrWlnyB6p_4IxxeUf04FuF-FldkCeJUDJUWYJwJ9yNfkCbME17Ro7hLWaNsk/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-02) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTl23HzbBN1Wzf6Yn_3jrWlnyB6p_4IxxeUf04FuF-FldkCeJUDJUWYJwJ9yNfkCbME17Ro7hLWaNsk/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
-[Week 1 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-02) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
+[Week 1 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-02) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## One-minute Summaries & Questions
-[Defining usability](https://canvas.sfu.ca/courses/64326/assignments/662750) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20210915T235900&p1=256)</span>   
-[The UX Pyramid](https://canvas.sfu.ca/courses/64326/assignments/662751) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20210915T235900&p1=256)</span>   
-[Why UX Outcomes Make Better Goals Than Business Outcomes](https://canvas.sfu.ca/courses/64326/assignments/662737) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20210915T235900&p1=256)</span>   
+[Defining usability](https://canvas.sfu.ca/courses/67116/assignments/662750) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20210915T235900&p1=256)</span>   
+[The UX Pyramid](https://canvas.sfu.ca/courses/67116/assignments/662751) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20210915T235900&p1=256)</span>   
+[Why UX Outcomes Make Better Goals Than Business Outcomes](https://canvas.sfu.ca/courses/67116/assignments/662737) <span class='badge'> [Wed Sep 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20210915T235900&p1=256)</span>   
 
 ## Weekly Visual Journal Entry
-[Week 2 Visual Journal Entry](https://canvas.sfu.ca/courses/64326/assignments/662767) <span class='badge'> [Fri Sep 17th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+2+Visual+Journal+Entry+Due+Date&iso=20210917T235900)</span>  
+[Week 2 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/662767) <span class='badge'> [Fri Sep 17th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+2+Visual+Journal+Entry+Due+Date&iso=20210917T235900)</span>  
 
 ## Required Readings  
 [Defining usability (7 minute read)](https://blog.prototypr.io/defining-usability-e7bf42e8abd0)  
@@ -29,7 +29,7 @@
 ![Double Diamond (British Design Council)](images/Double_diamond.png)
 
 ## Downloads
-[Product Reaction Cards](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Product%20Reaction%20Cards)  
+[Product Reaction Cards](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Product%20Reaction%20Cards)  
 
 ## Supplemental Readings
 [Design Ethics](ux-techniques-guide/01.what-is-usability-and-user-experience-design/design-ethics.md ':include')

@@ -3,23 +3,23 @@
 # How to conduct a user interface inspection?
 
 ## BlackBoard Collaborate Session Slides
-[Usability Inspections — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vTnbFvZuzqlanWD2R1YM2PWizDTl7WThN0dPdyaM0tw_FmAxIFkPh72s2L_avtITzkAWykeWmWDEDUG/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-04) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
+[Usability Inspections — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vTnbFvZuzqlanWD2R1YM2PWizDTl7WThN0dPdyaM0tw_FmAxIFkPh72s2L_avtITzkAWykeWmWDEDUG/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-04) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTnbFvZuzqlanWD2R1YM2PWizDTl7WThN0dPdyaM0tw_FmAxIFkPh72s2L_avtITzkAWykeWmWDEDUG/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
-[Week 3 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-02) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
+[Week 3 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-02) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Assignments
-[Individual Heuristic Inspection](https://canvas.sfu.ca/courses/64326/assignments/662758) <span class='badge'> [Tue Oct 12 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Due+Date&iso=20211012T2359&p1=256)</span>  
+[Individual Heuristic Inspection](https://canvas.sfu.ca/courses/67116/assignments/662758) <span class='badge'> [Tue Oct 12 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Due+Date&iso=20211012T2359&p1=256)</span>  
 
 ## One-minute Summaries & Questions
-[Heuristic Analysis for UX – How to Run a Usability Evaluation](https://canvas.sfu.ca/courses/64326/assignments/662752) <span class='badge'> [Wed Sep 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20210929T235900&p1=256)</span>  
-[Severity Ratings for Usability Problems](https://canvas.sfu.ca/courses/64326/assignments/662755) <span class='badge'> [Wed Sep 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20210929T235900&p1=256)</span>  
+[Heuristic Analysis for UX – How to Run a Usability Evaluation](https://canvas.sfu.ca/courses/67116/assignments/662752) <span class='badge'> [Wed Sep 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20210929T235900&p1=256)</span>  
+[Severity Ratings for Usability Problems](https://canvas.sfu.ca/courses/67116/assignments/662755) <span class='badge'> [Wed Sep 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20210929T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
-[Week 4 Visual Journal Entry](https://canvas.sfu.ca/courses/64326/assignments/662769) <span class='badge'> [Fri Oct 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+4+Visual+Journal+Entry+Due+Date&iso=20211001T235900)</span>  
+[Week 4 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/662769) <span class='badge'> [Fri Oct 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+4+Visual+Journal+Entry+Due+Date&iso=20211001T235900)</span>  
 
 ## Required Readings  
 [Heuristic Analysis for UX – How to Run a Usability Evaluation (10 minute read)](https://www.toptal.com/designers/usability/usability-analysis-how-to-run-a-heuristic-evaluation)  
