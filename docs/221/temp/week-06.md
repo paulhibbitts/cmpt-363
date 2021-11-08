@@ -24,9 +24,9 @@
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQGN73yivJAuVT6pw0OCcWPNH-Z_gT4TUDgP2YuH-HQ0cucfASnXZzFspXYPGQvRq4Mt7MkjrFNxE8X/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
-[Week 5 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-02) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
+[Week 6 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vSLIdrGxVVpD_5C5KyPH-HGHjfg5frWXoJgcxLpptzJxYrAhd0JQjPE9qOHE7jfGBf94L31-gdiFoXM/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-06) | [Recording ](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
 
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSLIdrGxVVpD_5C5KyPH-HGHjfg5frWXoJgcxLpptzJxYrAhd0JQjPE9qOHE7jfGBf94L31-gdiFoXM/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Supplemental Videos  
 [Erika Hall: Design Research Done Right](https://www.youtube.com/watch?v=1UCDUOB_aS8)  

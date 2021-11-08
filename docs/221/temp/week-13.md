@@ -3,7 +3,9 @@
 # Special topic — visual interface design
 
 ## Open Office Hours Consultations
-No regularly scheduled Tuesday Blackboard Collaborate session.
+No regularly scheduled Blackboard Collaborate sessions.  
+
+Open office hours consultations during regular Blackboard Collaborate session times, additional sessions may also be available. Figma technical support will not be offered, please refer to the Figma assignment resources below.
 
 ## One-minute Summaries & Questions
 [10 Principles for Color Usage in UI Design](https://canvas.sfu.ca/courses/64326/assignments/662741) <span class='badge'> [Wed Dec 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+13+Due+Date&iso=20211201T235900&p1=256)</span>  
@@ -12,10 +14,6 @@ No regularly scheduled Tuesday Blackboard Collaborate session.
 ## Weekly Visual Journal Entry
 No visual journal entry this week.  
 
-## BlackBoard Collaborate Session Slides
-[Week 12 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-02) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
-
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 ## Assignment Resources  
 
 Figma  
