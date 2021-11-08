@@ -107,7 +107,7 @@ No classes.
 :fas fa-book fa-fw: [Visual Hierarchy: Organizing content to follow natural eye movement patterns (13 minute read)](https://www.interaction-design.org/literature/article/visual-hierarchy-organizing-content-to-follow-natural-eye-movement-patterns)  
 :fas fa-book fa-fw: [Fundamentals of typography in user interface design (UI) (7 minute read)](https://uxdesign.cc/fundamentals-of-typography-in-user-interface-design-ui-67cdd13bfa24)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 11](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Thu Mar 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+11+Due+Date&iso=20220324T235900&p1=256)</span>  
-:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 11](https://canvas.sfu.ca/courses/67116/assignments) <span class='badge'> [Fri Mar 28 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+12+Visual+Journal+Entry+Due+Date&iso=20220328T235900)</span>  
+:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 11](https://canvas.sfu.ca/courses/67116/assignments) <span class='badge'> [Sun Mar 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+12+Visual+Journal+Entry+Due+Date&iso=20220328T235900)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 12 (Mar 28 - Apr 3)](221/week-12)
 **Special topic - visual interface design readings / Open office consultations**  

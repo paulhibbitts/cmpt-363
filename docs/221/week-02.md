@@ -12,12 +12,12 @@
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## One-minute Summaries & Questions
-[Interaction design: a guide for beginners](https://canvas.sfu.ca/courses/67116/assignments/662753) <span class='badge'> [Wed Sep 22 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20210922T235900&p1=256)</span>     
-[Five HCI Laws for User Experience Design](https://canvas.sfu.ca/courses/67116/assignments/662754) <span class='badge'> [Wed Sep 22 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20210922T235900&p1=256)</span>   
-[Touch Targets on Touchscreens](https://canvas.sfu.ca/courses/67116/assignments/662749) <span class='badge'> [Wed Sep 22 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20210922T235900&p1=256)</span>   
+[Interaction design: a guide for beginners](https://canvas.sfu.ca/courses/67116/assignments/662753) <span class='badge'> [Thu Jan 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20210922T235900&p1=256)</span>     
+[Five HCI Laws for User Experience Design](https://canvas.sfu.ca/courses/67116/assignments/662754) <span class='badge'> [Thu Jan 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20210922T235900&p1=256)</span>   
+[Touch Targets on Touchscreens](https://canvas.sfu.ca/courses/67116/assignments/662749) <span class='badge'> [Thu Jan 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20210922T235900&p1=256)</span>   
 
 ## Weekly Visual Journal Entry
-[Week 3 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/662768) <span class='badge'> [Fri Sep 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+3+Visual+Journal+Entry+Due+Date&iso=20210924T235900)</span>  
+[Week 3 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/662768) <span class='badge'> [Sun Jan 23 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+3+Visual+Journal+Entry+Due+Date&iso=20210924T235900)</span>  
 
 ## Required Readings  
 [Interaction design: a guide for beginners (19 minute read)](https://uxplanet.org/interaction-design-a-guide-for-beginners-32ff2364b53f)  

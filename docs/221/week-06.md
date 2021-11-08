@@ -14,9 +14,9 @@ No regularly scheduled Tuesday Blackboard Collaborate session.
 No regularly scheduled Tuesday Blackboard Collaborate session.
 
 ## One-minute Summaries & Questions
-[How to Run Remote User Research (Like a Boss!)](https://canvas.sfu.ca/courses/67116/assignments/662735) <span class='badge'> [Wed Oct 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20211020T235900&p1=256)</span>  
-[Asking the right questions during user research, interviews and testing](https://canvas.sfu.ca/courses/67116/assignments/662732) <span class='badge'> [Wed Oct 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20211020T235900&p1=256)</span>  
-[User Research When You Can’t Talk to Your Users](https://canvas.sfu.ca/courses/67116/assignments/662746) <span class='badge'> [Wed Oct 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20211020T235900&p1=256)</span>  
+[How to Run Remote User Research (Like a Boss!)](https://canvas.sfu.ca/courses/67116/assignments/662735) <span class='badge'> [Thu Feb 17 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20211020T235900&p1=256)</span>  
+[Asking the right questions during user research, interviews and testing](https://canvas.sfu.ca/courses/67116/assignments/662732) <span class='badge'> [Thu Feb 17 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20211020T235900&p1=256)</span>  
+[User Research When You Can’t Talk to Your Users](https://canvas.sfu.ca/courses/67116/assignments/662746) <span class='badge'> [Thu Feb 17 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20211020T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
 No visual journal entry this week.  

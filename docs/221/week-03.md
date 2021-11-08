@@ -12,14 +12,14 @@
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Assignments
-[Individual Heuristic Inspection](https://canvas.sfu.ca/courses/67116/assignments/662758) <span class='badge'> [Tue Oct 12 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Due+Date&iso=20211012T2359&p1=256)</span>  
+[Individual Heuristic Inspection](https://canvas.sfu.ca/courses/67116/assignments/662758) <span class='badge'> [Mon Feb 7 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Due+Date&iso=20211012T2359&p1=256)</span>  
 
 ## One-minute Summaries & Questions
-[Heuristic Analysis for UX – How to Run a Usability Evaluation](https://canvas.sfu.ca/courses/67116/assignments/662752) <span class='badge'> [Wed Sep 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20210929T235900&p1=256)</span>  
-[Severity Ratings for Usability Problems](https://canvas.sfu.ca/courses/67116/assignments/662755) <span class='badge'> [Wed Sep 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20210929T235900&p1=256)</span>  
+[Heuristic Analysis for UX – How to Run a Usability Evaluation](https://canvas.sfu.ca/courses/67116/assignments/662752) <span class='badge'> [Thu Jan 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20210929T235900&p1=256)</span>  
+[Severity Ratings for Usability Problems](https://canvas.sfu.ca/courses/67116/assignments/662755) <span class='badge'> [Thu Jan 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20210929T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
-[Week 4 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/662769) <span class='badge'> [Fri Oct 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+4+Visual+Journal+Entry+Due+Date&iso=20211001T235900)</span>  
+[Week 4 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/662769) <span class='badge'> [Sun Jan 30 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+4+Visual+Journal+Entry+Due+Date&iso=20211001T235900)</span>  
 
 ## Required Readings  
 [Heuristic Analysis for UX – How to Run a Usability Evaluation (10 minute read)](https://www.toptal.com/designers/usability/usability-analysis-how-to-run-a-heuristic-evaluation)  
