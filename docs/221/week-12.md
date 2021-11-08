@@ -15,7 +15,7 @@ No regularly scheduled Tuesday Blackboard Collaborate session.
 [7 Things Every Designer Needs to Know about Accessibility](https://canvas.sfu.ca/courses/67116/assignments/662742) <span class='badge'> [Thu Mar 31 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+13+Due+Date&iso=20220331T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
-No visual journal entry this week.  
+No visual journal entry this week.
 
 ## Assignment Resources  
 
