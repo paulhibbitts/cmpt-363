@@ -21,7 +21,7 @@
 
 Chat-only Office Hours:  
 Monday 12:00-12:30pm PT  
-Wednesday 12:00-12:30pm PT  
+Thursday 12:00-12:30pm PT  
 
 </div>
 <div class="column">
