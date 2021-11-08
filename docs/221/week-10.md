@@ -1,4 +1,4 @@
-![Usability Test](images/4642289926_7964e733d1_b.jpg ':class=banner-image')
+![Peer Reviews](images/matthew-waring-MJAoiige14E-unsplash.jpg ':class=banner-image')
 
 # Special topic - peer design reviews
 
