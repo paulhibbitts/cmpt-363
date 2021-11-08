@@ -13,11 +13,11 @@ _While the Canvas course site is not yet available, students may find the [cours
 * [Blackboard Review and Discussion](#) (guest access link TBA) <span class='badge'> [Fri Jan 14 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Review+and+Discussions&iso=20220114T1430&p1=256&am=50)</span>
 
 ### Required Readings & One-Minute Summaries
-* [Defining usability](https://canvas.sfu.ca/courses/67116/assignments/662750) <span class='badge'> [Thu Jan 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220113T235900&p1=256)</span>   
-* [The UX Pyramid](https://canvas.sfu.ca/courses/67116/assignments/662751) <span class='badge'> [Thu Jan 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220113T235900&p1=256)</span>   
-* [Why UX Outcomes Make Better Goals Than Business Outcomes](https://canvas.sfu.ca/courses/67116/assignments/662737) <span class='badge'> [Thu Jan 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220113T235900&p1=256)</span>
+* [Defining usability](https://canvas.sfu.ca/courses/67116/assignments/710558) <span class='badge'> [Thu Jan 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220113T235900&p1=256)</span>   
+* [The UX Pyramid](https://canvas.sfu.ca/courses/67116/assignments/710557) <span class='badge'> [Thu Jan 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220113T235900&p1=256)</span>   
+* [Why UX Outcomes Make Better Goals Than Business Outcomes](https://canvas.sfu.ca/courses/67116/assignments/710569) <span class='badge'> [Thu Jan 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220113T235900&p1=256)</span>
 
-[Week 1 Visual Journal Entry due Jan 16](https://canvas.sfu.ca/courses/67116/assignments/662764 ':class=button')
+[Week 1 Visual Journal Entry due Jan 16](https://canvas.sfu.ca/courses/67116/assignments/710635 ':class=button')
 
 </div>
 
