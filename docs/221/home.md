@@ -1,6 +1,8 @@
 
 <div class=alert>
 
+_While the Canvas course site is not yet available, students may find the draft [course map](https://workflowy.com/s/2022-online-cmpt-363/m4TYZabQP05jtYBo) of help to decide if this section of CMPT-363 is a good fit for them._
+
 # What’s Happening First Week 💫
 
 ## Course overview / What is usability and user experience design?
