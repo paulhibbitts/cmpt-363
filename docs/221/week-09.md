@@ -15,7 +15,7 @@ No regularly scheduled Tuesday Blackboard Collaborate session.
 [Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid](https://canvas.sfu.ca/courses/67116/assignments/662738) <span class='badge'> [Thu Mar 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220310T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
-No visual journal entry.
+No visual journal entry this week.
 
 ## Required Readings  
 [Usability Testing Guide (14 minute read)](https://boxesandarrows.com/usability-testing-guide/)  
