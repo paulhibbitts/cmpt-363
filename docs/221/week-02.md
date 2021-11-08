@@ -17,7 +17,7 @@
 [Touch Targets on Touchscreens](https://canvas.sfu.ca/courses/67116/assignments/662749) <span class='badge'> [Thu Jan 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220120T235900&p1=256)</span>   
 
 ## Weekly Visual Journal Entry
-[Week 3 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/662768) <span class='badge'> [Sun Jan 23 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+3+Visual+Journal+Entry+Due+Date&iso=20210924T235900)</span>  
+[Week 3 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/662768) <span class='badge'> [Sun Jan 23 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+3+Visual+Journal+Entry+Due+Date&iso=20220123T235900)</span>  
 
 ## Required Readings  
 [Interaction design: a guide for beginners (19 minute read)](https://uxplanet.org/interaction-design-a-guide-for-beginners-32ff2364b53f)  
