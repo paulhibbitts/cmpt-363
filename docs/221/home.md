@@ -40,7 +40,7 @@ Friday 3:30-4:00pm PT
 
 ![UX](images/16230041026_d438eb2482_k.jpg ':class=banner-image')
 
-# Looking Ahead to Second Week🔭
+# Looking Ahead to the Second Week🔭
 
 ## What is the practice of multi-device interaction design?
 
