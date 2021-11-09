@@ -32,7 +32,7 @@
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 3](https://canvas.sfu.ca/courses/67116/assignments) <span class='badge'> [Sun Jan 30 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+3+Visual+Journal+Entry+Due+Date&iso=20220130T235900)</span>   
 
 ## :fas fa-calendar fa-fw: [Week 4 (Jan 31 - Feb 6)](221/week-04)
-**How to bridge the gap between the problem and design space?**  
+**How to bridge the gap between the problem and design space? / Open consultation office hours**  
 :fas fa-desktop fa-fw: Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-04) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544)] <span class='badge'> [Tue Feb 1 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20220201T1430&p1=256&ah=1&am=50)</span>  
 :fas fa-users fa-fw: Open Office Consultations <span class='badge'> [Fri Feb 4 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Open+Office+Consultations&iso=20220204T1430&p1=256&am=50)</span>  
 :fas fa-book fa-fw: [Leveraging Mental Models in Product Design (11 minute read)](https://medium.com/swlh/leveraging-mental-models-in-ux-design-21ba8fbce22d)  
@@ -89,7 +89,7 @@ No classes.
 :fas fa-image fa-fw: No visual journal entry  
 
 ## :fas fa-calendar fa-fw: [Week 10 (Mar 14 - 20)](221/week-10)
-**Special topic - peer design reviews**   
+**Special topic - peer design reviews / Open consultation office hours**   
 :fas fa-check fa-fw: [Storyboard Wireframes Assignment due](https://canvas.sfu.ca/courses/67116/assignments/662760) <span class='badge'> [Mon Mar 14 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Wireframes+Assignment+Due+Date&iso=20220314T2359&p1=256)</span>  
 :fas fa-pen fa-fw: Storyboard Wireframes Assignment Peer Reviews <span class='badge'> [Mon Mar 21 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Wireframes+Assignment+Due+Date&iso=20220321T2359&p1=256)</span>    
 :fas fa-desktop fa-fw: Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-10) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544)] <span class='badge'> [Tue Mar 15 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20220315T1430&p1=256&ah=1&am=50)</span>  
