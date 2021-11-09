@@ -35,11 +35,14 @@
 
 ## Week 3
 ### How to conduct a user interface inspection?
-**How to Use Heuristic Evaluations to Improve Product Designs (1 of 2 for Week 3)**  
+**How to Use Heuristic Evaluations to Improve Product Designs (1 of 3 for Week 3)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.toptal.com/designers/usability/usability-analysis-how-to-run-a-heuristic-evaluation">How to Use Heuristic Evaluations to Improve Product Designs</a></div>
 
-**Severity Ratings for Usability Problems (2 of 2 for Week 3)**  
+**Severity Ratings for Usability Problems (2 of 3 for Week 3)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/">Severity Ratings for Usability Problems</a></div>
+
+**Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total) (3 of 3 for Week 3)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.youtube.com/watch?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA&v=gSm6bOw-KcQ">Design Heuristics Lecture with Scott Klemmer, a Video Playlist</a></div>
 
 ## Week 4
 ### How to bridge the gap between the problem and design space?
