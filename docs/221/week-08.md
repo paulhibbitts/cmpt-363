@@ -27,6 +27,19 @@
 [Don Norman’s Principles of Interaction Design (8 minute read)](https://medium.com/@sachinrekhi/don-normans-principles-of-interaction-design-51025a2c0f33)  
 [Not Just Pretty: Building Emotion Into Your Websites (15 minute read)](https://www.smashingmagazine.com/2012/04/building-emotion-into-your-websites/)  
 
+## Assignment Resources  
+
+Balsamiq for Google Drive  
+_Web-based wireframing tool._
+*   [Balsamiq for Google Drive Installation](https://balsamiq.com/wireframes/google-drive/docs/installing/#installation) (contact Paul for 4 month Editor access)
+*   [Balsamiq for Google Drive Documentation](https://balsamiq.com/wireframes/google-drive/docs/)
+*   [Balsamiq for Google Drive - Exporting](https://balsamiq.com/wireframes/google-drive/docs/exporting/)
+*   [12 Practical Tips for Creating Better Wireframes](https://uxplanet.org/12-practical-tips-for-creating-better-wireframes-be0418777946)
+*   [Balsamiq Wireframes for Google Drive Overview](https://www.youtube.com/watch?v=l_jJMMY_QMQ)
+*   [Creating Polished Wireframes](https://balsamiq.com/learn/resources/articles/polished-wireframes/)
+*   [Wireframes to Go - a Collection of Ready-to-Use UI Controls](https://balsamiq.com/wireframes/togo/)
+*   [Working with Skins (Sketch vs. Wireframe)](https://balsamiq.com/wireframes/desktop/docs/skins/)
+
 ## Supplemental Videos  
 [Mind the gap, user centered design in large organizations with Luke Wroblewski](https://www.youtube.com/watch?v=mAiNdU1go1A)  
 <div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/mAiNdU1go1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
