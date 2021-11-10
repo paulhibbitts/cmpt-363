@@ -1,6 +1,6 @@
 # Topics
 
-### [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | K | [L](#l) | M | [N](#n) | [O](#o) | [P](#p) | Q | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | X | Y | Z  
+### [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | K | [L](#l) | M | [N](#n) | [O](#o) | [P](#p) | Q | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | W | X | Y | Z  
 
 ### A
 [Accessibility](https://canvas.sfu.ca/courses/67116/modules/items/2120573)  
@@ -13,11 +13,10 @@
 [Color](https://canvas.sfu.ca/courses/67116/modules/items/2120573)  
 [Conceptual Models](https://canvas.sfu.ca/courses/67116/modules/items/2120568)  
 [Contextual Inquiry](https://canvas.sfu.ca/courses/67116/modules/items/2120566)  
-[Creativity](https://canvas.sfu.ca/courses/67116/modules/items/2120569)  
 
 ### D
 [Design Ethics](https://canvas.sfu.ca/courses/67116/modules/items/2120562)  
-[Design Scenarios (also called Scenarios)](https://canvas.sfu.ca/courses/67116/modules/items/2120569)  
+[Design Scenarios (also called Scenarios)](https://canvas.sfu.ca/courses/67116/modules/items/2120566)  
 [Design Thinking](https://canvas.sfu.ca/courses/67116/modules/items/2120562)  
 [Designing for Touch](https://canvas.sfu.ca/courses/67116/modules/items/2120563)  
 [Discovery Research](https://canvas.sfu.ca/courses/67116/modules/items/2120566)  
@@ -74,22 +73,17 @@
 [Problem Framing](https://canvas.sfu.ca/courses/67116/modules/items/2120568)  
 [Problem Statements](https://canvas.sfu.ca/courses/67116/modules/items/2120566)  
 [Product Reaction Cards](https://canvas.sfu.ca/courses/67116/modules/items/2120562)  
-[Prototyping](https://canvas.sfu.ca/courses/67116/modules/items/2120569)  
 
 ### R
 [Remote User Research and Usability Techniques](https://canvas.sfu.ca/courses/67116/modules/items/2120567)  
 
 ### S
-[Scenario-based Design (and Task-Centered Design)](https://canvas.sfu.ca/courses/67116/modules/items/2120569)  
-[Scenarios (also called Design Scenarios)](https://canvas.sfu.ca/courses/67116/modules/items/2120569)  
-[Sketching](https://canvas.sfu.ca/courses/67116/modules/items/2120569)
+[Scenarios (also called Design Scenarios)](https://canvas.sfu.ca/courses/67116/modules/items/2120566)  
 [Software Design Processes](https://canvas.sfu.ca/courses/67116/modules/items/2120562)  
-[Storyboards](https://canvas.sfu.ca/courses/67116/modules/items/2120569)  
 [Systems Thinking](https://canvas.sfu.ca/courses/67116/modules/items/2120562)  
 
 ### T
 [Task Analysis](https://canvas.sfu.ca/courses/67116/modules/items/2120562)  
-[Task Flows](https://canvas.sfu.ca/courses/67116/modules/items/2120569)  
 [Thematic Analysis](https://canvas.sfu.ca/courses/67116/modules/items/2120566)  
 [Typography](https://canvas.sfu.ca/courses/67116/modules/items/2120573)  
 
@@ -109,6 +103,3 @@
 [Visual Design](https://canvas.sfu.ca/courses/67116/modules/items/2120572)  
 [Visual Design Principles (CRAP)](https://canvas.sfu.ca/courses/67116/modules/items/2120572)  
 [Visual Hierarchy](https://canvas.sfu.ca/courses/67116/modules/items/2120572)
-
-### W
-[Wireframes](https://canvas.sfu.ca/courses/67116/modules/items/2120569)  
