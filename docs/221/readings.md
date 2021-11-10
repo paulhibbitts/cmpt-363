@@ -3,10 +3,10 @@
 * [What is usability and user experience design? (Week 1)](#week-1)
 * [What is the practice of multi-device interaction design? (Week 2)](#week-2)
 * [How to conduct a user interface inspection? (Week 3)](#week-3)
-* [How to bridge the gap between the problem and design space? (Week 4)](#week-4)
+* [Special topic - heuristic evaluations (Week 4)](#week-4)
 * [How to understand and communicate people's needs and behaviours? (Week 5)](#week-5)
 * [Special topic - conducting user research / Open consultation office hours (Week 6)](#week-6)
-* [How to explore and describe possible design solutions? (Week 8)](#week-8)
+* [How to bridge the gap between the problem and design space? (Week 8)](#week-8)
 * [Special topic - conducting usability tests readings / Open office consultations (Week 9)](#week-9)
 * [What are the essentials of visual interface design? (Week 11)](#week-11)
 * [Special topic - visual interface design readings / Open office consultations (Week 12)](#week-12)
@@ -41,19 +41,10 @@
 **Severity Ratings for Usability Problems (2 of 3 for Week 3)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/">Severity Ratings for Usability Problems</a></div>
 
+## Week 4
+### Special topic - heuristic evaluations
 **Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total) (3 of 3 for Week 3)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.youtube.com/watch?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA&v=gSm6bOw-KcQ">Design Heuristics Lecture with Scott Klemmer, a Video Playlist</a></div>
-
-## Week 4
-### How to bridge the gap between the problem and design space?
-**Leveraging Mental Models in Product Design (1 of 3 for Week 4)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/swlh/leveraging-mental-models-in-ux-design-21ba8fbce22d">Leveraging Mental Models in Product Design</a></div>
-
-**Don Norman’s Principles of Interaction Design (2 of 3 for Week 4)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/@sachinrekhi/don-normans-principles-of-interaction-design-51025a2c0f33">Don Norman’s Principles of Interaction Design</a></div>
-
-**Not Just Pretty: Building Emotion Into Your Websites (3 of 3 for Week 4)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2012/04/building-emotion-into-your-websites/">Not Just Pretty: Building Emotion Into Your Websites</a></div>
 
 ## Week 5
 ### How to understand and communicate people's needs and behaviours?
@@ -78,15 +69,15 @@
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://alistapart.com/article/user-research-when-you-cant-talk-to-your-users/">User Research When You Can’t Talk to Your Users</a></div>
 
 ## Week 8
-### How to explore and describe possible design solutions?
-**The Right Tool For The Job: Picking The Best Prototyping Software For Your Project (1 of 3 for Week 8)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860">The Right Tool For The Job: Picking The Best Prototyping Software For Your Project</a></div>
+### How to bridge the gap between the problem and design space?
+**Leveraging Mental Models in Product Design (1 of 3 for Week 8)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/swlh/leveraging-mental-models-in-ux-design-21ba8fbce22d">Leveraging Mental Models in Product Design</a></div>
 
-**Using scenarios in design (2 of 3 for Week 8)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://fordes.de/posts/usingscenariosindesign.html">Using scenarios in design</a></div>
+**Don Norman’s Principles of Interaction Design (2 of 3 for Week 8)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/@sachinrekhi/don-normans-principles-of-interaction-design-51025a2c0f33">Don Norman’s Principles of Interaction Design</a></div>
 
-**What Is The Role Of Creativity In UX Design? (3 of 3 for Week 8)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2018/12/role-of-creativity-ux-design/">What Is The Role Of Creativity In UX Design?</a></div>
+**Not Just Pretty: Building Emotion Into Your Websites (3 of 3 for Week 8)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2012/04/building-emotion-into-your-websites/">Not Just Pretty: Building Emotion Into Your Websites</a></div>
 
 ## Week 9
 ### Special topic - conducting usability tests readings / Open office consultations
