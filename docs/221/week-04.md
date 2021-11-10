@@ -1,40 +1,25 @@
-![Device Controls](images/13255989495_f545afea09_o.jpg ':class=banner-image')
+![Abstract Image](images/dave-hoefler-vl2uAIdBWJ8-unsplash.jpg ':class=banner-image')
 
-# How to bridge the gap between the problem and design space?
-
-## BlackBoard Collaborate Session Slides
-[Conceptual Models — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-04) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
-
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+# Special topic — heuristic evaluations / Open office consultation hours
 
 ## Open Office Consultations
-No regularly scheduled Thursday Blackboard Collaborate session.
+No regularly scheduled Tuesday Blackboard Collaborate session.
+
+## BlackBoard Collaborate Session Slides
+
+[Week 4 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vRK7kZ6MTdZX2CBGjV95n_xMlB_FJ7PChhHVvh2tvnzo9WRrkdambOPuVuWhG3RrbNTupOR9E5jD4ad/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-04) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
+
+<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRK7kZ6MTdZX2CBGjV95n_xMlB_FJ7PChhHVvh2tvnzo9WRrkdambOPuVuWhG3RrbNTupOR9E5jD4ad/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## One-minute Summaries & Questions
-[Leveraging Mental Models in Product Design](https://canvas.sfu.ca/courses/67116/assignments/662744) <span class='badge'>[Thu Feb 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220203T235900&p1=256)</span>  
-[Don Norman’s Principles of Interaction Design](https://canvas.sfu.ca/courses/67116/assignments/662745) <span class='badge'>[Thu Feb 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220203T235900&p1=256)</span>  
-[Not Just Pretty: Building Emotion Into Your Websites](https://canvas.sfu.ca/courses/67116/assignments/662756) <span class='badge'>[Thu Feb 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220203T235900&p1=256)</span>  
+[Design Heuristics Lecture with Scott Klemmer, a Video Playlist](https://canvas.sfu.ca/courses/67116/assignments/711254) <span class='badge'> [Wed Oct 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20211006T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
-[Week 8 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/662772) <span class='badge'> [Sun Feb 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+8+Visual+Journal+Entry+Due+Date&iso=20220206T235900)</span>  
+No visual journal entry this week.  
 
 ## Required Readings  
-[Leveraging Mental Models in Product Design (11 minute read)](https://medium.com/swlh/leveraging-mental-models-in-ux-design-21ba8fbce22d)  
-[Don Norman’s Principles of Interaction Design (8 minute read)](https://medium.com/@sachinrekhi/don-normans-principles-of-interaction-design-51025a2c0f33)  
-[Not Just Pretty: Building Emotion Into Your Websites (15 minute read)](https://www.smashingmagazine.com/2012/04/building-emotion-into-your-websites/)  
+[Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total)](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
 
-## Supplemental Videos  
-[Mind the gap, user centered design in large organizations with Luke Wroblewski](https://www.youtube.com/watch?v=mAiNdU1go1A)  
-<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/mAiNdU1go1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
-## Supplemental Readings  
-
-[Conceptual Models](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/conceptual-models.md ':include')
-
-[Emotional Design](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/emotional-design.md ':include')
-
-[HCI Laws and Cognitive Psychology](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/hci-laws.md ':include')
-
-[Inclusive Design](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/inclusive-design.md ':include')  
-
-[Problem Framing](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/problem-framing.md ':include')
+## Nielsen’s 10 Heuristics, as updated by Scott Klemmer
+![Nielsen's Heuristics, as revised by Scott Klemmer](https://images.squarespace-cdn.com/content/v1/546aeb13e4b06c7939161700/1496978769820-M1463IA9HEPB2VGXST1J/ke17ZwdGBToddI8pDm48kFl28Fv_rBK6U19lUwXhUe5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxa0tF9mSBjJriQQo24NOBjwQexw4zSBSEILIX37zXwGQYoF0k1-7C-e0ggxJBzRnU/image-asset.jpeg?format=700w)  
+Image source: [UX And Design Thinking: 5 Tips For Changing Your Company Mindset](https://www.dreamerux.com/articles/yn7fwsfl6r76n8f88msdgchsa6mny5)
