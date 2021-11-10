@@ -34,11 +34,11 @@
 
 ## :fas fa-calendar fa-fw: [Week 4 (Jan 31 - Feb 6)](221/week-04)
 **Special topic - heuristic evaluations / Open office consultation hours**  
-:fas fa-desktop fa-fw: Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-05) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544)] <span class='badge'> [Tue Oct 5 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20211005T1430&p1=256&ah=1&am=50)</span>  
-:fas fa-desktop fa-fw: Review and Discussion [[PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-05) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544)] <span class='badge'> [Thu Oct 7 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20211007T1430&p1=256&am=50)</span>   
+:fas fa-users fa-fw: Open Office Consultations <span class='badge'> [Tue Feb 1 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Open+Office+Consultations&iso=20220201T1430&p1=256&am=50)</span>  
+:fas fa-desktop fa-fw: Review and Discussion [[PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-05) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544)] <span class='badge'> [Fri Feb 4 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20220204T1430&p1=256&am=50)</span>   
 :fas fa-book fa-fw: [Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total)](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
-:fas fa-keyboard fa-fw: [One-minute Summaries for Week 5](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Wed Oct 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20211006T235900&p1=256)</span>  
-:fas fa-image fa-fw: No visual journal entry     
+:fas fa-keyboard fa-fw: [One-minute Summaries for Week 5](https://canvas.sfu.ca/courses/64326/discussion_topics) <span class='badge'> [Thu Feb 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20220203T235900&p1=256)</span>  
+:fas fa-image fa-fw: No visual journal entry    
 
 ## :fas fa-calendar fa-fw: [Week 5 (Feb 7 - 13)](221/week-05)
 **How to understand and communicate people's needs and behaviours?**  
