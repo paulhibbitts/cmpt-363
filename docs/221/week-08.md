@@ -7,8 +7,12 @@
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
-## Open Office Consultations
-No regularly scheduled Thursday Blackboard Collaborate session.
+[Week 8 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-08) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
+
+<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+
+## Assignments
+[Design Scenarios and Storyboard Wireframes](https://canvas.sfu.ca/courses/67116/assignments/662760) <span class='badge'> [Mon Mar 14 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Wireframes+Assignment+Due+Date&iso=20220314T2359&p1=256)</span>    
 
 ## One-minute Summaries & Questions
 [Leveraging Mental Models in Product Design](https://canvas.sfu.ca/courses/67116/assignments/710564) <span class='badge'>[Thu Feb 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220203T235900&p1=256)</span>  
