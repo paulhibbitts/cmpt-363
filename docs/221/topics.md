@@ -1,6 +1,6 @@
 # Topics
 
-### [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | K | [L](#l) | M | [N](#n) | [O](#o) | [P](#p) | Q | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | X | Y | Z  
+### [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | K | [L](#l) | M | [N](#n) | [O](#o) | [P](#p) | Q | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | W | X | Y | Z  
 
 ### A
 [Accessibility](221/week-12)  
@@ -13,11 +13,10 @@
 [Color](221/week-12)  
 [Conceptual Models](221/week-04)  
 [Contextual Inquiry](221/week-05)  
-[Creativity](221/week-08)  
 
 ### D
 [Design Ethics](221/week-01)  
-[Design Scenarios (also called Scenarios)](221/week-08)  
+[Design Scenarios (also called Scenarios)](221/week-05)  
 [Design Thinking](221/week-01)  
 [Designing for Touch](221/week-02)  
 [Discovery Research](221/week-05)  
@@ -75,22 +74,17 @@
 [Problem Framing](221/week-04)  
 [Problem Statements](221/week-05)  
 [Product Reaction Cards](221/week-01)  
-[Prototyping](221/week-08)  
 
 ### R
 [Remote User Research and Usability Techniques](221/week-06)  
 
 ### S
-[Scenario-based Design (and Task-Centered Design)](221/week-08)  
-[Scenarios (also called Design Scenarios)](221/week-08)  
-[Sketching](221/week-08)
+[Scenarios (also called Design Scenarios)](221/week-05)  
 [Software Design Processes](221/week-01)  
-[Storyboards](221/week-08)  
 [Systems Thinking](221/week-01)  
 
 ### T
 [Task Analysis](221/week-01)  
-[Task Flows](221/week-08)  
 [Thematic Analysis](221/week-05)  
 [Typography](221/week-12)  
 
@@ -110,6 +104,3 @@
 [Visual Design](221/week-11)  
 [Visual Design Principles (CRAP)](221/week-11)  
 [Visual Hierarchy](221/week-11)  
-
-### W
-[Wireframes](221/week-08)  
