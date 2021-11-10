@@ -32,7 +32,7 @@
 [Five Whys](221/week-05)  
 
 ### G
-[Grids](221/week-12)  
+[Grids](221/week-11)  
 
 ### H
 [HCI Laws](221/week-02)  
@@ -81,12 +81,11 @@
 ### S
 [Scenarios (also called Design Scenarios)](221/week-05)  
 [Software Design Processes](221/week-01)  
-[Systems Thinking](221/week-01)  
 
 ### T
 [Task Analysis](221/week-01)  
 [Thematic Analysis](221/week-05)  
-[Typography](221/week-12)  
+[Typography](221/week-11)  
 
 ### U
 [Usability](221/week-01)  
