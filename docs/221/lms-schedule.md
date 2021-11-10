@@ -67,7 +67,7 @@
 No classes.
 
 ## :fas fa-calendar fa-fw: [Week 8 (Feb 28 - Mar 6)](https://canvas.sfu.ca/courses/67116/modules/items/2294808)
-**How to bridge the gap between the problem and design space? / Open office consultations**        
+**How to bridge the gap between the problem and design space?**        
 :fas fa-check fa-fw: [User Research Assignment due](https://canvas.sfu.ca/courses/67116/assignments/662762) <span class='badge'> [Mon Feb 28 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+User+Research+Assignment+Due+Date&iso=20220228T2359&p1=256)</span>  
 :fas fa-pen fa-fw: [Storyboard Wireframes Assignment](https://canvas.sfu.ca/courses/67116/assignments/662760) <span class='badge'> [Mon Mar 14 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Wireframes+Assignment+Due+Date&iso=20220314T2359&p1=256)</span>  
 :fas fa-desktop fa-fw: Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-04) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544)] <span class='badge'> [Tue Feb 1 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20220201T1430&p1=256&ah=1&am=50)</span>  
