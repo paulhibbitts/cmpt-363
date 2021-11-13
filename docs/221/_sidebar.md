@@ -31,5 +31,9 @@
     --link-text-decoration--hover: underline;
 
   }
+  
+  body .pagination-item-title {
+      color: #A6192E;
+  }
 
 </style>
