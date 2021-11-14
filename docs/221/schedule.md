@@ -84,6 +84,7 @@ No classes.
 :fas fa-desktop fa-fw: Review and Discussion [[PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-09) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544)] <span class='badge'> [Fri Mar 11 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20220311T1430&p1=256&am=50)</span>  
 :fas fa-book fa-fw: [Usability Testing Guide (14 minute read)](https://boxesandarrows.com/usability-testing-guide/)  
 :fas fa-book fa-fw: [Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid (10 minute read)](https://www.nngroup.com/articles/better-usability-tasks/)  
+:fas fa-book fa-fw: [Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (Config) (17 minute video)](https://www.youtube.com/watch?v=vcV5Y7QaV4g)  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 9](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Thu Mar 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20220310T235900&p1=256)</span>  
 :fas fa-image fa-fw: No visual journal entry  
 
