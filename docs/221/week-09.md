@@ -21,7 +21,7 @@ No visual journal entry this week.
 ## Required Readings  
 [Usability Testing Guide (14 minute read)](https://boxesandarrows.com/usability-testing-guide/)  
 [Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid (10 minute read)](https://www.nngroup.com/articles/better-usability-tasks/)  
-[https://www.youtube.com/watch?v=vcV5Y7QaV4g (17 minute video)](https://www.youtube.com/watch?v=vcV5Y7QaV4g)  
+[Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (Config) (17 minute video)](https://www.youtube.com/watch?v=vcV5Y7QaV4g)  
 
 ## Supplemental Videos  
 [Rocket Surgery Made Easy by Steve Krug: Usability Demo](https://www.youtube.com/watch?v=1UCDUOB_aS8)  
