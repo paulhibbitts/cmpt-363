@@ -4,7 +4,7 @@
 <style>
   :root {
 
-    --link-color: #A6192E;
+    --link-color: #CC0633;
     --link-text-decoration: none;
     --link-text-decoration--hover: underline;
 
