@@ -81,11 +81,15 @@
 
 ## Week 9
 ### Special topic - conducting usability tests readings / Open office consultations
-**Usability Testing Guide (1 of 2 for Week 9)**  
+**Usability Testing Guide (1 of 3 for Week 9)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://boxesandarrows.com/usability-testing-guide/">Usability Testing Guide</a></div>
 
-**Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid (2 of 2 for Week 9)**  
+**Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid (2 of 3 for Week 9)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/better-usability-tasks/">Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid</a></div>
+
+**Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (Config) (3 of 3 for Week 9)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.youtube.com/watch?v=vcV5Y7QaV4g">Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (Config)</a></div>
+
 
 ## Week 11
 ### What are the essentials of visual interface design?
@@ -100,8 +104,11 @@
 
 ## Week 12
 ### Special topic - visual interface design readings / Open office consultations
-**10 Principles for Color Usage in UI Design (1 of 2 for Week 12)**  
+**10 Principles for Color Usage in UI Design (1 of 3 for Week 12)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004">10 Principles for Color Usage in UI Design</a></div>
 
-**7 Things Every Designer Needs to Know about Accessibility (2 of 2 for Week 12)**  
+**7 Things Every Designer Needs to Know about Accessibility (2 of 3 for Week 12)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b">7 Things Every Designer Needs to Know about Accessibility</a></div>
+
+**Inclusive Design: An Overview of Current Thinking (3 of 3 for Week 12)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.uxmatters.com/mt/archives/2019/08/inclusive-design-an-overview-of-current-thinking.php">Inclusive Design: An Overview of Current Thinking</a></div>
