@@ -31,9 +31,13 @@
     --link-text-decoration--hover: underline;
 
   }
-  
+
   body .pagination-item-title {
       color: #A6192E;
+  }
+
+  .markdown-section  #docsify-darklight-theme {
+      visibility: visible;
   }
 
 </style>
