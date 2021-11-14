@@ -10,4 +10,7 @@
 
   }
 
+  .markdown-section  #docsify-darklight-theme {
+      visibility: visible;
+  }
 </style>
