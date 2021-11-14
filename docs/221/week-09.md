@@ -11,8 +11,9 @@ No regularly scheduled Tuesday Blackboard Collaborate session.
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## One-minute Summaries & Questions
-[Usability Testing Guide](https://canvas.sfu.ca/courses/67116/assignments/662743) <span class='badge'> [Thu Mar 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220310T235900&p1=256)</span>  
-[Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid](https://canvas.sfu.ca/courses/67116/assignments/662738) <span class='badge'> [Thu Mar 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220310T235900&p1=256)</span>  
+[Usability Testing Guide](https://canvas.sfu.ca/courses/67116/assignments/662743) <span class='badge'> [Thu Mar 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20220310T235900&p1=256)</span>  
+[Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid](https://canvas.sfu.ca/courses/67116/assignments/662738) <span class='badge'> [Thu Mar 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20220310T235900&p1=256)</span>  
+[Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (Config)](https://canvas.sfu.ca/courses/67116/discussion_topics/1382580) <span class='badge'> [Thu Mar 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20220310T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
 No visual journal entry this week.
@@ -20,6 +21,7 @@ No visual journal entry this week.
 ## Required Readings  
 [Usability Testing Guide (14 minute read)](https://boxesandarrows.com/usability-testing-guide/)  
 [Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid (10 minute read)](https://www.nngroup.com/articles/better-usability-tasks/)  
+[https://www.youtube.com/watch?v=vcV5Y7QaV4g (17 minute video)](https://www.youtube.com/watch?v=vcV5Y7QaV4g)  
 
 ## Supplemental Videos  
 [Rocket Surgery Made Easy by Steve Krug: Usability Demo](https://www.youtube.com/watch?v=1UCDUOB_aS8)  
