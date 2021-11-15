@@ -34,79 +34,10 @@ body .app-nav {
   font-family: "Lato", "Helvetica Neue", Arial, sans-serif;
   font-size: 16px;
   line-height: 1.4;
-  margin-right: -10px;
 }
 
 .app-nav:not(:empty)~main .markdown-section {
   padding-top: 6.5rem;
-}
-
-.markdown-section h1 {
-  line-height: 1.5rem;
-}
-
-.markdown-section h2 {
-  line-height: 1.4rem;
-}
-
-.markdown-section h3 {
-  line-height: 1.15rem;
-}
-
-.markdown-section h4 {
-  line-height: 1.15rem;
-}
-
-.markdown-section h5 {
-  line-height: 1.15rem;
-}
-
-.markdown-section h6 {
-  line-height: 1.1rem;
-}
-
-@media only screen and (max-width: 480px) {
-
-   .markdown-section h1 {
-      font-size: 1.35rem;
-      line-height: 1.45rem;
-   }
-
-   .markdown-section h2 {
-      font-size: 1.25rem;
-      line-height: 1.35rem;
-   }
-
-   .markdown-section h3 {
-      font-size: 1.15rem;
-      line-height: 1.25rem;
-   }
-
-   .markdown-section h4 {
-      font-size: 1.10rem;
-      line-height: 1.15rem;
-   }
-
-   .markdown-section h5 {
-      font-size: 1.05rem;
-      line-height: 1.1rem;
-   }
-
-   .markdown-section h6 {
-      font-size: 1rem;
-      line-height: 1rem;
-   }
-
-}
-
-.markdown-section .badge {
-  vertical-align: middle;
-  margin-top: -0.4em;
-}
-
-.markdown-section .button {
-  padding: 10px;
-  line-height: 1.2rem;
 }
 
 .markdown-section  #docsify-darklight-theme {
