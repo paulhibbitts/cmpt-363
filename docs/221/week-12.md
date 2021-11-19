@@ -2,7 +2,7 @@
 
 # Special topic — visual interface design
 
-## Open Office Consultations
+## Open Consultation Hours
 No regularly scheduled Tuesday Blackboard Collaborate session.
 
 ## BlackBoard Collaborate Session Slides

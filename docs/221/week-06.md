@@ -2,7 +2,7 @@
 
 # Special topic - conducting user research
 
-## Open Office Consultations
+## Open Consultation Hours
 No regularly scheduled Tuesday Blackboard Collaborate session.
 
 ## BlackBoard Collaborate Session Slides
@@ -10,7 +10,7 @@ No regularly scheduled Tuesday Blackboard Collaborate session.
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
-## Open Office Consultations
+## Open Consultation Hours
 No regularly scheduled Tuesday Blackboard Collaborate session.
 
 ## One-minute Summaries & Questions

@@ -2,7 +2,7 @@
 
 # Special topic — heuristic evaluations / Open office consultation hours
 
-## Open Office Consultations
+## Open Consultation Hours
 No regularly scheduled Tuesday Blackboard Collaborate session.
 
 ## BlackBoard Collaborate Session Slides
