@@ -53,7 +53,7 @@
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 5](https://canvas.sfu.ca/courses/67116/assignments) <span class='badge'> [Sun Feb 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+5+Visual+Journal+Entry+Due+Date&iso=20220213T235900)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 6 (Feb 14 - 20)](221/week-06)
-**Special topic - conducting user research readings / Open consultation and discussion**  
+**Special topic - conducting user research  / Open consultation and discussion**  
 :fas fa-users fa-fw: Open Consultation and Discussion <span class='badge'> [Tue Feb 15 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Open+Office+Consultations&iso=20220215T1430&p1=256&am=50)</span>  
 :fas fa-desktop fa-fw: Assignment and Readings Review [[PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-06) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544)] <span class='badge'> [Fri Feb 18 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20220218T1430&p1=256&am=50)</span>  
 :fas fa-book fa-fw: [How to Run Remote User Research (Like a Boss!) (6 minute read)](https://medium.com/mixed-methods/how-to-run-remote-user-research-like-a-boss-b3729954f03)  
@@ -79,7 +79,7 @@ No classes.
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 8](https://canvas.sfu.ca/courses/67116/assignments) <span class='badge'> [Sun Mar 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+8+Visual+Journal+Entry+Due+Date&iso=20220306T235900)</span>
 
 ## :fas fa-calendar fa-fw: [Week 9 (Mar 7 - 13)](221/week-09)
-**Special topic - conducting usability tests readings / Open consultation and discussion**  
+**Special topic - conducting usability tests  / Open consultation and discussion**  
 :fas fa-users fa-fw: Open Consultation and Discussion <span class='badge'> [Tue Mar 8 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Open+Office+Consultations&iso=20220308T1430&p1=256&am=50)</span>  
 :fas fa-desktop fa-fw: Assignment and Readings Review [[PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-09) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544)] <span class='badge'> [Fri Mar 11 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20220311T1430&p1=256&am=50)</span>  
 :fas fa-book fa-fw: [Usability Testing Guide (14 minute read)](https://boxesandarrows.com/usability-testing-guide/)  
@@ -110,7 +110,7 @@ No classes.
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 11](https://canvas.sfu.ca/courses/67116/assignments) <span class='badge'> [Sun Mar 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+11+Visual+Journal+Entry+Due+Date&iso=20220328T235900)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 12 (Mar 28 - Apr 3)](221/week-12)
-**Special topic - visual interface design readings / Open consultation and discussion**  
+**Special topic - visual interface design  / Open consultation and discussion**  
 :fas fa-users fa-fw: Open Consultation and Discussion <span class='badge'> [Tue Mar 29 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Open+Office+Consultations&iso=20220329T1430&p1=256&am=50)</span>  
 :fas fa-desktop fa-fw: Assignment and Readings Review [[PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-12) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544)] <span class='badge'> [Fri Apr 1 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20220401T1430&p1=256&am=50)</span>  
 :fas fa-book fa-fw: [10 Principles for Color Usage in UI Design (8 minute read)](https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004)  
