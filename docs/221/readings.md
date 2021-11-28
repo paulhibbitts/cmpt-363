@@ -3,7 +3,7 @@
 * [What is usability and user experience design? (Week 1)](#week-1)
 * [What is the practice of multi-device interaction design? (Week 2)](#week-2)
 * [How to conduct a user interface inspection? (Week 3)](#week-3)
-* [Special topic - heuristic evaluations (Week 4)](#week-4)
+* [Special topic - heuristic evaluations / Open consultation and discussion (Week 4)](#week-4)
 * [How to understand and communicate people's needs and behaviours? (Week 5)](#week-5)
 * [Special topic - conducting user research / Open consultation office hours (Week 6)](#week-6)
 * [How to bridge the gap between the problem and design space? (Week 8)](#week-8)
