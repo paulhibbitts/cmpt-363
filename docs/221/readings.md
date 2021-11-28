@@ -7,9 +7,9 @@
 * [How to understand and communicate people's needs and behaviours? (Week 5)](#week-5)
 * [Special topic - conducting user research / Open consultation office hours (Week 6)](#week-6)
 * [How to bridge the gap between the problem and design space? (Week 8)](#week-8)
-* [Special topic - conducting usability tests  / Open Consultation and Discussion (Week 9)](#week-9)
+* [Special topic - conducting usability tests  / Open consultation and discussion (Week 9)](#week-9)
 * [What are the essentials of visual interface design? (Week 11)](#week-11)
-* [Special topic - visual interface design  / Open Consultation and Discussion (Week 12)](#week-12)
+* [Special topic - visual interface design  / Open consultation and discussion (Week 12)](#week-12)
 
 ## Week 1
 ### What is usability and user experience design?
