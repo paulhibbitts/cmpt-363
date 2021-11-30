@@ -23,9 +23,9 @@
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vTmrgSX59VMbZAvRwl5OWgfcVL9LjzPq3_Lml9CpCdnCafN94JxfHehaPhoZ3yEYTFX9fNMgVUPHdpO/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
-[Week 12 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vTmrgSX59VMbZAvRwl5OWgfcVL9LjzPq3_Lml9CpCdnCafN94JxfHehaPhoZ3yEYTFX9fNMgVUPHdpO/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-12) | [Recording ](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
+[Week 12 Review and Discussion](https://docs.google.com/presentation/d/e/2PACX-1vQOPJLJrmOx1Bf6fd3lyW7l0VwaszMcg_ReWvzOq3D8UISZquaA3LPzzUfMpn_IyWfGK-zMd_065Ugy/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-12) | [Recording ](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
 
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRdfDDdBLFcwOJ4qUNWlGzyffy8qmRVZ32nsNwjT_Y2RjaBiFskNiVZKyTEWODwQqU1A1G85HAG9PaL/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQOPJLJrmOx1Bf6fd3lyW7l0VwaszMcg_ReWvzOq3D8UISZquaA3LPzzUfMpn_IyWfGK-zMd_065Ugy/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Assignment Resources  
 
@@ -34,6 +34,8 @@ _Desktop app interactive prototying tool._
 *   [Adobe XD Downloads](https://www.adobe.com/ca/products/xd.html)
 *   [23 Useful Adobe XD Tips, Tricks and Tutorials](https://bashooka.com/resources/adobe-xd-tips-tricks-and-tutorials/)
 *   [Adobe XD tutorials](https://helpx.adobe.com/ca/xd/tutorials.html)
+*   [Add Animation to UX/UI Designs With Auto-Animate | Adobe XD](https://www.adobe.com/ca/products/xd/features/auto-animate.html)
+*   [Free UI Kits & Templates: Apple iOS, Material Design & More](https://www.adobe.com/ca/products/xd/features/ui-kits.html)
 *   [FontAwesome Adobe Experience Design - Adobe XD](https://github.com/boraunal/FontAwesome-AdobeExperience-Design-XD)
 *   [Learning the basics of Adobe XD in one hour](https://medium.com/drill/learning-the-basics-of-adobe-xd-in-one-hour-3537f3ac02a3)  
 *   [Repeat Grid](https://www.xdguru.com/adobe-xd-guide/repeat-grid/)
@@ -45,7 +47,9 @@ _Web-based interactive prototying tool._
 *   [Figma Web App](https://www.figma.com/)
 *   [Figma Help Centre](https://help.figma.com/hc/en-us)
 *   [10 tips on using components in Figma](https://medium.com/design-with-figma/10-tips-on-using-components-in-figma-c7db9c5e7fe1)
+*   [Figma: 5 ways to add animation to your designs](https://uxdesign.cc/figma-5-ways-to-add-animation-to-your-designs-e3c521aa8902)
 *   [Figma 101: An introduction tutorial](https://www.youtube.com/watch?v=cCNLD5IZY34)
+*   [Community – Figma](https://www.figma.com/community/explore)
 *   [Figma tips and tricks](https://blog.prototypr.io/figma-tips-and-tricks-1c07ec13b696)  
 *   [Figma Tutorial: How (and Why) To Use It For Your Next Project](https://snipcart.com/blog/how-to-use-figma-tutorial)  
 *   [Figma UI Design Tutorial: Get Started in Just 24 Minutes! (2021)](https://www.youtube.com/watch?v=FTFaQWZBqQ8)  

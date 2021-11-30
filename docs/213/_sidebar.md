@@ -15,14 +15,13 @@
 - [Week 12 (Nov 22 - 28)](213/week-12)
 - [Week 13 (Nov 29 - Dec 5)](213/week-13)
 - [Week 14 (Dec 6 - 12)](213/week-14)
-- **Course Tools**
-[![Calendar](https://icongr.am/fontawesome/calendar.svg?size=16&color=6D6F71) Calendar](https://canvas.sfu.ca/calendar)
-[![Assignments](https://icongr.am/fontawesome/pencil.svg?size=16&color=6D6F71) Assignments](https://canvas.sfu.ca/courses/64326/assignments)
-[![Discussions](https://icongr.am/fontawesome/comments-o.svg?size=16&color=6D6F71) Discussions](https://canvas.sfu.ca/courses/64326/discussion_topics)
-[![Files](https://icongr.am/fontawesome/folder.svg?size=16&color=6D6F71) Files](https://canvas.sfu.ca/courses/64326/files)
-[![Grades](https://icongr.am/fontawesome/calculator.svg?size=16&color=6D6F71) Grades](https://canvas.sfu.ca/courses/64326/gradebook)
-[![Syllabus](https://icongr.am/fontawesome/list.svg?size=16&color=6D6F71) Syllabus](https://canvas.sfu.ca/courses/64326/assignments/syllabus)  
-
+- **LMS Links**
+ - [![Calendar](https://icongr.am/fontawesome/calendar.svg?size=16&color=6D6F71) Calendar](https://canvas.sfu.ca/calendar)
+ - [![Assignments](https://icongr.am/fontawesome/pencil.svg?size=16&color=6D6F71) Assignments](https://canvas.sfu.ca/courses/64326/assignments)
+ - [![Discussions](https://icongr.am/fontawesome/comments-o.svg?size=16&color=6D6F71) Discussions](https://canvas.sfu.ca/courses/64326/discussion_topics)
+ - [![Files](https://icongr.am/fontawesome/folder.svg?size=16&color=6D6F71) Files](https://canvas.sfu.ca/courses/64326/files)
+ - [![Grades](https://icongr.am/fontawesome/calculator.svg?size=16&color=6D6F71) Grades](https://canvas.sfu.ca/courses/64326/gradebook)
+ - [![Syllabus](https://icongr.am/fontawesome/list.svg?size=16&color=6D6F71) Syllabus](https://canvas.sfu.ca/courses/64326/assignments/syllabus)  
 
 <style>
   :root {
@@ -31,6 +30,14 @@
     --link-text-decoration: none;
     --link-text-decoration--hover: underline;
 
+  }
+
+  body .pagination-item-title {
+      color: #CC0633;
+  }
+
+  .markdown-section  #docsify-darklight-theme {
+      visibility: visible;
   }
 
 </style>
