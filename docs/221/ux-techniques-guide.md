@@ -7,7 +7,11 @@
 
 [Agile](ux-techniques-guide/01.what-is-usability-and-user-experience-design/agile-ux.md ':include')
 
+[Bias](ux-techniques-guide/01.what-is-usability-and-user-experience-design/bias.md ':include')
+
 [Design Ethics](ux-techniques-guide/01.what-is-usability-and-user-experience-design/design-ethics.md ':include')
+
+[Emotional Design](ux-techniques-guide/01.what-is-usability-and-user-experience-design/emotional-design.md ':include')
 
 [Hypothesis](ux-techniques-guide/01.what-is-usability-and-user-experience-design/hypothesis.md ':include')
 
@@ -33,6 +37,10 @@
 [Chatbots](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/chatbots.md ':include')
 
 [Content Prioritization](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/content-prioritization.md ':include')
+
+[Design Patterns](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/design-patterns.md ':include')
+
+[Design Systems](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/design-systems.md ':include')
 
 [Designing for Touch](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/designing-for-touch.md ':include')
 
@@ -60,8 +68,6 @@
   <summary>How to Understand and Communicate People's Needs and Behaviours?</summary>
 
 [Affinity Diagrams](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/affinity-diagrams.md ':include')
-
-[Bias](ux-techniques-guide/01.what-is-usability-and-user-experience-design/bias.md ':include')
 
 [Card Sorts](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/card-sorts.md ':include')
 
@@ -110,113 +116,102 @@
 <details>
   <summary>How to Bridge the Gap Between the Problem and Design Space? </summary>
 
-[Accessibility](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/accessibility.md ':include')
+[Brainstorming](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/brainstorming.md ':include')
+
+[Concept Maps](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/concept-maps.md ':include')
+
+[Creativity](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/creativity.md ':include')
 
 [Conceptual Models](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/conceptual-models.md ':include')
 
-[Content Inventories](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/content-inventories.md ':include')
+[Conceptualizing Interaction](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/conceptualizing-interaction.md ':include')
 
-[Emotional Design](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/emotional-design.md ':include')
+[Content Inventories](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/content-inventories.md ':include')
 
 [Inclusive Design](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/inclusive-design.md ':include')
 
 [Information Architecture](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/information-architecture.md ':include')
 
+[Problem Reframing](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/problem-reframing.md ':include')
+
 [Product Design Principles](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/product-design-principles.md ':include')
 
-</details>
+[Process Flows](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/process-flows.md ':include')
 
-<details>
-  <summary>How to Explore and Describe Possible Design Solutions?</summary>
+[Prototyping](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/prototyping.md ':include')
 
-[Brainstorming](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/brainstorming.md ':include')
+[Scenarios](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/scenarios.md ':include')
 
-[Concept Maps](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/concept-maps.md ':include')
+[Site Maps](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/site-maps.md ':include')
 
-[Creativity](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/creativity.md ':include')
+[Sketching](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/sketching.md ':include')
 
-[Conceptualizing Interaction](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/conceptualizing-interaction.md ':include')
+[Storyboards](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/storyboards.md ':include')
 
-[Design Patterns](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/design-patterns.md ':include')
+[Wireflows](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/wireflows.md ':include')
 
-[Design Systems](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/design-systems.md ':include')
-
-[Problem Reframing](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/problem-reframing.md ':include')
-
-[Process Flows](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/process-flows.md ':include')
-
-[Prototyping](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/prototyping.md ':include')
-
-[Scenarios](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/scenarios.md ':include')
-
-[Site Maps](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/site-maps.md ':include')
-
-[Sketching](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/sketching.md ':include')
-
-[Storyboards](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/storyboards.md ':include')
-
-[Wireflows](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/wireflows.md ':include')
-
-[Wireframes](ux-techniques-guide/05.how-to-explore-and-describe-possible-design-solutions/wireframes.md ':include')
+[Wireframes](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/wireframes.md ':include')
 
 </details>
 
 <details>
   <summary>What are the Essentials of Effective Visual Design?</summary>
 
-[Color](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/color.md ':include')
+[Accessibility](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/accessibility.md ':include')
 
-[Color Tools](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/color-tools.md ':include')
+[Color](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/color.md ':include')
 
-[Grids](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/grids.md ':include')
+[Color Tools](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/color-tools.md ':include')
 
-[Hierarchy](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/hierarchy.md ':include')
+[Grids](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/grids.md ':include')
 
-[Icons](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/icons.md ':include')
+[Hierarchy](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/hierarchy.md ':include')
 
-[Interface Animation](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/interface-animation.md ':include')
+[Icons](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/icons.md ':include')
 
-[Layout](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/layout.md ':include')
+[Interface Animation](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/interface-animation.md ':include')
 
-[Microcopy](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/microcopy.md ':include')  
+[Layout](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/layout.md ':include')
 
-[Motion Design](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/motion-design.md ':include')
+[Microcopy](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/microcopy.md ':include')  
 
-[Terminology](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/terminology.md ':include')
+[Motion Design](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/motion-design.md ':include')
 
-[Typography](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/typography.md ':include')
+[Terminology](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/terminology.md ':include')
 
-[Visual Design Principles (CRAP)](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/visual-design-principles.md ':include')
+[Typography](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/typography.md ':include')
 
-[Visual Interface Design](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/visual-interface-design.md ':include')
+[Visual Design Principles (CRAP)](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/visual-design-principles.md ':include')
+
+[Visual Interface Design](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/visual-interface-design.md ':include')
 
 </details>
 
 <details>
   <summary>How to Conduct a User Interface Inspection? </summary>
 
-[Cognitive Walkthrough](ux-techniques-guide/07.how-to-conduct-a-user-interface-inspection/cognitive-walkthroughs.md ':include')
+[Cognitive Walkthrough](ux-techniques-guide/06.how-to-conduct-a-user-interface-inspection/cognitive-walkthroughs.md ':include')
 
-[Heuristic Evaluations](ux-techniques-guide/07.how-to-conduct-a-user-interface-inspection/heuristic-evaluations.md ':include')
+[Heuristic Evaluations](ux-techniques-guide/06.how-to-conduct-a-user-interface-inspection/heuristic-evaluations.md ':include')
 
 </details>
 
 <details>
   <summary>How to Plan, Conduct, and Summarize Usability Tests?</summary>
 
-[Rapid Iterative Testing and Evaluation (RITE) Method](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/rapid-iterative-testing-and-evaluation-method.md ':include')
+[Rapid Iterative Testing and Evaluation (RITE) Method](ux-techniques-guide/07.how-to-plan-conduct-and-summarize-usability-tests/rapid-iterative-testing-and-evaluation-method.md ':include')
 
-[Usability Test Reports](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/usability-test-reports.md ':include')
+[Usability Test Reports](ux-techniques-guide/07.how-to-plan-conduct-and-summarize-usability-tests/usability-test-reports.md ':include')
 
-[Usability Test Surveys](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/usability-test-surveys.md ':include')
+[Usability Test Surveys](ux-techniques-guide/07.how-to-plan-conduct-and-summarize-usability-tests/usability-test-surveys.md ':include')
 
-[Usability Test Tasks](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/usability-test-tasks.md ':include')
+[Usability Test Tasks](ux-techniques-guide/07.how-to-plan-conduct-and-summarize-usability-tests/usability-test-tasks.md ':include')
 
-[Usability Testing](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/usability-testing-formal.md ':include')
+[Usability Testing](ux-techniques-guide/07.how-to-plan-conduct-and-summarize-usability-tests/usability-testing-formal.md ':include')
 
-[Informal (Guerilla) Usability Testing](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/usability-testing-informal.md ':include')
+[Informal (Guerilla) Usability Testing](ux-techniques-guide/07.how-to-plan-conduct-and-summarize-usability-tests/usability-testing-informal.md ':include')
 
-[Remote Usability Testing](ux-techniques-guide/08.how-to-plan-conduct-and-summarize-usability-tests/usability-testing-remote.md ':include')
+[Remote Usability Testing](ux-techniques-guide/07.how-to-plan-conduct-and-summarize-usability-tests/usability-testing-remote.md ':include')
 
 </details>
 
