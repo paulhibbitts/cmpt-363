@@ -1,4 +1,4 @@
-![User Research Notes](images/andre-a-xavier-al8rko2u5eE-unsplash.jpg ':class=banner-image')
+![Computer and Book](images/andre-a-xavier-al8rko2u5eE-unsplash.jpg ':class=banner-image')
 
 # Reading week
 
