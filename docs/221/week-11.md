@@ -56,18 +56,18 @@ _Web-based interactive prototying tool._
 
 ## Supplemental Readings  
 
-[Grids](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/grids.md ':include')
+[Grids](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/grids.md ':include')
 
-[Hierarchy](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/hierarchy.md ':include')
+[Hierarchy](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/hierarchy.md ':include')
 
-[Icons](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/icons.md ':include')
+[Icons](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/icons.md ':include')
 
-[Layout](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/layout.md ':include')
+[Layout](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/layout.md ':include')
 
-[Typography](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/typography.md ':include')
+[Typography](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/typography.md ':include')
 
-[UI Copy Writing](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/ui-copy-writing.md ':include')
+[UI Copy Writing](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/ui-copy-writing.md ':include')
 
-[Visual Design Principles (CRAP)](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/visual-design-principles.md ':include')
+[Visual Design Principles (CRAP)](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/visual-design-principles.md ':include')
 
-[Visual Interface Design](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/visual-interface-design.md ':include')
+[Visual Interface Design](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/visual-interface-design.md ':include')

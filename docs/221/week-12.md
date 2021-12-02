@@ -54,6 +54,6 @@ _Web-based interactive prototying tool._
 
 [Accessibility](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/accessibility.md ':include')
 
-[Color](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/color.md ':include')
+[Color](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/color.md ':include')
 
-[Color Tools](ux-techniques-guide/06.what-are-the-essentials-of-visual-design/color-tools.md ':include')
+[Color Tools](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/color-tools.md ':include')
