@@ -19,8 +19,8 @@
 **An Introduction to User Experience Design (2 of 3 for Week 1)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://marvelapp.com/blog/introduction-user-experience-design/">An Introduction to User Experience Design</a></div>
 
-**Why UX Outcomes Make Better Goals Than Business Outcomes (3 of 3 for Week 1)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://articles.uie.com/why-ux-outcomes-make-better-goals-than-business-outcomes">Why UX Outcomes Make Better Goals Than Business Outcomes</a></div>
+**The Art of Emotion — Norman’s 3 Levels of Emotional Design (3 of 3 for Week 1)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.muz.li/the-art-of-emotion-normans-3-levels-of-emotional-design-88a1fb495b1d">The Art of Emotion — Norman’s 3 Levels of Emotional Design</a></div>
 
 ## Week 2
 ### What is the practice of multi-device interaction design?
@@ -70,14 +70,14 @@
 
 ## Week 8
 ### How to bridge the gap between the problem and design space?
-**Leveraging Mental Models in Product Design (1 of 3 for Week 8)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/swlh/leveraging-mental-models-in-ux-design-21ba8fbce22d">Leveraging Mental Models in Product Design</a></div>
+**Don Norman’s seven fundamental design principles (1 of 3 for Week 8)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/ux-psychology-principles-seven-fundamental-design-principles-39c420a05f84">Don Norman’s seven fundamental design principles</a></div>
 
-**Don Norman’s Principles of Interaction Design (2 of 3 for Week 8)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/@sachinrekhi/don-normans-principles-of-interaction-design-51025a2c0f33">Don Norman’s Principles of Interaction Design</a></div>
+**The Right Tool For The Job: Picking The Best Prototyping Software For Your Project (2 of 3 for Week 8)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860">The Right Tool For The Job: Picking The Best Prototyping Software For Your Project</a></div>
 
-**Not Just Pretty: Building Emotion Into Your Websites (3 of 3 for Week 8)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2012/04/building-emotion-into-your-websites/">Not Just Pretty: Building Emotion Into Your Websites</a></div>
+**Using scenarios in design (3 of 3 for Week 8)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://fordes.de/posts/usingscenariosindesign.html">Using scenarios in design</a></div>
 
 ## Week 9
 ### Special topic - conducting usability tests  / Open Consultation and Discussion
