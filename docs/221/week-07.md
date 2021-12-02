@@ -1,4 +1,4 @@
-![User Research Notes](images/9203760174_499895dece_k.jpeg ':class=banner-image')
+![User Research Notes](images/andre-a-xavier-al8rko2u5eE-unsplash.jpg ':class=banner-image')
 
 # Reading week
 
