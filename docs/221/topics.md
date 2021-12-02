@@ -74,6 +74,7 @@
 [Problem Framing](221/week-04)  
 [Problem Statements](221/week-05)  
 [Product Reaction Cards](221/week-01)  
+[Prototyping](221/week-08)  
 
 ### R
 [Remote User Research and Usability Techniques](221/week-06)  
