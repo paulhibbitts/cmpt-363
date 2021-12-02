@@ -34,6 +34,8 @@
 ## Supplemental Readings
 [Design Ethics](ux-techniques-guide/01.what-is-usability-and-user-experience-design/design-ethics.md ':include')
 
+[Emotional Design](ux-techniques-guide/01.what-is-usability-and-user-experience-design/emotional-design.md ':include')
+
 [Hypothesis](ux-techniques-guide/01.what-is-usability-and-user-experience-design/hypothesis.md ':include')
 
 [Outcomes](ux-techniques-guide/01.what-is-usability-and-user-experience-design/outcomes.md ':include')
