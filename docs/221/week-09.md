@@ -2,7 +2,7 @@
 
 # Special topic - conducting usability tests
 
-## Open Consultation and Discussion
+## Open Work and Consultation Session
 No regularly scheduled Tuesday Blackboard Collaborate session.
 
 ## BlackBoard Collaborate Session Slides
