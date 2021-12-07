@@ -2,7 +2,7 @@
 
 # What’s Happening This Week 💫
 
-## End of the Semester 
+## End of the Semester
 
 ### Live Sessions
 
@@ -16,6 +16,8 @@
 No visual journal entry this week.
 
 </div>
+
+![SFU in the Winter](213/images/3131951949_05f3db8b98_b.jpg ':class=banner-image')
 
 # Discord Office (Student) Hours ‍👩🏽‍💻👨🏽‍💻
 
