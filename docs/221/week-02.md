@@ -2,10 +2,6 @@
 
 # What is the practice of multi-device interaction design?
 
-## Overview
-
-<div class="video-container-16by9"><iframe width="450" height="300" frameborder="0" scrolling="auto" marginheight="0" marginwidth="0" src="https://stream.sfu.ca/Media/Play/341fe3f6b5544cfda8a6507110fb995e1d" allowfullscreen msallowfullscreen allow="fullscreen"></iframe></div>
-
 ## BlackBoard Collaborate Session Slides
 [Multi-device Interaction Design — Mini-lectures and Activities](https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-02) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
 
