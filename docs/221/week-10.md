@@ -10,12 +10,20 @@
 ## Zoom Cowork and Q&A Session
 Week 10 Readings and Assignment 4 <span class='badge'> [Fri Mar 18 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220318T1430&p1=256&am=50)</span>  
 
-## Assignments
+## Assignment 4
 [Peer Design Reviews](https://canvas.sfu.ca/courses/67116/assignments/710594) <span class='badge'> [Mon Mar 21 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Wireframes+Assignment+Due+Date&iso=20220321T2359&p1=256)</span>  
 
-## Assignment Resources  
+## Assignment 4 Resources  
 
 Peer Reviews  
 _The opportunity to give feedback on the work of fellow students._  
 *   [Guidelines for Students - Peer Review](https://serc.carleton.edu/sp/library/peerreview/tips.html)
 *   [How do I submit a peer review to an assignment?](https://community.canvaslms.com/t5/Student-Guide/How-do-I-submit-a-peer-review-to-an-assignment/ta-p/293)
+
+<h2> Weekly Visual Journal Entry </h2>
+
+No visual journal entry this week.
+
+<h2> One-minute Summaries & Questions </h2>
+
+No one-minute summaries this week.

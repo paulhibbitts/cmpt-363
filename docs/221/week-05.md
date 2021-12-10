@@ -10,14 +10,8 @@
 ## Zoom Cowork and Q&A Session
 Week 5 Readings and Assignment 2 <span class='badge'> [Fri Feb 11 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220211T1430&p1=256&am=50)</span>  
 
-## Assignments
+## Assignment 2
 [User Research Assignment](https://canvas.sfu.ca/courses/67116/assignments/662762) <span class='badge'> [Mon Feb 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+User+Research+Assignment+Due+Date&iso=20220229T2359&p1=256)</span>  
-
-## One-minute Summaries & Questions
-
-[A 5-Step Process For Conducting User Research](https://canvas.sfu.ca/courses/67116/assignments/662747) <span class='badge'> [Thu Feb 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20220210T235900&p1=256)</span>  
-[How to Leverage Thematic Analysis for Better UX](https://canvas.sfu.ca/courses/67116/assignments/662748) <span class='badge'> [Thu Feb 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20220210T235900&p1=256)</span>  
-[User Need Statements: The ‘Define’ Stage in Design Thinking](https://canvas.sfu.ca/courses/67116/assignments/662736) <span class='badge'> [Thu Feb 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20220210T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
 [Week 6 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/662771) <span class='badge'> [Sun Feb 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+6+Visual+Journal+Entry+Due+Date&iso=20220213T235900)</span>  
@@ -26,6 +20,12 @@ Week 5 Readings and Assignment 2 <span class='badge'> [Fri Feb 11 2:30pm PT](htt
 [A 5-Step Process For Conducting User Research (16 minute read)](https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/)  
 [How to Leverage Thematic Analysis for Better UX (11 minute read)](https://www.toptal.com/designers/ux-research/thematic-analysis-for-ux)  
 [User Need Statements: The ‘Define’ Stage in Design Thinking (11 minute read)](https://www.nngroup.com/articles/user-need-statements/)  
+
+## One-minute Summaries & Questions
+
+[A 5-Step Process For Conducting User Research](https://canvas.sfu.ca/courses/67116/assignments/662747) <span class='badge'> [Thu Feb 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20220210T235900&p1=256)</span>  
+[How to Leverage Thematic Analysis for Better UX](https://canvas.sfu.ca/courses/67116/assignments/662748) <span class='badge'> [Thu Feb 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20220210T235900&p1=256)</span>  
+[User Need Statements: The ‘Define’ Stage in Design Thinking](https://canvas.sfu.ca/courses/67116/assignments/662736) <span class='badge'> [Thu Feb 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20220210T235900&p1=256)</span>  
 
 ## Supplemental Videos  
 [Erika Hall: Design Research Done Right](https://www.youtube.com/watch?v=1UCDUOB_aS8)  
