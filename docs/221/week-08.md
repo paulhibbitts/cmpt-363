@@ -27,7 +27,7 @@ _Web-based wireframing tool._
 *   [Working with Skins (Sketch vs. Wireframe)](https://balsamiq.com/wireframes/desktop/docs/skins/)
 
 ## Weekly Visual Journal Entry
-[Week 8 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/710591) <span class='badge'> [Sun Feb 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+8+Visual+Journal+Entry+Due+Date&iso=20220206T235900)</span>  
+[Week 8 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/710591) <span class='badge'> [Thu Feb 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+8+Visual+Journal+Entry+Due+Date&iso=20220203T235900)</span>  
 
 ## Required Readings  
 [Leveraging Mental Models in Product Design (11 minute read)](https://medium.com/swlh/leveraging-mental-models-in-ux-design-21ba8fbce22d)  
@@ -35,9 +35,9 @@ _Web-based wireframing tool._
 [Not Just Pretty: Building Emotion Into Your Websites (15 minute read)](https://www.smashingmagazine.com/2012/04/building-emotion-into-your-websites/)  
 
 ## One-minute Summaries & Questions
-[Leveraging Mental Models in Product Design](https://canvas.sfu.ca/courses/67116/assignments/710564) <span class='badge'>[Thu Feb 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220203T235900&p1=256)</span>  
-[Don Norman’s Principles of Interaction Design](https://canvas.sfu.ca/courses/67116/assignments/710563) <span class='badge'>[Thu Feb 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220203T235900&p1=256)</span>  
-[Not Just Pretty: Building Emotion Into Your Websites](https://canvas.sfu.ca/courses/67116/assignments/710552) <span class='badge'>[Thu Feb 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220203T235900&p1=256)</span>  
+[Leveraging Mental Models in Product Design](https://canvas.sfu.ca/courses/67116/assignments/710564) <span class='badge'>[Sun Feb 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220206T235900&p1=256)</span>  
+[Don Norman’s Principles of Interaction Design](https://canvas.sfu.ca/courses/67116/assignments/710563) <span class='badge'>[Sun Feb 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220206T235900&p1=256)</span>  
+[Not Just Pretty: Building Emotion Into Your Websites](https://canvas.sfu.ca/courses/67116/assignments/710552) <span class='badge'>[Sun Feb 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220206T235900&p1=256)</span>  
 
 ## Supplemental Videos  
 [Mind the gap, user centered design in large organizations with Luke Wroblewski](https://www.youtube.com/watch?v=mAiNdU1go1A)  

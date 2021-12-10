@@ -41,7 +41,7 @@ _Web-based interactive prototying tool._
 *   [Figma UI Design Tutorial: Get Started in Just 24 Minutes! (2021)](https://www.youtube.com/watch?v=FTFaQWZBqQ8)  
 
 ## Weekly Visual Journal Entry
-[Week 12 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/662765) <span class='badge'> [Sun Mar 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+12+Visual+Journal+Entry+Due+Date&iso=20220327T235900)</span>  
+[Week 12 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/662765) <span class='badge'> [Thu Mar 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+12+Visual+Journal+Entry+Due+Date&iso=20220324T235900)</span>  
 
 ## Required Readings  
 [5 Principles of Visual Design in UX (10 minute read)](https://www.nngroup.com/articles/principles-visual-design/)  
@@ -49,9 +49,9 @@ _Web-based interactive prototying tool._
 [Fundamentals of typography in user interface design (UI) (7 minute read)](https://uxdesign.cc/fundamentals-of-typography-in-user-interface-design-ui-67cdd13bfa24)  
 
 ## One-minute Summaries & Questions
-[5 Principles of Visual Design in UX](https://canvas.sfu.ca/courses/67116/assignments/662740) <span class='badge'> [Thu Mar 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20220324T235900&p1=256)</span>  
-[Visual Hierarchy: Organizing content to follow natural eye movement patterns](https://canvas.sfu.ca/courses/67116/assignments/662739) <span class='badge'> [Thu Mar 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20220324T235900&p1=256)</span>  
-[Fundamentals of typography in user interface design (UI)](https://canvas.sfu.ca/courses/67116/assignments/662734) <span class='badge'> [Thu Mar 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20220324T235900&p1=256)</span>  
+[5 Principles of Visual Design in UX](https://canvas.sfu.ca/courses/67116/assignments/662740) <span class='badge'> [Sun Mar 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20220327T235900&p1=256)</span>  
+[Visual Hierarchy: Organizing content to follow natural eye movement patterns](https://canvas.sfu.ca/courses/67116/assignments/662739) <span class='badge'> [Sun Mar 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20220327T235900&p1=256)</span>  
+[Fundamentals of typography in user interface design (UI)](https://canvas.sfu.ca/courses/67116/assignments/662734) <span class='badge'> [Sun Mar 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20220327T235900&p1=256)</span>  
 
 ## Supplemental Readings  
 
