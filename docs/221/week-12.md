@@ -2,13 +2,9 @@
 
 # Special topic — visual interface design
 
-## Open Work and Consultation Session
-No regularly scheduled Tuesday Blackboard Collaborate session.
-
-## BlackBoard Collaborate Session Slides
-[Week 12 Assignment and Readings Review](https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-12) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
-
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+## Zoom Cowork and Q&A Sessions
+Week 12 Readings and Assignment 5 <span class='badge'> [Tue Mar 29 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220329T1430&p1=256&am=50)</span>  
+Week 12 Readings and Assignment 5 <span class='badge'> [Fri Apr 1 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220401T1430&p1=256&am=50)</span>  
 
 ## One-minute Summaries & Questions
 [10 Principles for Color Usage in UI Design](https://canvas.sfu.ca/courses/67116/assignments/662741) <span class='badge'> [Thu Mar 31 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+13+Due+Date&iso=20220331T235900&p1=256)</span>  
@@ -52,7 +48,7 @@ _Web-based interactive prototying tool._
 
 ## Supplemental Readings  
 
-[Accessibility](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/accessibility.md ':include')
+[Accessibility](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/accessibility.md ':include')
 
 [Color](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/color.md ':include')
 

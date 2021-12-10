@@ -2,14 +2,9 @@
 
 # Special topic — heuristic evaluations / Open office consultation hours
 
-## Open Work and Consultation Session
-No regularly scheduled Tuesday Blackboard Collaborate session.
-
-## BlackBoard Collaborate Session Slides
-
-[Week 4 Assignment and Readings Review](https://docs.google.com/presentation/d/e/2PACX-1vRK7kZ6MTdZX2CBGjV95n_xMlB_FJ7PChhHVvh2tvnzo9WRrkdambOPuVuWhG3RrbNTupOR9E5jD4ad/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/64326/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-04) | [Recording](https://canvas.sfu.ca/courses/64326/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
-
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRK7kZ6MTdZX2CBGjV95n_xMlB_FJ7PChhHVvh2tvnzo9WRrkdambOPuVuWhG3RrbNTupOR9E5jD4ad/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+## Zoom Cowork and Q&A Sessions
+Week 4 Readings and Assignment 1 <span class='badge'> [Tue Feb 1 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Review+and+Discussions&iso=20220201T1430&p1=256&am=50)</span>  
+Week 4 Readings and Assignment 1 <span class='badge'> [Fri Feb 4 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Review+and+Discussions&iso=20220204T1430&p1=256&am=50)</span>  
 
 ## One-minute Summaries & Questions
 [Design Heuristics Lecture with Scott Klemmer, a Video Playlist](https://canvas.sfu.ca/courses/67116/assignments/711254) <span class='badge'> [Wed Oct 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20211006T235900&p1=256)</span>  

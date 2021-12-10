@@ -2,13 +2,9 @@
 
 # Special topic - conducting usability tests
 
-## Open Work and Consultation Session
-No regularly scheduled Tuesday Blackboard Collaborate session.
-
-## BlackBoard Collaborate Session Slides
-[Week 9 Assignment and Readings Review](https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-09) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
-
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+## Zoom Cowork and Q&A Sessions
+Week 9 Readings and Assignment 3 <span class='badge'> [Tue Mar 8 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220308T1430&p1=256&am=50)</span>  
+Week 9 Readings and Assignment 3 <span class='badge'> [Fri Mar 11 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220311T1430&p1=256&am=50)</span>  
 
 ## One-minute Summaries & Questions
 [Usability Testing Guide](https://canvas.sfu.ca/courses/67116/assignments/662743) <span class='badge'> [Thu Mar 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20220310T235900&p1=256)</span>  
