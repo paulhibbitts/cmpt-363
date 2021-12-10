@@ -94,7 +94,6 @@ No classes.
 :fas fa-pen fa-fw: Storyboard Wireframes Assignment Peer Reviews <span class='badge'> [Mon Mar 21 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Wireframes+Assignment+Due+Date&iso=20220321T2359&p1=256)</span>  
 :fas fa-desktop fa-fw: Blackboard Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-10) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544)] <span class='badge'> [Tue Mar 15 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20220315T1430&p1=256&ah=1&am=50)</span>  
 :fas fa-users fa-fw: Zoom Cowork and Q&A - Week 10 Readings and Assignment 4 <span class='badge'> [Fri Mar 18 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220318T1430&p1=256&am=50)</span>  
-:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 10](https://canvas.sfu.ca/courses/67116/assignments) <span class='badge'> [Thu Mar 17 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+2+Visual+Journal+Entry+Due+Date&iso=20220317T235900)</span>  
 :fas fa-keyboard fa-fw: No required readings or one-minute summaries  
 
 ## :fas fa-calendar fa-fw: [Week 11 (Mar 21 - 27)](221/week-11)
