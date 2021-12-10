@@ -2,7 +2,7 @@
 
 # Special topic — heuristic evaluations / Open office consultation hours
 
-## Zoom Cowork and Q&A Sessions
+## Zoom Cowork/Q&A Sessions
 Week 4 Readings and Assignment 1 <span class='badge'> [Tue Feb 1 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Review+and+Discussions&iso=20220201T1430&p1=256&am=50)</span>  
 Week 4 Readings and Assignment 1 <span class='badge'> [Fri Feb 4 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Review+and+Discussions&iso=20220204T1430&p1=256&am=50)</span>  
 

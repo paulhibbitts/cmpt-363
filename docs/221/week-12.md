@@ -2,7 +2,7 @@
 
 # Special topic — visual interface design
 
-## Zoom Cowork and Q&A Sessions
+## Zoom Cowork/Q&A Sessions
 Week 12 Readings and Assignment 5 <span class='badge'> [Tue Mar 29 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220329T1430&p1=256&am=50)</span>  
 Week 12 Readings and Assignment 5 <span class='badge'> [Fri Apr 1 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220401T1430&p1=256&am=50)</span>  
 

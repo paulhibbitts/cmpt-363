@@ -10,7 +10,7 @@
 ## Weekly Visual Journal Entry
 [Week 2 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/662767) <span class='badge'> [Thu Jan 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+2+Visual+Journal+Entry+Due+Date&iso=20220113T235900)</span>  
 
-## Zoom Cowork and Q&A Session
+## Zoom Cowork/Q&A Session
 Week 1 Readings <span class='badge'> [Fri Jan 14 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Review+and+Discussions&iso=20220114T1430&p1=256&am=50)</span>
 
 ## Required Readings  
