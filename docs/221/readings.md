@@ -3,13 +3,13 @@
 * [What is usability and user experience design? (Week 1)](#week-1)
 * [What is the practice of multi-device interaction design? (Week 2)](#week-2)
 * [How to conduct a user interface inspection? (Week 3)](#week-3)
-* [Special topic - heuristic evaluations / Open work and consultation session (Week 4)](#week-4)
+* [Special topic - heuristic evaluations (Week 4)](#week-4)
 * [How to understand and communicate people's needs and behaviours? (Week 5)](#week-5)
-* [Special topic - conducting user research / Open consultation office hours (Week 6)](#week-6)
+* [Special topic - conducting user research (Week 6)](#week-6)
 * [How to bridge the gap between the problem and design space? (Week 8)](#week-8)
-* [Special topic - conducting usability tests  / Open work and consultation session (Week 9)](#week-9)
+* [Special topic - conducting usability tests (Week 9)](#week-9)
 * [What are the essentials of visual interface design? (Week 11)](#week-11)
-* [Special topic - visual interface design  / Open work and consultation session (Week 12)](#week-12)
+* [Special topic - visual interface design (Week 12)](#week-12)
 
 ## Week 1
 ### What is usability and user experience design?
