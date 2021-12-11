@@ -3,8 +3,8 @@
 # Special topic - conducting user research
 
 ## Zoom Cowork/Q&A Sessions
-Week 6 Readings and Assignment 1 <span class='badge'> [Tue Feb 15 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220215T1430&p1=256&am=50)</span>  
-Week 6 Readings and Assignment 1 <span class='badge'> [Fri Feb 18 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220218T1430&p1=256&am=50)</span>  
+Week 6 Readings and Assignment 2 <span class='badge'> [Tue Feb 15 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220215T1430&p1=256&am=50)</span>  
+Week 6 Readings and Assignment 2 <span class='badge'> [Fri Feb 18 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220218T1430&p1=256&am=50)</span>  
 
 <h2> Weekly Visual Journal Entry </h2>
 
