@@ -1,7 +1,7 @@
 # Schedule
 
 ## :fas fa-calendar fa-fw: [Week 1 (Jan 10 - 16)](https://canvas.sfu.ca/courses/67116/modules/items/2294802)
-**Course overview / What is usability and user experience design?**  
+**Course introduction / What is usability and user experience design?**  
 :fas fa-desktop fa-fw: Blackboard Course Overview [[PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-01) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544)] <span class='badge'> [Tue Jan 11 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Mini-lectures+and+Activities&iso=20220111T1430&p1=256&ah=1&am=50)</span>  
 :fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 1 Readings <span class='badge'> [Fri Jan 14 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220114T1430&p1=256&am=50)</span>  
 :fas fa-book fa-fw: [Defining usability (7 minute read)](https://blog.prototypr.io/defining-usability-e7bf42e8abd0)  
@@ -106,7 +106,7 @@ No classes.
 :fas fa-book fa-fw: [Visual Hierarchy: Organizing content to follow natural eye movement patterns (13 minute read)](https://www.interaction-design.org/literature/article/visual-hierarchy-organizing-content-to-follow-natural-eye-movement-patterns)  
 :fas fa-book fa-fw: [Fundamentals of typography in user interface design (UI) (7 minute read)](https://uxdesign.cc/fundamentals-of-typography-in-user-interface-design-ui-67cdd13bfa24)  
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 11](https://canvas.sfu.ca/courses/67116/assignments) <span class='badge'> [Thu Mar 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+11+Visual+Journal+Entry+Due+Date&iso=20220324T235900)</span>  
-:fas fa-keyboard fa-fw: [One-minute Summaries for Week 11](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Mar 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+11+Due+Date&iso=20220327T235900&p1=256)</span> 
+:fas fa-keyboard fa-fw: [One-minute Summaries for Week 11](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Mar 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+11+Due+Date&iso=20220327T235900&p1=256)</span>
 
 ## :fas fa-calendar fa-fw: [Week 12 (Mar 28 - Apr 3)](https://canvas.sfu.ca/courses/67116/modules/items/2294812)
 **Special topic - visual interface design**  
