@@ -61,7 +61,7 @@
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/user-need-statements/">User Need Statements: The ‘Define’ Stage in Design Thinking</a></div>
 
 ## Week 6
-### Special topic - conducting user research / Open consultation office hours
+### Special topic - conducting user research
 **How to Run Remote User Research (Like a Boss!) (1 of 3 for Week 6)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/mixed-methods/how-to-run-remote-user-research-like-a-boss-b3729954f03">How to Run Remote User Research (Like a Boss!)</a></div>
 
@@ -83,7 +83,7 @@
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://fordes.de/posts/usingscenariosindesign.html">Using scenarios in design</a></div>
 
 ## Week 9
-### Special topic - conducting usability tests  / Open consultation and discussion
+### Special topic - conducting usability tests
 **Usability Testing Guide (1 of 3 for Week 9)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://boxesandarrows.com/usability-testing-guide/">Usability Testing Guide</a></div>
 
@@ -105,12 +105,12 @@
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/fundamentals-of-typography-in-user-interface-design-ui-67cdd13bfa24">Fundamentals of typography in user interface design (UI)</a></div>
 
 ## Week 12
-### Special topic - visual interface design  / Open consultation and discussion
-**10 Principles for Color Usage in UI Design (1 of 3 for Week 12)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004">10 Principles for Color Usage in UI Design</a></div>
+### Special topic - visual interface design
+**You should be designing for diverse user bases (1 of 3 for Week 12)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.invisionapp.com/inside-design/design-diverse-user-bases/">You should be designing for diverse user bases</a></div>
 
 **7 Things Every Designer Needs to Know about Accessibility (2 of 3 for Week 12)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b">7 Things Every Designer Needs to Know about Accessibility</a></div>
 
-**Inclusive Design: An Overview of Current Thinking (3 of 3 for Week 12)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.uxmatters.com/mt/archives/2019/08/inclusive-design-an-overview-of-current-thinking.php">Inclusive Design: An Overview of Current Thinking</a></div>
+**10 Principles for Color Usage in UI Design (23 of 3 for Week 12)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004">10 Principles for Color Usage in UI Design</a></div>
