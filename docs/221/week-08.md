@@ -30,9 +30,9 @@ _Web-based wireframing tool._
 [Week 8 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/710591) <span class='badge'> [Thu Feb 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+8+Visual+Journal+Entry+Due+Date&iso=20220203T235900)</span>  
 
 ## Required Readings  
-[Leveraging Mental Models in Product Design (11 minute read)](https://medium.com/swlh/leveraging-mental-models-in-ux-design-21ba8fbce22d)  
-[Don Norman’s Principles of Interaction Design (8 minute read)](https://medium.com/@sachinrekhi/don-normans-principles-of-interaction-design-51025a2c0f33)  
-[Not Just Pretty: Building Emotion Into Your Websites (15 minute read)](https://www.smashingmagazine.com/2012/04/building-emotion-into-your-websites/)  
+[Don Norman’s seven fundamental design principles (5 minute read)](https://uxdesign.cc/ux-psychology-principles-seven-fundamental-design-principles-39c420a05f84)  
+[The Right Tool For The Job: Picking The Best Prototyping Software For Your Project (12 minute read)](https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860)  
+[Using scenarios in design (5 minute read)](https://fordes.de/posts/usingscenariosindesign.html)  
 
 ## One-minute Summaries & Questions
 [Leveraging Mental Models in Product Design](https://canvas.sfu.ca/courses/67116/assignments/710564) <span class='badge'>[Sun Feb 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220206T235900&p1=256)</span>  
