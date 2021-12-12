@@ -7,7 +7,7 @@
 
 ### Live Sessions
 
-* [Blackboard Mini-lectures and Activities](https://canvas.sfu.ca/courses/67116/external_tools/3544) (guest access link TBA) <span class='badge'> [Tue Jan 11 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Mini-Lectures+and+Activities&iso=20220111T1430&p1=256&ah=1&am=50)</span>
+* [Blackboard Course Overview](https://canvas.sfu.ca/courses/67116/external_tools/3544) (guest access link TBA) <span class='badge'> [Tue Jan 11 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Mini-Lectures+and+Activities&iso=20220111T1430&p1=256&ah=1&am=50)</span>
 * [Zoom Cowork/Q&A - Week 1 Readings](#) <span class='badge'> [Fri Jan 14 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Review+and+Discussions&iso=20220114T1430&p1=256&am=50)</span>
 
 ### Required Readings & One-Minute Summaries
