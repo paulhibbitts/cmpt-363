@@ -12,7 +12,7 @@
 
 ### Required Readings & One-Minute Summaries
 * [Defining usability](https://canvas.sfu.ca/courses/67116/assignments/710558) <span class='badge'> [Sun Jan 16 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220116T235900&p1=256)</span>   
-* [The UX Pyramid](https://canvas.sfu.ca/courses/67116/assignments/710557) <span class='badge'> [Sun Jan 16 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220116T235900&p1=256)</span>   
+* [An Introduction to User Experience Design](https://canvas.sfu.ca/courses/67116/assignments/710557) <span class='badge'> [Sun Jan 16 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220116T235900&p1=256)</span>   
 * [The Art of Emotion — Norman’s 3 Levels of Emotional Design](https://canvas.sfu.ca/courses/67116/assignments/710569) <span class='badge'> [Sun Jan 16 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220116T235900&p1=256)</span>
 
 [Week 1 Visual Journal Entry due Jan 13](https://canvas.sfu.ca/courses/67116/assignments/710635 ':class=button')
