@@ -49,8 +49,6 @@ _Web-based wireframing tool._
 
 [HCI Laws and Cognitive Psychology](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/hci-laws.md ':include')
 
-[Inclusive Design](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/inclusive-design.md ':include')  
-
 [Problem Framing](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/problem-framing.md ':include')
 
 [Prototyping](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/prototyping.md ':include')
