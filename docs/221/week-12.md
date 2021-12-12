@@ -27,3 +27,5 @@ No visual journal entry this week.
 [Color](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/color.md ':include')
 
 [Color Tools](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/color-tools.md ':include')
+
+[Inclusive Design](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/inclusive-design.md ':include')  
