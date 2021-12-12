@@ -93,7 +93,6 @@
 **Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (Config) (3 of 3 for Week 9)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.youtube.com/watch?v=vcV5Y7QaV4g">Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (Config)</a></div>
 
-
 ## Week 11
 ### What are the essentials of visual interface design?
 **5 Principles of Visual Design in UX (1 of 2 for Week 11)**  
