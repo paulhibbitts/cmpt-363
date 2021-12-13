@@ -99,7 +99,7 @@ No classes.
 ## :fas fa-calendar fa-fw: [Week 11 (Mar 21 - 27)](https://canvas.sfu.ca/courses/67116/modules/items/2294811)
 **What are the essentials of visual interface design?**  
 :fas fa-check fa-fw: Storyboard Wireframes Assignment Peer Reviews due <span class='badge'> [Mon Mar 21 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Wireframes+Assignment+Due+Date&iso=20220321T2359&p1=256)</span>  
-:fas fa-pen fa-fw: [High-fidelity Prototype Assignment](https://canvas.sfu.ca/courses/67116/assignments/662759) <span class='badge'> [Thu Apr 7 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+High-fidelity+Prototype+Due+Date&iso=20220407T2359&p1=256)</span>  
+:fas fa-pen fa-fw: [High-fidelity Prototype Assignment](https://canvas.sfu.ca/courses/67116/assignments/662759) <span class='badge'> [Mon Apr 4 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+High-fidelity+Prototype+Due+Date&iso=20220404T2359&p1=256)</span>  
 :fas fa-desktop fa-fw: Blackboard Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-11) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544)] <span class='badge'> [Tue Mar 22 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20220322T1430&p1=256&ah=1&am=50)</span>  
 :fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 11 Readings and Assignment 5 <span class='badge'> [Fri Mar 25 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220325T1430&p1=256&am=50)</span>  
 :fas fa-book fa-fw: [5 Principles of Visual Design in UX (10 minute read)](https://www.nngroup.com/articles/principles-visual-design/)  
@@ -120,7 +120,7 @@ No classes.
 
 ## :fas fa-calendar fa-fw: [Week 13 (Apr 4 - 10)](https://canvas.sfu.ca/courses/67116/modules/items/2294814)
 **Course wrap-up**  
-:fas fa-check fa-fw: [High-fidelity Prototype Assignment due](https://canvas.sfu.ca/courses/67116/assignments/662759) <span class='badge'> [Thu Apr 7 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+High-fidelity+Prototype+Due+Date&iso=20220407T2359&p1=256)</span>  
+:fas fa-check fa-fw: [High-fidelity Prototype Assignment due](https://canvas.sfu.ca/courses/67116/assignments/662759) <span class='badge'> [Mon Apr 4 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+High-fidelity+Prototype+Due+Date&iso=20220404T2359&p1=256)</span>  
 :fas fa-users fa-fw: Zoom Cowork/Q&A Session - Assignment 5 <span class='badge'> [Tue Apr 5 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220405T1430&p1=256&am=50)</span>  
 :fas fa-desktop fa-fw: Blackboard Course Wrap-up <span class='badge'> [Fri Apr 8 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Course+Wrap-up&iso=20220408T1430&p1=256&ah=50)</span>  
 :fas fa-keyboard fa-fw: No required readings or one-minute summaries  
