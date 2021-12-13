@@ -121,7 +121,6 @@ No classes.
 ## :fas fa-calendar fa-fw: [Week 13 (Apr 4 - 10)](221/week-13)
 **Course wrap-up**  
 :fas fa-check fa-fw: [High-fidelity Prototype Assignment due](https://canvas.sfu.ca/courses/67116/assignments/662759) <span class='badge'> [Mon Apr 4 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+High-fidelity+Prototype+Due+Date&iso=20220404T2359&p1=256)</span>  
-:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Assignment 5 <span class='badge'> [Tue Apr 5 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220405T1430&p1=256&am=50)</span>  
-:fas fa-desktop fa-fw: Blackboard Course Wrap-up <span class='badge'> [Fri Apr 8 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Course+Wrap-up&iso=20220408T1430&p1=256&ah=50)</span>  
+:fas fa-desktop fa-fw: Blackboard Course Wrap-up <span class='badge'> [Tue Apr 5 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Course+Wrap-up&iso=20220405T1430&p1=256&ah=30)</span>  
 :fas fa-keyboard fa-fw: No required readings or one-minute summaries  
 :fas fa-image fa-fw: No visual journal entry
