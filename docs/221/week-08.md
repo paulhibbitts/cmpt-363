@@ -32,12 +32,12 @@ _Web-based wireframing tool._
 ## Required Readings  
 [Don Norman’s seven fundamental design principles (5 minute read)](https://uxdesign.cc/ux-psychology-principles-seven-fundamental-design-principles-39c420a05f84)  
 [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project (12 minute read)](https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860)  
-[Using scenarios in design (5 minute read)](https://fordes.de/posts/usingscenariosindesign.html)  
+[What Is The Role Of Creativity In UX Design? (10 minute read)](https://www.smashingmagazine.com/2018/12/role-of-creativity-ux-design/)  
 
 ## One-minute Summaries & Questions
-[Leveraging Mental Models in Product Design](https://canvas.sfu.ca/courses/67116/assignments/710564) <span class='badge'>[Sun Feb 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220206T235900&p1=256)</span>  
-[Don Norman’s Principles of Interaction Design](https://canvas.sfu.ca/courses/67116/assignments/710563) <span class='badge'>[Sun Feb 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220206T235900&p1=256)</span>  
-[Not Just Pretty: Building Emotion Into Your Websites](https://canvas.sfu.ca/courses/67116/assignments/710552) <span class='badge'>[Sun Feb 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220206T235900&p1=256)</span>  
+[Don Norman’s seven fundamental design principles](https://canvas.sfu.ca/courses/67116/assignments/710564) <span class='badge'>[Sun Feb 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220206T235900&p1=256)</span>  
+[The Right Tool For The Job: Picking The Best Prototyping Software For Your Project](https://canvas.sfu.ca/courses/67116/assignments/710563) <span class='badge'>[Sun Feb 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220206T235900&p1=256)</span>  
+[What Is The Role Of Creativity In UX Design? (10 minute read)](https://www.smashingmagazine.com/2018/12/role-of-creativity-ux-design/) </span>
 
 ## Supplemental Videos  
 [Mind the gap, user centered design in large organizations with Luke Wroblewski](https://www.youtube.com/watch?v=mAiNdU1go1A)  

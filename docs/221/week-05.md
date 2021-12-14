@@ -19,7 +19,7 @@ Week 5 Readings and Assignment 2 <span class='badge'> [Fri Feb 11 2:30pm PT](htt
 ## Required Readings  
 [A 5-Step Process For Conducting User Research (16 minute read)](https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/)  
 [How to Leverage Thematic Analysis for Better UX (11 minute read)](https://www.toptal.com/designers/ux-research/thematic-analysis-for-ux)  
-[User Need Statements: The ‘Define’ Stage in Design Thinking (11 minute read)](https://www.nngroup.com/articles/user-need-statements/)  
+[Using scenarios in design (5 minute read)](https://fordes.de/posts/usingscenariosindesign.html)  
 
 ## One-minute Summaries & Questions
 

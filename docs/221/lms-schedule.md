@@ -48,7 +48,7 @@
 :fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 5 Readings and Assignment 2 <span class='badge'> [Fri Feb 11 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220211T1430&p1=256&am=50)</span>  
 :fas fa-book fa-fw: [A 5-Step Process For Conducting User Research (16 minute read)](https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/)  
 :fas fa-book fa-fw: [How to Leverage Thematic Analysis for Better UX (11 minute read)](https://www.toptal.com/designers/ux-research/thematic-analysis-for-ux)  
-:fas fa-book fa-fw: [User Need Statements: The ‘Define’ Stage in Design Thinking (11 minute read)](https://www.nngroup.com/articles/user-need-statements/)  
+:fas fa-book fa-fw: [Using scenarios in design (5 minute read)](https://fordes.de/posts/usingscenariosindesign.html)  
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 5](https://canvas.sfu.ca/courses/67116/assignments) <span class='badge'> [Thu Feb 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+5+Visual+Journal+Entry+Due+Date&iso=20220210T235900)</span>  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 5](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Feb 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20220213T235900&p1=256)</span>  
 
@@ -74,7 +74,7 @@ No classes.
 :fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 8 Readings and Assignment 3 <span class='badge'> [Fri Mar 4 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220304T1430&p1=256&am=50)</span>  
 :fas fa-book fa-fw: [Don Norman’s seven fundamental design principles (5 minute read)](https://uxdesign.cc/ux-psychology-principles-seven-fundamental-design-principles-39c420a05f84)  
 :fas fa-book fa-fw: [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project (12 minute read)](https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860)  
-:fas fa-book fa-fw: [Using scenarios in design (5 minute read)](https://fordes.de/posts/usingscenariosindesign.html)  
+:fas fa-book fa-fw: [What Is The Role Of Creativity In UX Design? (10 minute read)](https://www.smashingmagazine.com/2018/12/role-of-creativity-ux-design/)  
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 8](https://canvas.sfu.ca/courses/67116/assignments) <span class='badge'> [Thu Mar 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+8+Visual+Journal+Entry+Due+Date&iso=20220303T235900)</span>  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 8](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Mar 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220306T235900&p1=256)</span>
 

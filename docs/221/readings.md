@@ -57,8 +57,8 @@
 **How to Leverage Thematic Analysis for Better UX (2 of 3 for Week 5)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.toptal.com/designers/ux-research/thematic-analysis-for-ux">How to Leverage Thematic Analysis for Better UX</a></div>
 
-**User Need Statements: The ‘Define’ Stage in Design Thinking (3 of 3 for Week 5)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/user-need-statements/">User Need Statements: The ‘Define’ Stage in Design Thinking</a></div>
+**Using scenarios in design (3 of 3 for Week 5)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://fordes.de/posts/usingscenariosindesign.html">Using scenarios in design</a></div>
 
 ## Week 6
 ### Special topic - conducting user research
@@ -79,8 +79,8 @@
 **The Right Tool For The Job: Picking The Best Prototyping Software For Your Project (2 of 3 for Week 8)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860">The Right Tool For The Job: Picking The Best Prototyping Software For Your Project</a></div>
 
-**Using scenarios in design (3 of 3 for Week 8)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://fordes.de/posts/usingscenariosindesign.html">Using scenarios in design</a></div>
+**What Is The Role Of Creativity In UX Design? (3 of 3 for Week 8)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2018/12/role-of-creativity-ux-design/">What Is The Role Of Creativity In UX Design?</a></div>
 
 ## Week 9
 ### Special topic - conducting usability tests
