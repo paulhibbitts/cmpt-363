@@ -1,4 +1,4 @@
-# CMPT 363 User Interface Design
+<h1> CMPT 363 User Interface Design </h1>
 
 This site contains past, current and planned offerings of CMPT-363 at Simon Fraser University.
 
