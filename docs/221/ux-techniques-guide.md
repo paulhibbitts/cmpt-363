@@ -34,8 +34,6 @@
 <details>
   <summary>What is the Practice of Mobile and Multi-Device Interaction Design? </summary>
 
-[Chatbots](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/chatbots.md ':include')
-
 [Content Prioritization](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/content-prioritization.md ':include')
 
 [Design Patterns](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/design-patterns.md ':include')
