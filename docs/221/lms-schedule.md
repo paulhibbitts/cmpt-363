@@ -11,7 +11,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 1](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Jan 16 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220116T235900&p1=256)</span>
 
 ## :fas fa-calendar fa-fw: [Week 2 (Jan 17 - 23)](https://canvas.sfu.ca/courses/67116/modules/items/2294803)
-**What is the practice of multi-device interaction design?**  
+**What is the practice of mobile and multi-device interaction design?**  
 :fas fa-comments fa-fw: [Mobile App UX Improvement Nominations](https://canvas.sfu.ca/courses/67116/discussion_topics/1316138) <span class='badge'> [Mon Jan 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Project+Proposal+Due+Date&iso=20220124T235900)</span>  
 :fas fa-desktop fa-fw: Blackboard Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-02) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544)] <span class='badge'> [Tue Jan 18 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Mini-lectures+and+Activities&iso=20220118T1430&p1=256&ah=1&am=50)</span>  
 :fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 2 Readings <span class='badge'> [Fri Jan 21 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220121T1430&p1=256&am=50)</span>  

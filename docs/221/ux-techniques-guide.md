@@ -32,7 +32,7 @@
 </details>
 
 <details>
-  <summary>What is the Practice of Multi-Device Interaction Design? </summary>
+  <summary>What is the Practice of Mobile and Multi-Device Interaction Design? </summary>
 
 [Chatbots](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/chatbots.md ':include')
 

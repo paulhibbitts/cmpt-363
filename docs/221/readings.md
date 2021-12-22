@@ -1,7 +1,7 @@
 # All Readings
 
 * [What is usability and user experience design? (Week 1)](#week-1)
-* [What is the practice of multi-device interaction design? (Week 2)](#week-2)
+* [What is the practice of mobile and multi-device interaction design? (Week 2)](#week-2)
 * [How to conduct a user interface inspection? (Week 3)](#week-3)
 * [Special topic - heuristic evaluations (Week 4)](#week-4)
 * [How to understand and communicate people's needs and behaviours? (Week 5)](#week-5)
@@ -23,7 +23,7 @@
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.muz.li/the-art-of-emotion-normans-3-levels-of-emotional-design-88a1fb495b1d">The Art of Emotion — Norman’s 3 Levels of Emotional Design</a></div>
 
 ## Week 2
-### What is the practice of multi-device interaction design?
+### What is the practice of mobile and multi-device interaction design?
 **Interaction design: a guide for beginners (1 of 3 for Week 2)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxplanet.org/interaction-design-a-guide-for-beginners-32ff2364b53f">Interaction design: a guide for beginners</a></div>
 

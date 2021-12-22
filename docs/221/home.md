@@ -43,7 +43,7 @@ Friday 3:30-4:00pm PT
 
 <h1> Looking Ahead to the Second Week🔭 </h1>
 
-<h2> What is the practice of multi-device interaction design? </h2>
+<h2> What is the practice of mobile and multi-device interaction design? </h2>
 
 <h3> Live Sessions </h3>
 
