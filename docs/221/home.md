@@ -25,16 +25,15 @@
 <div class="row">
 <div class="column">
 
-Chat-only Office Hours:
-Monday 12:00-12:30pm PT
-Thursday 12:00-12:30pm PT
+Audio/Video Call (via Discord call queue):  
+Tuesday 1:30-2:00pm PT  
+Friday 3:30-4:00pm PT  
 
 </div>
 <div class="column">
 
-Audio Call One-on-One Office Hours:
-Tuesday 1:30-2:00pm PT
-Friday 3:30-4:00pm PT
+Text Chat only:  
+Students are welcome to DM me - I will only usually reply to messages between 10-4 Monday to Friday
 
 </div>
 </div>
