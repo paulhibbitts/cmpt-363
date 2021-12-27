@@ -50,6 +50,8 @@ Week 5 Readings and Assignment 2 <span class='badge'> [Fri Feb 11 2:30pm PT](htt
 
 [Problem Statements](ux-techniques-guide/01.what-is-usability-and-user-experience-design/problem-statements.md ':include')
 
+[Task Analysis](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/task-analysis.md ':include')
+
 [Thematic Analysis](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/thematic-analysis.md ':include')
 
 [User Research](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/user-research.md ':include')
