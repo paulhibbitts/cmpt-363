@@ -10,6 +10,7 @@
 [Bias](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
 
 ### C
+[Cognitive Walkthroughs](https://canvas.sfu.ca/courses/67116/modules/items/2294804)  
 [Color](https://canvas.sfu.ca/courses/67116/modules/items/2294812)  
 [Conceptual Models](https://canvas.sfu.ca/courses/67116/modules/items/2294808)  
 [Contextual Inquiry](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
