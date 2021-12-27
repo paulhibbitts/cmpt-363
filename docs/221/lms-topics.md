@@ -1,6 +1,6 @@
 # Topics
 
-### [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | K | [L](#l) | M | [N](#n) | [O](#o) | [P](#p) | Q | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | W | X | Y | Z  
+### [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | K | [L](#l) | M | [N](#n) | O | [P](#p) | Q | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | W | X | Y | Z  
 
 ### A
 [Accessibility](https://canvas.sfu.ca/courses/67116/modules/items/2294812)  
@@ -17,14 +17,13 @@
 
 ### D
 [Design Ethics](https://canvas.sfu.ca/courses/67116/modules/items/2294802)  
-[Design Scenarios (also called Scenarios)](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
-[Design Thinking](https://canvas.sfu.ca/courses/67116/modules/items/2294802)  
+[Design Scenarios (also called Scenarios)](https://canvas.sfu.ca/courses/67116/modules/items/2294806)    
 [Designing for Touch](https://canvas.sfu.ca/courses/67116/modules/items/2294803)  
 [Discovery Research](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
 [Double Diamond](https://canvas.sfu.ca/courses/67116/modules/items/2294802)  
 
 ### E
-[Emotional Design](https://canvas.sfu.ca/courses/67116/modules/items/2294808)  
+[Emotional Design](https://canvas.sfu.ca/courses/67116/modules/items/2294802)  
 [Empathy Map](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
 
 ### F
@@ -43,7 +42,7 @@
 
 ### I
 [Icons](https://canvas.sfu.ca/courses/67116/modules/items/2294811)  
-[Inclusive Design](https://canvas.sfu.ca/courses/67116/modules/items/2294808)  
+[Inclusive Design](https://canvas.sfu.ca/courses/67116/modules/items/2294812)  
 [Interaction Design](https://canvas.sfu.ca/courses/67116/modules/items/2294803)  
 [Interviews](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
 
@@ -57,22 +56,19 @@
 [Lean UX](https://canvas.sfu.ca/courses/67116/modules/items/2294802)  
 
 ### M
+[Microcopy](https://canvas.sfu.ca/courses/67116/modules/items/2294811)
 [Miller’s Law](https://canvas.sfu.ca/courses/67116/modules/items/2294803)  
 [Mobile Design](https://canvas.sfu.ca/courses/67116/modules/items/2294803)  
 [Multi-device Design](https://canvas.sfu.ca/courses/67116/modules/items/2294803)  
 
 ### N
-[Norman’s Design Principles](https://canvas.sfu.ca/courses/67116/modules/items/2294808)
-
-### O
-[Outcomes](https://canvas.sfu.ca/courses/67116/modules/items/2294802)
+[Norman’s Design Principles](https://canvas.sfu.ca/courses/67116/modules/items/2294804)
 
 ### P
 [Pareto Principle](https://canvas.sfu.ca/courses/67116/modules/items/2294802)  
 [Peer Reviews](https://canvas.sfu.ca/courses/67116/modules/items/2294810)  
 [Personas/Proto-Personas](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
-[Power Law of Practice](https://canvas.sfu.ca/courses/67116/modules/items/2294803)  
-[Problem Framing](https://canvas.sfu.ca/courses/67116/modules/items/2294808)  
+[Power Law of Practice](https://canvas.sfu.ca/courses/67116/modules/items/2294803)   
 [Problem Statements](https://canvas.sfu.ca/courses/67116/modules/items/2294802)  
 [Product Reaction Cards](https://canvas.sfu.ca/courses/67116/modules/items/2294802)
 [Prototyping](https://canvas.sfu.ca/courses/67116/modules/items/2294808)  
@@ -85,7 +81,7 @@
 [Software Design Processes](https://canvas.sfu.ca/courses/67116/modules/items/2294802)   
 
 ### T
-[Task Analysis](https://canvas.sfu.ca/courses/67116/modules/items/2294802)  
+[Task Analysis](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
 [Thematic Analysis](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
 [Typography](https://canvas.sfu.ca/courses/67116/modules/items/2294811)  
 
@@ -97,8 +93,7 @@
 [User Experience Design](https://canvas.sfu.ca/courses/67116/modules/items/2294802)  
 [User Research](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
 [User Research Analysis](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
-[User Stories](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
-[UI Copy Writing](https://canvas.sfu.ca/courses/67116/modules/items/2294811)  
+[User Stories](https://canvas.sfu.ca/courses/67116/modules/items/2294806)   
 [UX Objectives](https://canvas.sfu.ca/courses/67116/modules/items/2294802)  
 
 ### V
