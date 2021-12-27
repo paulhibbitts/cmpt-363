@@ -10,14 +10,6 @@
 [10 Usability Heuristics for User Interface Design (8 minute read)](https://www.toptal.com/designers/usability/usability-analysis-how-to-run-a-heuristic-evaluation)  
 [Severity Ratings for Usability Problems (5 minute read)](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)   
 
-## One-minute Summaries & Questions
-[Evaluating Wireframes with Usability Inspection Methods](https://canvas.sfu.ca/courses/67116/assignments/710556) <span class='badge'> [Sun Jan 30 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20220130T235900&p1=256)</span>  
-[10 Usability Heuristics for User Interface Design](https://canvas.sfu.ca/courses/67116/assignments/710847) <span class='badge'> [Sun Jan 30 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20220130T235900&p1=256)</span>  
-[Severity Ratings for Usability Problems](https://canvas.sfu.ca/courses/67116/assignments/710553) <span class='badge'> [Sun Jan 30 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20220130T235900&p1=256)</span>  
-
-## Weekly Visual Journal Entry
-[Week 4 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/662769) <span class='badge'> [Thu Jan 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+4+Visual+Journal+Entry+Due+Date&iso=20220127T235900)</span>  
-
 ## Blackboard Collab Session
 [Usability Inspections](https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-03) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
 
@@ -25,6 +17,14 @@
 
 ## Zoom Cowork/Q&A Session
 Week 3 Readings and Assignment 1 <span class='badge'> [Fri Jan 28 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Review+and+Discussions&iso=20220128T1430&p1=256&am=50)</span>
+
+## One-minute Summaries & Questions
+[Evaluating Wireframes with Usability Inspection Methods](https://canvas.sfu.ca/courses/67116/assignments/710556) <span class='badge'> [Sun Jan 30 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20220130T235900&p1=256)</span>  
+[10 Usability Heuristics for User Interface Design](https://canvas.sfu.ca/courses/67116/assignments/710847) <span class='badge'> [Sun Jan 30 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20220130T235900&p1=256)</span>  
+[Severity Ratings for Usability Problems](https://canvas.sfu.ca/courses/67116/assignments/710553) <span class='badge'> [Sun Jan 30 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20220130T235900&p1=256)</span>  
+
+## Weekly Visual Journal Entry
+[Week 4 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/662769) <span class='badge'> [Thu Jan 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+4+Visual+Journal+Entry+Due+Date&iso=20220127T235900)</span>  
 
 ## Supplemental Videos  
 [The 10 Usability Heuristics](https://www.youtube.com/playlist?list=PLJOFJ3Ok_idtb2YeifXlG1-TYoMBLoG6I)  
