@@ -41,8 +41,6 @@ Week 1 Readings <span class='badge'> [Fri Jan 14 2:30pm PT](https://www.timeandd
 
 [Problem Statements](ux-techniques-guide/01.what-is-usability-and-user-experience-design/problem-statements.md ':include')
 
-[Systems Thinking](ux-techniques-guide/01.what-is-usability-and-user-experience-design/systems-thinking.md ':include')
-
 [Usability](ux-techniques-guide/01.what-is-usability-and-user-experience-design/usability.md ':include')
 
 [User Experience Design](ux-techniques-guide/01.what-is-usability-and-user-experience-design/user-experience-design.md ':include')
