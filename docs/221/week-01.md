@@ -19,9 +19,9 @@ Week 1 Readings <span class='badge'> [Fri Jan 14 2:30pm PT](https://www.timeandd
 [The Art of Emotion — Norman’s 3 Levels of Emotional Design](https://medium.muz.li/the-art-of-emotion-normans-3-levels-of-emotional-design-88a1fb495b1d)  
 
 ## One-minute Summaries & Questions
-[Defining usability](https://canvas.sfu.ca/courses/67116/assignments/662750) <span class='badge'> [Sun Jan 16 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220116T235900&p1=256)</span>   
-[The UX Pyramid](https://canvas.sfu.ca/courses/67116/assignments/662751) <span class='badge'> [Sun Jan 16 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220116T235900&p1=256)</span>   
-[Why UX Outcomes Make Better Goals Than Business Outcomes](https://canvas.sfu.ca/courses/67116/assignments/662737) <span class='badge'> [Sun Jan 16 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220116T235900&p1=256)</span>   
+[Defining usability](https://canvas.sfu.ca/courses/67116/assignments/710558) <span class='badge'> [Sun Jan 16 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220116T235900&p1=256)</span>   
+[The UX Pyramid](https://canvas.sfu.ca/courses/67116/assignments/710557) <span class='badge'> [Sun Jan 16 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220116T235900&p1=256)</span>   
+[Why UX Outcomes Make Better Goals Than Business Outcomes](https://canvas.sfu.ca/courses/67116/assignments/710569) <span class='badge'> [Sun Jan 16 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220116T235900&p1=256)</span>   
 
 ## CMPT-363 UX Design Process ([Double Diamond](https://en.wikipedia.org/wiki/Double_Diamond_(design_process_model)))
 

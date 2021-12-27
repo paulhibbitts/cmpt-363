@@ -37,7 +37,7 @@ _Web-based wireframing tool._
 ## One-minute Summaries & Questions
 [Don Norman’s seven fundamental design principles](https://canvas.sfu.ca/courses/67116/assignments/710564) <span class='badge'>[Sun Feb 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220206T235900&p1=256)</span>  
 [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project](https://canvas.sfu.ca/courses/67116/assignments/710563) <span class='badge'>[Sun Feb 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220206T235900&p1=256)</span>  
-[What Is The Role Of Creativity In UX Design? (10 minute read)](https://www.smashingmagazine.com/2018/12/role-of-creativity-ux-design/) </span>
+[What Is The Role Of Creativity In UX Design? (10 minute read)](https://canvas.sfu.ca/courses/67116/assignments/710552) </span>
 
 ## Supplemental Videos  
 [Mind the gap, user centered design in large organizations with Luke Wroblewski](https://www.youtube.com/watch?v=mAiNdU1go1A)  

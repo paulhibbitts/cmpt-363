@@ -19,9 +19,9 @@ Week 2 Readings <span class='badge'> [Fri Jan 21 2:30pm PT](https://www.timeandd
 [Touch Targets on Touchscreens (11 minute read)](https://www.nngroup.com/articles/touch-target-size/)   
 
 ## One-minute Summaries & Questions
-[Interaction design: a guide for beginners](https://canvas.sfu.ca/courses/67116/assignments/662753) <span class='badge'> [Sun Jan 23 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220123T235900&p1=256)</span>     
-[Five HCI Laws for User Experience Design](https://canvas.sfu.ca/courses/67116/assignments/662754) <span class='badge'> [Sun Jan 23 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220123T235900&p1=256)</span>   
-[Touch Targets on Touchscreens](https://canvas.sfu.ca/courses/67116/assignments/662749) <span class='badge'> [Sun Jan 23 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220123T235900&p1=256)</span>   
+[Interaction design: a guide for beginners](https://canvas.sfu.ca/courses/67116/assignments/710555) <span class='badge'> [Sun Jan 23 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220123T235900&p1=256)</span>     
+[Five HCI Laws for User Experience Design](https://canvas.sfu.ca/courses/67116/assignments/710554) <span class='badge'> [Sun Jan 23 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220123T235900&p1=256)</span>   
+[Touch Targets on Touchscreens](https://canvas.sfu.ca/courses/67116/assignments/710559) <span class='badge'> [Sun Jan 23 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220123T235900&p1=256)</span>   
 
 ## Downloads
 [One-Page Touch Interaction Design Checklist](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Touch%20Interaction%20Checklist)  
