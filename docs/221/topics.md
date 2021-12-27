@@ -69,11 +69,11 @@
 
 ### P
 [Pareto Principle](221/week-01)  
-[Storyboard Wireframe Peer Review](221/week-10)
+[Peer Reviews](221/week-10)
 [Personas/Proto-Personas](221/week-05)  
 [Power Law of Practice](221/week-02)  
 [Problem Framing](221/week-04)  
-[Problem Statements](221/week-05)  
+[Problem Statements](221/week-01)  
 [Product Reaction Cards](221/week-01)  
 [Prototyping](221/week-08)  
 
