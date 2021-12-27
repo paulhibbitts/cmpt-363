@@ -69,7 +69,7 @@
 
 ### P
 [Pareto Principle](221/week-01)  
-[Peer Reviews](221/week-10)
+[Peer Reviews](221/week-10)  
 [Personas/Proto-Personas](221/week-05)  
 [Power Law of Practice](221/week-02)  
 [Problem Framing](221/week-04)  
