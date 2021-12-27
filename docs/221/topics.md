@@ -1,6 +1,6 @@
 # Topics
 
-### [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | K | [L](#l) | M | [N](#n) | [O](#o) | [P](#p) | Q | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | W | X | Y | Z  
+### [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | K | [L](#l) | M | [N](#n) | O | [P](#p) | Q | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | W | X | Y | Z  
 
 ### A
 [Accessibility](221/week-12)  
@@ -12,19 +12,18 @@
 ### C
 [Cognitive Walkthroughs](221/week-03)  
 [Color](221/week-12)  
-[Conceptual Models](221/week-04)  
+[Conceptual Models](221/week-08)  
 [Contextual Inquiry](221/week-05)  
 
 ### D
 [Design Ethics](221/week-01)  
 [Design Scenarios (also called Scenarios)](221/week-05)  
-[Design Thinking](221/week-01)  
 [Designing for Touch](221/week-02)  
 [Discovery Research](221/week-05)  
 [Double Diamond](221/week-01)  
 
 ### E
-[Emotional Design](221/week-04)  
+[Emotional Design](221/week-01)  
 [Empathy Map](221/week-05)  
 
 ### F
@@ -43,7 +42,7 @@
 
 ### I
 [Icons](221/week-11)  
-[Inclusive Design](221/week-04)  
+[Inclusive Design](221/week-12)  
 [Interaction Design](221/week-02)  
 [Interviews](221/week-05)  
 
@@ -57,22 +56,19 @@
 [Lean UX](221/week-01)  
 
 ### M
+[Microcopy](221/week-11)  
 [Miller’s Law](221/week-02)  
 [Mobile Design](221/week-02)  
 [Multi-device Design](221/week-02)  
 
 ### N
-[Norman’s Design Principles](221/week-04)
-
-### O
-[Outcomes](221/week-01)
+[Norman’s Design Principles](221/week-08)
 
 ### P
 [Pareto Principle](221/week-01)  
 [Peer Reviews](221/week-10)  
 [Personas/Proto-Personas](221/week-05)  
 [Power Law of Practice](221/week-02)  
-[Problem Framing](221/week-04)  
 [Problem Statements](221/week-01)  
 [Product Reaction Cards](221/week-01)  
 [Prototyping](221/week-08)  
@@ -85,7 +81,7 @@
 [Software Design Processes](221/week-01)  
 
 ### T
-[Task Analysis](221/week-01)  
+[Task Analysis](221/week-05)  
 [Thematic Analysis](221/week-05)  
 [Typography](221/week-11)  
 
@@ -98,7 +94,6 @@
 [User Research](221/week-05)  
 [User Research Analysis](221/week-05)  
 [User Stories](221/week-05)  
-[UI Copy Writing](221/week-11)  
 [UX Objectives](221/week-01)  
 
 ### V
