@@ -68,7 +68,7 @@
 
 ### P
 [Pareto Principle](https://canvas.sfu.ca/courses/67116/modules/items/2294802)  
-[Peer Design Reviews](https://canvas.sfu.ca/courses/67116/modules/items/2294810)  
+[Storyboard Wireframe Peer Review](https://canvas.sfu.ca/courses/67116/modules/items/2294810)  
 [Personas/Proto-Personas](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
 [Power Law of Practice](https://canvas.sfu.ca/courses/67116/modules/items/2294803)  
 [Problem Framing](https://canvas.sfu.ca/courses/67116/modules/items/2294808)  
