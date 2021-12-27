@@ -10,6 +10,7 @@
 [Bias](221/week-05)  
 
 ### C
+[Cognitive Walkthroughs](221/week-3)  
 [Color](221/week-12)  
 [Conceptual Models](221/week-04)  
 [Contextual Inquiry](221/week-05)  
