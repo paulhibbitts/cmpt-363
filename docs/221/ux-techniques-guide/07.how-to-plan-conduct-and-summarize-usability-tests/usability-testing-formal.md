@@ -10,7 +10,7 @@ _An evaluation method where participants try to complete certain tasks using a s
 *   [How Many Participants for Quantitative Usability Studies: A Summary of Sample-Size Recommendations](https://www.nngroup.com/articles/summary-quant-sample-sizes/)  
 *   [One page usability test plan (dashboard)](https://medium.com/@userfocus/the-1-page-usability-test-plan-dbc8c3d7fb54#.viosd3nte)
 *   [Seven Common Usability Testing Mistakes](http://www.uie.com/articles/usability_testing_mistakes/)  
-*   [Success Rate: The Simplest Usability Metric (Jakob Nielsen's Alertbox)](http://www.useit.com/alertbox/20010218.html)  
+*   [Success Rate: The Simplest Usability Metric](https://www.nngroup.com/articles/success-rate-the-simplest-usability-metric/)  
 *   [Talking with Participants During a Usability Test](https://www.nngroup.com/articles/talking-to-users/)  
 *   [Usability Testing (Usability BoK)](http://www.usabilitybok.org/usability-testing)  
 *   [Usability Testing 101](https://www.nngroup.com/articles/usability-testing-101/)  
