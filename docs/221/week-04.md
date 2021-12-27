@@ -2,19 +2,19 @@
 
 # Special topic — heuristic evaluations / Open office consultation hours
 
-## Zoom Cowork/Q&A Sessions
-Week 4 Readings and Assignment 1 <span class='badge'> [Tue Feb 1 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Review+and+Discussions&iso=20220201T1430&p1=256&am=50)</span>  
-Week 4 Readings and Assignment 1 <span class='badge'> [Fri Feb 4 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Review+and+Discussions&iso=20220204T1430&p1=256&am=50)</span>  
-
 ## Required Readings  
 [Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total)](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
+
+## One-minute Summaries & Questions
+[Design Heuristics Lecture with Scott Klemmer, a Video Playlist](https://canvas.sfu.ca/courses/67116/assignments/711254) <span class='badge'> [Sun Feb 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20220206T235900&p1=256)</span>  
 
 <h2> Weekly Visual Journal Entry </h2>
 
 No visual journal entry this week.  
 
-## One-minute Summaries & Questions
-[Design Heuristics Lecture with Scott Klemmer, a Video Playlist](https://canvas.sfu.ca/courses/67116/assignments/711254) <span class='badge'> [Sun Feb 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20220206T235900&p1=256)</span>  
+## Zoom Cowork/Q&A Sessions
+Week 4 Readings and Assignment 1 <span class='badge'> [Tue Feb 1 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Review+and+Discussions&iso=20220201T1430&p1=256&am=50)</span>  
+Week 4 Readings and Assignment 1 <span class='badge'> [Fri Feb 4 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Review+and+Discussions&iso=20220204T1430&p1=256&am=50)</span>  
 
 ## Nielsen’s 10 Heuristics, as updated by Scott Klemmer
 ![Nielsen's Heuristics, as revised by Scott Klemmer](https://images.squarespace-cdn.com/content/v1/546aeb13e4b06c7939161700/1496978769820-M1463IA9HEPB2VGXST1J/ke17ZwdGBToddI8pDm48kFl28Fv_rBK6U19lUwXhUe5Zw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZUJFbgE-7XRK3dMEBRBhUpxa0tF9mSBjJriQQo24NOBjwQexw4zSBSEILIX37zXwGQYoF0k1-7C-e0ggxJBzRnU/image-asset.jpeg?format=700w)  

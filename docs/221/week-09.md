@@ -2,14 +2,6 @@
 
 # Special topic - conducting usability tests
 
-## Zoom Cowork/Q&A Sessions
-Week 9 Readings and Assignment 3 <span class='badge'> [Tue Mar 8 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220308T1430&p1=256&am=50)</span>  
-Week 9 Readings and Assignment 3 <span class='badge'> [Fri Mar 11 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220311T1430&p1=256&am=50)</span>  
-
-<h2> Weekly Visual Journal Entry </h2>
-
-No visual journal entry this week.
-
 ## Required Readings  
 [Usability Testing Guide (14 minute read)](https://boxesandarrows.com/usability-testing-guide/)  
 [Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid (10 minute read)](https://www.nngroup.com/articles/better-usability-tasks/)  
@@ -19,6 +11,14 @@ No visual journal entry this week.
 [Usability Testing Guide](https://canvas.sfu.ca/courses/67116/assignments/710576) <span class='badge'> [Sun Mar 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20220313T235900&p1=256)</span>  
 [Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid](https://canvas.sfu.ca/courses/67116/assignments/710575) <span class='badge'> [Sun Mar 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20220313T235900&p1=256)</span>  
 [Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (Config)](https://canvas.sfu.ca/courses/67116/assignments/711653) <span class='badge'> [Sun Mar 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20220313T235900&p1=256)</span>  
+
+<h2> Weekly Visual Journal Entry </h2>
+
+No visual journal entry this week.
+
+## Zoom Cowork/Q&A Sessions
+Week 9 Readings and Assignment 3 <span class='badge'> [Tue Mar 8 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220308T1430&p1=256&am=50)</span>  
+Week 9 Readings and Assignment 3 <span class='badge'> [Fri Mar 11 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220311T1430&p1=256&am=50)</span>  
 
 ## Supplemental Videos  
 [Rocket Surgery Made Easy by Steve Krug: Usability Demo](https://www.youtube.com/watch?v=1UCDUOB_aS8)  
