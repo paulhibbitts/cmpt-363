@@ -9,7 +9,7 @@
 
 ## Zoom Cowork/Q&A Sessions
 Week 12 Readings and Assignment 5 <span class='badge'> [Tue Mar 29 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220329T1430&p1=256&am=50)</span>  
-Week 12 Readings and Assignment 5 <span class='badge'> [Fri Apr 1 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220401T1430&p1=256&am=50)</span>   
+Week 12 Readings and Assignment 5 <span class='badge'> [Fri Apr 1 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220401T1430&p1=256&am=50)</span>  
 
 ## One-minute Summaries & Questions
 [You should be designing for diverse user bases](https://canvas.sfu.ca/courses/67116/assignments/711654) <span class='badge'> [Sun Feb 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+13+Due+Date&iso=20220403T235900&p1=256)</span>  

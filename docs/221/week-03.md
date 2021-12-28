@@ -8,7 +8,7 @@
 ## Required Readings  
 [Evaluating Wireframes with Usability Inspection Methods (10 minute read)](https://balsamiq.com/learn/articles/usability-inspection/)  
 [10 Usability Heuristics for User Interface Design (8 minute read)](https://www.toptal.com/designers/usability/usability-analysis-how-to-run-a-heuristic-evaluation)  
-[Severity Ratings for Usability Problems (5 minute read)](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)   
+[Severity Ratings for Usability Problems (5 minute read)](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)  
 
 ## Blackboard Collab Session
 [Usability Inspections](https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-03) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)

@@ -3,7 +3,7 @@
 # How to bridge the gap between the problem and design space?
 
 ## Assignment 3
-[Design Scenarios and Storyboard Wireframes](https://canvas.sfu.ca/courses/67116/assignments/662760) <span class='badge'> [Mon Mar 14 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Wireframes+Assignment+Due+Date&iso=20220314T2359&p1=256)</span>    
+[Design Scenarios and Storyboard Wireframes](https://canvas.sfu.ca/courses/67116/assignments/662760) <span class='badge'> [Mon Mar 14 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Wireframes+Assignment+Due+Date&iso=20220314T2359&p1=256)</span>  
 
 ## Assignment 3 Resources  
 

@@ -17,7 +17,7 @@
 
 ### D
 [Design Ethics](https://canvas.sfu.ca/courses/67116/modules/items/2294802)  
-[Design Scenarios (also called Scenarios)](https://canvas.sfu.ca/courses/67116/modules/items/2294806)    
+[Design Scenarios (also called Scenarios)](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
 [Designing for Touch](https://canvas.sfu.ca/courses/67116/modules/items/2294803)  
 [Discovery Research](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
 [Double Diamond](https://canvas.sfu.ca/courses/67116/modules/items/2294802)  
@@ -49,7 +49,7 @@
 ### J
 [Jakob Nielsen’s Heuristics](https://canvas.sfu.ca/courses/67116/modules/items/2294804)  
 [Jobs to Be Done Framework](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
-[Job Stories](https://canvas.sfu.ca/courses/67116/modules/items/2294806)    
+[Job Stories](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
 
 ### L
 [Layout](https://canvas.sfu.ca/courses/67116/modules/items/2294811)  
@@ -68,7 +68,7 @@
 [Pareto Principle](https://canvas.sfu.ca/courses/67116/modules/items/2294802)  
 [Peer Reviews](https://canvas.sfu.ca/courses/67116/modules/items/2294810)  
 [Personas/Proto-Personas](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
-[Power Law of Practice](https://canvas.sfu.ca/courses/67116/modules/items/2294803)   
+[Power Law of Practice](https://canvas.sfu.ca/courses/67116/modules/items/2294803)  
 [Problem Statements](https://canvas.sfu.ca/courses/67116/modules/items/2294802)  
 [Product Reaction Cards](https://canvas.sfu.ca/courses/67116/modules/items/2294802)
 [Prototyping](https://canvas.sfu.ca/courses/67116/modules/items/2294808)  
@@ -78,7 +78,7 @@
 
 ### S
 [Scenarios (also called Design Scenarios)](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
-[Software Design Processes](https://canvas.sfu.ca/courses/67116/modules/items/2294802)   
+[Software Design Processes](https://canvas.sfu.ca/courses/67116/modules/items/2294802)  
 
 ### T
 [Task Analysis](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
@@ -93,7 +93,7 @@
 [User Experience Design](https://canvas.sfu.ca/courses/67116/modules/items/2294802)  
 [User Research](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
 [User Research Analysis](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
-[User Stories](https://canvas.sfu.ca/courses/67116/modules/items/2294806)   
+[User Stories](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
 [UX Objectives](https://canvas.sfu.ca/courses/67116/modules/items/2294802)  
 
 ### V
