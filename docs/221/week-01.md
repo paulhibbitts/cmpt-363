@@ -35,10 +35,6 @@ Week 1 Readings <span class='badge'> [Fri Jan 14 2:30pm PT](https://www.timeandd
 
 [Emotional Design](ux-techniques-guide/01.what-is-usability-and-user-experience-design/emotional-design.md ':include')
 
-[Hypothesis](ux-techniques-guide/01.what-is-usability-and-user-experience-design/hypothesis.md ':include')
-
-[Outcomes](ux-techniques-guide/01.what-is-usability-and-user-experience-design/outcomes.md ':include')
-
 [Problem Statements](ux-techniques-guide/01.what-is-usability-and-user-experience-design/problem-statements.md ':include')
 
 [Usability](ux-techniques-guide/01.what-is-usability-and-user-experience-design/usability.md ':include')
