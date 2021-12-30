@@ -25,3 +25,19 @@ Week 2 Readings <span class='badge'> [Fri Jan 21 2:30pm PT](https://www.timeandd
 
 ## Downloads
 [One-Page Touch Interaction Design Checklist](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Touch%20Interaction%20Checklist)  
+
+## Supplemental Readings
+
+[Conceptual Models](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/conceptual-models.md ':include')
+
+[Designing for Touch](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/designing-for-touch.md ':include')
+
+[Empty States](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/empty-states.md ':include')
+
+[HCI Laws and Cognitive Psychology](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/hci-laws.md ':include')
+
+[Interaction Design](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/interaction-design.md ':include')
+
+[Mobile and Multi-device Web Design](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/mobile-and-multidevice-web-design.md ':include')
+
+[Task Flows](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/task-flows.md ':include')
