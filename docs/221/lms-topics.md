@@ -19,7 +19,6 @@
 [Design Ethics](https://canvas.sfu.ca/courses/67116/modules/items/2294802)  
 [Design Scenarios (also called Scenarios)](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
 [Designing for Touch](https://canvas.sfu.ca/courses/67116/modules/items/2294803)  
-[Discovery Research](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
 [Double Diamond](https://canvas.sfu.ca/courses/67116/modules/items/2294802)  
 
 ### E
@@ -43,6 +42,7 @@
 ### I
 [Icons](https://canvas.sfu.ca/courses/67116/modules/items/2294811)  
 [Inclusive Design](https://canvas.sfu.ca/courses/67116/modules/items/2294812)  
+[Indirect User Research](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
 [Interaction Design](https://canvas.sfu.ca/courses/67116/modules/items/2294803)  
 [Interviews](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
 
