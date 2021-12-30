@@ -7,6 +7,7 @@ To help orientate yourself to the course, explore the [course syllabus](https://
 Online courses as compared to in-person classes can present unique challenges. Here are some articles to help you better succeed with online learning:
 
 * [8 Strategies for Getting the Most Out of an Online Class](https://www.northeastern.edu/graduate/blog/tips-for-taking-online-classes/)
+* [Avoiding Screen Fatigue](https://mbhub.ca/development/avoiding-screen-fatigue/)
 * [What Makes a Successful Online Learner?](https://careerwise.minnstate.edu/education/successonline.html)
 * [Tips for Taking Classes and Studying Online at Home](https://www.ualberta.ca/current-students/academic-success-centre/resources/working-online.html)
 
