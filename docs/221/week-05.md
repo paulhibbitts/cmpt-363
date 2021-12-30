@@ -39,9 +39,9 @@ Week 5 Readings and Assignment 2 <span class='badge'> [Fri Feb 11 2:30pm PT](htt
 
 [Contextual Inquiry](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/contextual-inquiry.md ':include')
 
-[Discovery Research](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/discovery-research.md ':include')
-
 [Hypothesis](ux-techniques-guide/01.what-is-usability-and-user-experience-design/hypothesis.md ':include')  
+
+[Indirect User Research](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/user-research-indirect.md ':include')
 
 [Interviews](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/interviews.md ':include')
 

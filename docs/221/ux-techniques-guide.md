@@ -77,11 +77,11 @@
 
 [Diary Studies](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/diary-studies.md ':include')
 
-[Discovery Research](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/discovery-research.md ':include')
-
 [Empathy Maps](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/empathy-maps.md ':include')
 
 [Five Whys](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/five-whys.md ':include')
+
+[Indirect User Research](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/user-research-indirect.md ':include')
 
 [Interviews](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/interviews.md ':include')
 
