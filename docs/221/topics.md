@@ -19,7 +19,6 @@
 [Design Ethics](221/week-01)  
 [Design Scenarios (also called Scenarios)](221/week-05)  
 [Designing for Touch](221/week-02)  
-[Discovery Research](221/week-05)  
 [Double Diamond](221/week-01)  
 
 ### E
@@ -43,6 +42,7 @@
 ### I
 [Icons](221/week-11)  
 [Inclusive Design](221/week-12)  
+[Indirect User Research](221/week-05)  
 [Interaction Design](221/week-02)  
 [Interviews](221/week-05)  
 
