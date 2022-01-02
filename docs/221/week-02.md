@@ -8,9 +8,9 @@
 [Touch Targets on Touchscreens (11 minute read)](https://www.nngroup.com/articles/touch-target-size/)  
 
 ## Blackboard Collab Session
-[Multi-device Interaction Design](https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-02) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
+[Mobile and Multi-device Interaction Design](https://docs.google.com/presentation/d/e/2PACX-1vSef9bZxvZeGune7njICxeVh7aDHIWMeYLihSkCONGDU1byvkxVhf7p3OuwHG5LOh3fqWFHAuGW-Yso/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-02) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
 
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vS_tnc1iOC98enAtEcvyVDD8gu_AukAzS6d2skYpfwsB08SX73kTY7v8C10Xl2w4JKEcCkA-5A9Wdlr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSef9bZxvZeGune7njICxeVh7aDHIWMeYLihSkCONGDU1byvkxVhf7p3OuwHG5LOh3fqWFHAuGW-Yso/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Zoom Cowork/Q&A Session
 Week 2 Readings <span class='badge'> [Fri Jan 21 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Review+and+Discussions&iso=20220121T1430&p1=256&am=50)</span>
@@ -39,5 +39,11 @@ Week 2 Readings <span class='badge'> [Fri Jan 21 2:30pm PT](https://www.timeandd
 [Interaction Design](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/interaction-design.md ':include')
 
 [Mobile and Multi-device Web Design](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/mobile-and-multidevice-web-design.md ':include')
+
+[Platform Guidelines - Android](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/platform-guidelines-android.md ':include')
+
+[Platform Guidelines - Apple](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/platform-guidelines-apple.md ':include')
+
+[Platform Guidelines - Web](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/platform-guidelines-web.md ':include')
 
 [Task Flows](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/task-flows.md ':include')
