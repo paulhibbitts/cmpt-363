@@ -52,9 +52,13 @@
 
 [Interaction Design](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/interaction-design.md ':include')
 
-[Machine Learning](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/machine-learning.md ':include')
-
 [Mobile and Multi-device Web Design](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/mobile-and-multidevice-web-design.md ':include')
+
+[Platform Guidelines - Android](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/platform-guidelines-android.md ':include')
+
+[Platform Guidelines - Apple](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/platform-guidelines-apple.md ':include')
+
+[Platform Guidelines - Web](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/platform-guidelines-web.md ':include')
 
 [Responsive HTML Frameworks](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/responsive-html-frameworks.md ':include')
 
