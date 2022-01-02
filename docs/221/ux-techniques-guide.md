@@ -60,8 +60,6 @@
 
 [Platform Guidelines - Web](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/platform-guidelines-web.md ':include')
 
-[Responsive HTML Frameworks](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/responsive-html-frameworks.md ':include')
-
 [Responsive Web Design](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/responsive-web-design.md ':include')
 
 </details>
