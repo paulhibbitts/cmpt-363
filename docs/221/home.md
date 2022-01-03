@@ -51,7 +51,7 @@ Students are welcome to DM me - I will usually reply to messages 10am-4pm PT Mon
 
 <h3> Important Reminders </h3>
 
-* [Mobile App UX Improvement Nominations](https://canvas.sfu.ca/courses/67116/discussion_topics/1379832) <span class='badge'> [Mon Jan 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Project+Proposal+Due+Date&iso=20220124T235900)</span>
+* [Mobile App UX Improvement Nominations](https://canvas.sfu.ca/courses/67116/discussion_topics/1379832) <span class='badge'> [Mon Jan 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mobile+App+UX+Improvement+Nominations+Deadline&iso=20220124T235900)</span>
 
 <h3> Required Readings </h3>
 
