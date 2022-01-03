@@ -40,10 +40,6 @@ Week 2 Readings <span class='badge'> [Fri Jan 21 2:30pm PT](https://www.timeandd
 
 [Mobile and Multi-device Web Design](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/mobile-and-multidevice-web-design.md ':include')
 
-[Platform Guidelines - Android](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/platform-guidelines-android.md ':include')
-
-[Platform Guidelines - Apple](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/platform-guidelines-apple.md ':include')
-
-[Platform Guidelines - Web](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/platform-guidelines-web.md ':include')
+[Platform Guidelines ](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/platform-guidelines.md ':include')
 
 [Task Flows](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/task-flows.md ':include')
