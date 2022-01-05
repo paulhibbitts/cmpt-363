@@ -8,7 +8,7 @@
 ## Required Readings  
 [A 5-Step Process For Conducting User Research (16 minute read)](https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/)  
 [How to Leverage Thematic Analysis for Better UX (11 minute read)](https://www.toptal.com/designers/ux-research/thematic-analysis-for-ux)  
-[Using scenarios in design (5 minute read)](https://fordes.de/posts/usingscenariosindesign.html)  
+[User Need Statements: The ‘Define’ Stage in Design Thinking (11 minute read)](https://www.nngroup.com/articles/user-need-statements/)  
 
 ## Blackboard Collab Session
 [User Research](https://docs.google.com/presentation/d/e/2PACX-1vRebxbtOQyNOaVPZyE8Dfj7qfGqyL28YiZpjwJAx8EgkU3H9f4-4Zgv-MoNolRCRnf35jueaVRC1wWv/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-05) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
