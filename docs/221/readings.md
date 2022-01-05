@@ -7,9 +7,10 @@
 * [How to understand and communicate people's needs and behaviours? (Week 5)](#week-5)
 * [Special topic - conducting user research (Week 6)](#week-6)
 * [How to bridge the gap between the problem and design space? (Week 8)](#week-8)
-* [Special topic - conducting usability tests (Week 9)](#week-9)
-* [What are the essentials of visual interface design? (Week 11)](#week-11)
-* [Special topic - visual interface design (Week 12)](#week-12)
+* [What are the essentials of visual interface design? (Week 9)](#week-9)
+* [Special topic - conducting usability tests (Week 10)](#week-10)
+* [Storyboard wireframe peer review (Week 11)](#week-11)
+* [Special topic - Giving and receiving design feedback (Week 12)](#week-12)
 
 ## Week 1
 ### What is usability and user experience design?
@@ -83,6 +84,17 @@
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2018/12/role-of-creativity-ux-design/">What Is The Role Of Creativity In UX Design?</a></div>
 
 ## Week 9
+### What are the essentials of visual interface design?
+**5 Principles of Visual Design in UX (1 of 2 for Week 11)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/principles-visual-design/">5 Principles of Visual Design in UX</a></div>
+
+**Visual Hierarchy: Organizing content to follow natural eye movement patterns (2 of 3 for Week 11)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.interaction-design.org/literature/article/visual-hierarchy-organizing-content-to-follow-natural-eye-movement-patterns">Visual Hierarchy: Organizing content to follow natural eye movement patterns</a></div>
+
+**Fundamentals of typography in user interface design (UI) (3 of 3 for Week 11)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/fundamentals-of-typography-in-user-interface-design-ui-67cdd13bfa24">Fundamentals of typography in user interface design (UI)</a></div>
+
+## Week 10
 ### Special topic - conducting usability tests
 **Usability Testing Guide (1 of 3 for Week 9)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://boxesandarrows.com/usability-testing-guide/">Usability Testing Guide</a></div>
@@ -94,23 +106,17 @@
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.youtube.com/watch?v=vcV5Y7QaV4g">Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (Config)</a></div>
 
 ## Week 11
-### What are the essentials of visual interface design?
-**5 Principles of Visual Design in UX (1 of 2 for Week 11)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/principles-visual-design/">5 Principles of Visual Design in UX</a></div>
+### Storyboard wireframe peer review
+**Guidelines for Students - Peer Review (1 of 2 for Week 11)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://serc.carleton.edu/sp/library/peerreview/tips.html">Guidelines for Students - Peer Review</a></div>
 
-**Visual Hierarchy: Organizing content to follow natural eye movement patterns (2 of 3 for Week 11)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.interaction-design.org/literature/article/visual-hierarchy-organizing-content-to-follow-natural-eye-movement-patterns">Visual Hierarchy: Organizing content to follow natural eye movement patterns</a></div>
-
-**Fundamentals of typography in user interface design (UI) (3 of 3 for Week 11)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/fundamentals-of-typography-in-user-interface-design-ui-67cdd13bfa24">Fundamentals of typography in user interface design (UI)</a></div>
+**Peer Review Tips (2 of 2 for Week 11)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.coursera.org/lecture/ux-design-fundamentals/peer-review-tips-C4rbv">Peer Review Tips</a></div>
 
 ## Week 12
-### Special topic - visual interface design
-**You should be designing for diverse user bases (1 of 3 for Week 12)**  
+### Special topic - Giving and receiving design feedback
+**You should be designing for diverse user bases (1 of 2 for Week 12)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.invisionapp.com/inside-design/design-diverse-user-bases/">You should be designing for diverse user bases</a></div>
 
-**7 Things Every Designer Needs to Know about Accessibility (2 of 3 for Week 12)**  
+**7 Things Every Designer Needs to Know about Accessibility (1 of 2 for Week 12)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b">7 Things Every Designer Needs to Know about Accessibility</a></div>
-
-**10 Principles for Color Usage in UI Design (23 of 3 for Week 12)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/10-principles-for-color-usage-in-ui-design-65174b213004">10 Principles for Color Usage in UI Design</a></div>
