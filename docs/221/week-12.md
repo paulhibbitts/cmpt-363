@@ -1,6 +1,6 @@
 ![Abstract Image](images/dave-hoefler-vl2uAIdBWJ8-unsplash.jpg ':class=banner-image')
 
-# Special topic — Design Reviews
+# Special topic — Design Critique and Feedback
 
 ## Required Readings  
 *   [How to give and receive great design feedback](https://uxdesign.cc/how-to-give-and-receive-great-design-feedback-ca5e37eea4b9)
