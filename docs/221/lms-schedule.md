@@ -84,18 +84,18 @@ No classes.
 :fas fa-book fa-fw: [Visual Hierarchy: Organizing content to follow natural eye movement patterns (13 minute read)](https://www.interaction-design.org/literature/article/visual-hierarchy-organizing-content-to-follow-natural-eye-movement-patterns)  
 :fas fa-book fa-fw: [Fundamentals of typography in user interface design (UI) (7 minute read)](https://uxdesign.cc/fundamentals-of-typography-in-user-interface-design-ui-67cdd13bfa24)  
 :fas fa-desktop fa-fw: Blackboard Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-11) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544)] <span class='badge'> [Tue Mar 22 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20220322T1430&p1=256&ah=1&am=50)</span>  
-:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 11 Readings and Assignment 5 <span class='badge'> [Fri Mar 25 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220325T1430&p1=256&am=50)</span>  
-:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 11](https://canvas.sfu.ca/courses/67116/assignments) <span class='badge'> [Thu Mar 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+11+Visual+Journal+Entry+Due+Date&iso=20220324T235900)</span>  
-:fas fa-keyboard fa-fw: [One-minute Summaries for Week 11](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Mar 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+11+Due+Date&iso=20220327T235900&p1=256)</span>
+:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 9 Readings and Assignment 5 <span class='badge'> [Fri Mar 25 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220325T1430&p1=256&am=50)</span>  
+:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 9](https://canvas.sfu.ca/courses/67116/assignments) <span class='badge'> [Thu Mar 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+11+Visual+Journal+Entry+Due+Date&iso=20220324T235900)</span>  
+:fas fa-keyboard fa-fw: [One-minute Summaries for Week 9](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Mar 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+11+Due+Date&iso=20220327T235900&p1=256)</span>
 
 ## :fas fa-calendar fa-fw: [Week 10 (Mar 14 - 20)](https://canvas.sfu.ca/courses/67116/modules/items/2294810)
 **Special topic - conducting usability tests**  
 :fas fa-book fa-fw: [Usability Testing Guide (14 minute read)](https://boxesandarrows.com/usability-testing-guide/)  
 :fas fa-book fa-fw: [Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid (10 minute read)](https://www.nngroup.com/articles/better-usability-tasks/)  
 :fas fa-book fa-fw: [Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (Config) (17 minute video)](https://www.youtube.com/watch?v=vcV5Y7QaV4g)  
-:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 9 Readings and Assignment 3 <span class='badge'> [Tue Mar 8 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220308T1430&p1=256&am=50)</span>  
-:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 9 Readings and Assignment 3 <span class='badge'> [Fri Mar 11 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220311T1430&p1=256&am=50)</span>  
-:fas fa-keyboard fa-fw: [One-minute Summaries for Week 9](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Mar 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20220313T235900&p1=256)</span>  
+:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 10 Readings and Assignment 3 <span class='badge'> [Tue Mar 8 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220308T1430&p1=256&am=50)</span>  
+:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 10 Readings and Assignment 3 <span class='badge'> [Fri Mar 11 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220311T1430&p1=256&am=50)</span>  
+:fas fa-keyboard fa-fw: [One-minute Summaries for Week 10](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Mar 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20220313T235900&p1=256)</span>  
 :fas fa-image fa-fw: No visual journal entry  
 
 ## :fas fa-calendar fa-fw: [Week 11 (Mar 21 - 27)](https://canvas.sfu.ca/courses/67116/modules/items/2294811)
