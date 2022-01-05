@@ -1,29 +1,36 @@
-![Peer Reviews](images/matthew-waring-MJAoiige14E-unsplash.jpg ':class=banner-image')
+![Usability Test](images/4642289926_7964e733d1_b.jpg ':class=banner-image')
 
-# Storyboard Wireframe Peer Review
+# Special topic - conducting usability tests
 
-## Assignment 4
-[Storyboard Wireframe Peer Review](https://canvas.sfu.ca/courses/67116/assignments/710594) <span class='badge'> [Mon Mar 21 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Wireframes+Assignment+Due+Date&iso=20220321T2359&p1=256)</span>  
+## Required Readings  
+[Usability Testing Guide (14 minute read)](https://boxesandarrows.com/usability-testing-guide/)  
+[Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid (10 minute read)](https://www.nngroup.com/articles/better-usability-tasks/)  
+[Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (Config) (17 minute video)](https://www.youtube.com/watch?v=vcV5Y7QaV4g)  
 
-## Assignment 4 Resources  
+## Zoom Cowork/Q&A Sessions
+Week 9 Readings and Assignment 3 <span class='badge'> [Tue Mar 8 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220308T1430&p1=256&am=50)</span>  
+Week 9 Readings and Assignment 3 <span class='badge'> [Fri Mar 11 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220311T1430&p1=256&am=50)</span>  
 
-Peer Reviews  
-_The opportunity to give feedback on the work of fellow students._  
-*   [Guidelines for Students - Peer Review](https://serc.carleton.edu/sp/library/peerreview/tips.html)
-*   [How do I submit a peer review to an assignment?](https://community.canvaslms.com/t5/Student-Guide/How-do-I-submit-a-peer-review-to-an-assignment/ta-p/293)
-
-## Blackboard Collab Session
-[Storyboard Wireframe Peer Review](https://docs.google.com/presentation/d/e/2PACX-1vSv63JVgT7xb0VgWXP5GUUPDDH3fGulfgbXGY3e31aOWYfzsx9Rl-q6OF5rY1vp2UJ9TQ575_EWpqKp/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-10) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
-
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSv63JVgT7xb0VgWXP5GUUPDDH3fGulfgbXGY3e31aOWYfzsx9Rl-q6OF5rY1vp2UJ9TQ575_EWpqKp/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
-
-## Zoom Cowork/Q&A Session
-Week 10 Assignment 4 <span class='badge'> [Fri Mar 18 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220318T1430&p1=256&am=50)</span>  
+## One-minute Summaries & Questions
+[Usability Testing Guide](https://canvas.sfu.ca/courses/67116/assignments/710576) <span class='badge'> [Sun Mar 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20220313T235900&p1=256)</span>  
+[Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid](https://canvas.sfu.ca/courses/67116/assignments/710575) <span class='badge'> [Sun Mar 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20220313T235900&p1=256)</span>  
+[Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (Config)](https://canvas.sfu.ca/courses/67116/assignments/711653) <span class='badge'> [Sun Mar 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20220313T235900&p1=256)</span>  
 
 <h2> Weekly Visual Journal Entry </h2>
 
 No visual journal entry this week.
 
-<h2> One-minute Summaries & Questions </h2>
+## Supplemental Videos  
+[Rocket Surgery Made Easy by Steve Krug: Usability Demo](https://www.youtube.com/watch?v=1UCDUOB_aS8)  
 
-No one-minute summaries this week.
+<div class="video-container-4by3"><iframe width="560" height="315" src="https://www.youtube.com/embed/1UCDUOB_aS8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+## Supplemental Readings  
+
+[Usability Testing](ux-techniques-guide/07.how-to-plan-conduct-and-summarize-usability-tests/usability-testing-formal.md ':include')
+
+[Usability Test Surveys](ux-techniques-guide/07.how-to-plan-conduct-and-summarize-usability-tests/usability-test-surveys.md ':include')
+
+[Usability Test Tasks](ux-techniques-guide/07.how-to-plan-conduct-and-summarize-usability-tests/usability-test-tasks.md ':include')
+
+[Remote Usability Testing](ux-techniques-guide/07.how-to-plan-conduct-and-summarize-usability-tests/usability-testing-remote.md ':include')

@@ -1,72 +1,29 @@
-![Type on Page](images/4762082009_e0754cd5c3_b.jpg ':class=banner-image')
+![Peer Reviews](images/matthew-waring-MJAoiige14E-unsplash.jpg ':class=banner-image')
 
-# What are the essentials of visual interface design?
+# Storyboard Wireframe Peer Review
 
-## Assignment 5
-[High-fidelity Prototype](https://canvas.sfu.ca/courses/67116/assignments/662759) <span class='badge'> [Mon Apr 4 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+High-fidelity+Prototype+Due+Date&iso=20220404T2359&p1=256)</span>  
+## Assignment 4
+[Storyboard Wireframe Peer Review](https://canvas.sfu.ca/courses/67116/assignments/710594) <span class='badge'> [Mon Apr 4 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Wireframes+Assignment+Due+Date&iso=20220404T2359&p1=256)</span>  
 
-## Assignment 5 Resources  
+## Assignment 4 Resources  
 
-Adobe XD  
-_Desktop app interactive prototying tool._
-*   [Adobe XD Downloads](https://www.adobe.com/ca/products/xd.html)
-*   [23 Useful Adobe XD Tips, Tricks and Tutorials](https://bashooka.com/resources/adobe-xd-tips-tricks-and-tutorials/)
-*   [Adobe XD tutorials](https://helpx.adobe.com/ca/xd/tutorials.html)
-*   [Add Animation to UX/UI Designs With Auto-Animate | Adobe XD](https://www.adobe.com/ca/products/xd/features/auto-animate.html)
-*   [Free UI Kits & Templates: Apple iOS, Material Design & More](https://www.adobe.com/ca/products/xd/features/ui-kits.html)
-*   [FontAwesome Adobe Experience Design - Adobe XD](https://github.com/boraunal/FontAwesome-AdobeExperience-Design-XD)
-*   [Learning the basics of Adobe XD in one hour](https://medium.com/drill/learning-the-basics-of-adobe-xd-in-one-hour-3537f3ac02a3)  
-*   [Repeat Grid](https://www.xdguru.com/adobe-xd-guide/repeat-grid/)
-*   [UX & Web Design tutorial: Adobe XD for Beginners](https://www.digitalartsonline.co.uk/tutorials/interactive-design/adobe-xd-for-beginners/)
-*   [Working with Symbols in Adobe XD](https://medium.com/@Jonthanjosh/working-with-symbols-in-adobe-xd-6363a999a1d)
-
-Figma  
-_Web-based interactive prototying tool._
-*   [Figma Web App](https://www.figma.com/)
-*   [Figma Help Centre](https://help.figma.com/hc/en-us)
-*   [10 tips on using components in Figma](https://medium.com/design-with-figma/10-tips-on-using-components-in-figma-c7db9c5e7fe1)
-*   [Figma: 5 ways to add animation to your designs](https://uxdesign.cc/figma-5-ways-to-add-animation-to-your-designs-e3c521aa8902)
-*   [Figma 101: An introduction tutorial](https://www.youtube.com/watch?v=cCNLD5IZY34)
-*   [Community – Figma](https://www.figma.com/community/explore)
-*   [Figma tips and tricks](https://blog.prototypr.io/figma-tips-and-tricks-1c07ec13b696)  
-*   [Figma Tutorial: How (and Why) To Use It For Your Next Project](https://snipcart.com/blog/how-to-use-figma-tutorial)  
-*   [Figma UI Design Tutorial: Get Started in Just 24 Minutes! (2021)](https://www.youtube.com/watch?v=FTFaQWZBqQ8)  
-
-## Required Readings  
-[5 Principles of Visual Design in UX (10 minute read)](https://www.nngroup.com/articles/principles-visual-design/)  
-[Visual Hierarchy: Organizing content to follow natural eye movement patterns (13 minute read)](https://www.interaction-design.org/literature/article/visual-hierarchy-organizing-content-to-follow-natural-eye-movement-patterns)  
-[Fundamentals of typography in user interface design (UI) (7 minute read)](https://uxdesign.cc/fundamentals-of-typography-in-user-interface-design-ui-67cdd13bfa24)  
+Peer Reviews  
+_The opportunity to give feedback on the work of fellow students._  
+*   [Guidelines for Students - Peer Review](https://serc.carleton.edu/sp/library/peerreview/tips.html)
+*   [How do I submit a peer review to an assignment?](https://community.canvaslms.com/t5/Student-Guide/How-do-I-submit-a-peer-review-to-an-assignment/ta-p/293)
 
 ## Blackboard Collab Session
-[Visual Design Essentials](https://docs.google.com/presentation/d/e/2PACX-1vQO6xU4TI3OR2xpSYtMKaSm1fjLDiRfGirkM5A2c1SBSAPYtZKwn9jCbH1JxzA5MHXQPrTUtNkHXurr/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-11) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
+[Storyboard Wireframe Peer Review](https://docs.google.com/presentation/d/e/2PACX-1vSv63JVgT7xb0VgWXP5GUUPDDH3fGulfgbXGY3e31aOWYfzsx9Rl-q6OF5rY1vp2UJ9TQ575_EWpqKp/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-10) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
 
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQO6xU4TI3OR2xpSYtMKaSm1fjLDiRfGirkM5A2c1SBSAPYtZKwn9jCbH1JxzA5MHXQPrTUtNkHXurr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSv63JVgT7xb0VgWXP5GUUPDDH3fGulfgbXGY3e31aOWYfzsx9Rl-q6OF5rY1vp2UJ9TQ575_EWpqKp/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Zoom Cowork/Q&A Session
-Week 11 Readings and Assignment 5 <span class='badge'> [Fri Mar 25 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220325T1430&p1=256&am=50)</span>   
+Week 10 Assignment 4 <span class='badge'> [Fri Mar 18 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220318T1430&p1=256&am=50)</span>  
 
-## One-minute Summaries & Questions
-[5 Principles of Visual Design in UX](https://canvas.sfu.ca/courses/67116/assignments/710567) <span class='badge'> [Sun Mar 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20220327T235900&p1=256)</span>  
-[Visual Hierarchy: Organizing content to follow natural eye movement patterns](https://canvas.sfu.ca/courses/67116/assignments/710568) <span class='badge'> [Sun Mar 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20220327T235900&p1=256)</span>  
-[Fundamentals of typography in user interface design (UI)](https://canvas.sfu.ca/courses/67116/assignments/710572) <span class='badge'> [Sun Mar 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20220327T235900&p1=256)</span>
+<h2> Weekly Visual Journal Entry </h2>
 
-## Weekly Visual Journal Entry
-[Week 12 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/662765) <span class='badge'> [Thu Mar 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+12+Visual+Journal+Entry+Due+Date&iso=20220324T235900)</span>  
+No visual journal entry this week.
 
-## Supplemental Readings  
+<h2> One-minute Summaries & Questions </h2>
 
-[Grids](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/grids.md ':include')
-
-[Hierarchy](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/hierarchy.md ':include')
-
-[Icons](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/icons.md ':include')
-
-[Layout](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/layout.md ':include')
-
-[Microcopy](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/microcopy.md ':include')
-
-[Typography](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/typography.md ':include')
-
-[Visual Design Principles (CRAP)](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/visual-design-principles.md ':include')
-
-[Visual Interface Design](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/visual-interface-design.md ':include')
+No one-minute summaries this week.
