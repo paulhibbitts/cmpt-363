@@ -108,7 +108,7 @@ No classes.
 :fas fa-image fa-fw: No visual journal entry   
 
 ## :fas fa-calendar fa-fw: [Week 12 (Mar 28 - Apr 3)](https://canvas.sfu.ca/courses/67116/modules/items/2294812)
-**Special topic - Design critique and feedback**   
+**Special topic - Giving and receiving design feedback**  
 :fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 12 Readings and Assignment 4 <span class='badge'> [Tue Mar 29 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220329T1430&p1=256&am=50)</span>  
 :fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 12 Readings and Assignment 4 <span class='badge'> [Fri Apr 1 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220401T1430&p1=256&am=50)</span>  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 12](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Apr 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20220403T235900&p1=256)</span>  
