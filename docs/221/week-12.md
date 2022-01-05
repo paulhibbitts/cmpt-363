@@ -1,9 +1,9 @@
 ![Abstract Image](images/dave-hoefler-vl2uAIdBWJ8-unsplash.jpg ':class=banner-image')
 
-# Special topic — Design Critique and Feedback
+# Special topic — Giving and Receiving Design Feedback
 
 ## Required Readings  
-*   [How to give and receive great design feedback](https://uxdesign.cc/how-to-give-and-receive-great-design-feedback-ca5e37eea4b9)
+*   [How to Give and Receive Criticism](https://scottberkun.com/essays/35-how-to-give-and-receive-criticism/)
 *   [How To Give And Receive (Design) Critique Well](https://blog.prototypr.io/how-to-give-and-receive-design-critique-well-20a2639f79f1)
 
 ## Zoom Cowork/Q&A Sessions
