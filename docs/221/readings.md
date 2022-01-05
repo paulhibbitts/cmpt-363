@@ -9,7 +9,7 @@
 * [How to bridge the gap between the problem and design space? (Week 8)](#week-8)
 * [What are the essentials of visual interface design? (Week 9)](#week-9)
 * [Special topic - conducting usability tests (Week 10)](#week-10)
-* [Storyboard wireframe peer review (Week 11)](#week-11)
+* [Storyboard wireframe peer reviews (Week 11)](#week-11)
 * [Special topic - Giving and receiving design feedback (Week 12)](#week-12)
 
 ## Week 1
@@ -106,7 +106,7 @@
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.youtube.com/watch?v=vcV5Y7QaV4g">Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (Config)</a></div>
 
 ## Week 11
-### Storyboard wireframe peer review
+### Storyboard wireframe peer reviews
 **Guidelines for Students - Peer Review (1 of 2 for Week 11)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://serc.carleton.edu/sp/library/peerreview/tips.html">Guidelines for Students - Peer Review</a></div>
 
