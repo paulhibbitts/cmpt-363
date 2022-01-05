@@ -6,8 +6,8 @@
 [Storyboard Wireframe Peer Review](https://canvas.sfu.ca/courses/67116/assignments/710594) <span class='badge'> [Mon Apr 4 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Wireframes+Assignment+Due+Date&iso=20220404T2359&p1=256)</span>  
 
 ## Required Readings  
-*   [Guidelines for Students - Peer Review](https://serc.carleton.edu/sp/library/peerreview/tips.html)
-*   [Peer Review Tips](https://www.coursera.org/lecture/ux-design-fundamentals/peer-review-tips-C4rbv)
+*   [Guidelines for Students - Peer Review (3 minute read)](https://serc.carleton.edu/sp/library/peerreview/tips.html)  
+*   [Peer Review Tips (5 minute video)](https://www.coursera.org/lecture/ux-design-fundamentals/peer-review-tips-C4rbv)  
 
 ## Blackboard Collab Session
 [Storyboard Wireframe Peer Review](https://docs.google.com/presentation/d/e/2PACX-1vSv63JVgT7xb0VgWXP5GUUPDDH3fGulfgbXGY3e31aOWYfzsx9Rl-q6OF5rY1vp2UJ9TQ575_EWpqKp/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Review%20and%20Discussion/Week-10) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
