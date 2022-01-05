@@ -3,7 +3,7 @@
 # Special topic — Giving and Receiving Design Feedback
 
 ## Required Readings  
-*   [How to Give and Receive Criticism](https://scottberkun.com/essays/35-how-to-give-and-receive-criticism/)
+*   [Visual communication: 10 tips on evaluating design](https://alumni.sae.edu/2016/02/26/visual-communication-10-tips-on-evaluating-design/)
 *   [How To Give And Receive (Design) Critique Well](https://blog.prototypr.io/how-to-give-and-receive-design-critique-well-20a2639f79f1)
 
 ## Zoom Cowork/Q&A Sessions
