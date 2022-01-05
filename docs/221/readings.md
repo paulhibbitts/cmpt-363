@@ -115,8 +115,8 @@
 
 ## Week 12
 ### Special topic - Giving and receiving design feedback
-**You should be designing for diverse user bases (1 of 2 for Week 12)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.invisionapp.com/inside-design/design-diverse-user-bases/">You should be designing for diverse user bases</a></div>
+**Visual communication: 10 tips on evaluating design (1 of 2 for Week 12)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://alumni.sae.edu/2016/02/26/visual-communication-10-tips-on-evaluating-design/">Visual communication: 10 tips on evaluating design</a></div>
 
-**7 Things Every Designer Needs to Know about Accessibility (1 of 2 for Week 12)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b">7 Things Every Designer Needs to Know about Accessibility</a></div>
+**How To Give And Receive (Design) Critique Well (1 of 2 for Week 12)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://blog.prototypr.io/how-to-give-and-receive-design-critique-well-20a2639f79f1">How To Give And Receive (Design) Critique Well</a></div>
