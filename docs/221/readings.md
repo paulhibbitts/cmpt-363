@@ -118,5 +118,5 @@
 **Visual communication: 10 tips on evaluating design (1 of 2 for Week 12)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://alumni.sae.edu/2016/02/26/visual-communication-10-tips-on-evaluating-design/">Visual communication: 10 tips on evaluating design</a></div>
 
-**How To Give And Receive (Design) Critique Well (1 of 2 for Week 12)**  
+**How To Give And Receive (Design) Critique Well (2 of 2 for Week 12)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://blog.prototypr.io/how-to-give-and-receive-design-critique-well-20a2639f79f1">How To Give And Receive (Design) Critique Well</a></div>
