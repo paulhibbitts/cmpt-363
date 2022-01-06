@@ -69,7 +69,7 @@
 [Peer Reviews](221/week-10)  
 [Personas/Proto-Personas](221/week-05)  
 [Power Law of Practice](221/week-02)  
-[Problem Statements](221/week-01)  
+[Problem Statements](221/week-05)  
 [Product Reaction Cards](221/week-01)  
 [Prototyping](221/week-08)  
 
