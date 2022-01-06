@@ -69,7 +69,7 @@
 [Peer Reviews](https://canvas.sfu.ca/courses/67116/modules/items/2294810)  
 [Personas/Proto-Personas](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
 [Power Law of Practice](https://canvas.sfu.ca/courses/67116/modules/items/2294803)  
-[Problem Statements](https://canvas.sfu.ca/courses/67116/modules/items/2294802)  
+[Problem Statements](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
 [Product Reaction Cards](https://canvas.sfu.ca/courses/67116/modules/items/2294802)
 [Prototyping](https://canvas.sfu.ca/courses/67116/modules/items/2294808)  
 
