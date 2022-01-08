@@ -74,7 +74,7 @@
 [Prototyping](https://canvas.sfu.ca/courses/67116/modules/items/2294808)  
 
 ### R
-[Remote User Research and Usability Techniques](https://canvas.sfu.ca/courses/67116/modules/items/2120567)  
+[Remote User Research and Usability Techniques](https://canvas.sfu.ca/courses/67116/modules/items/2294807)  
 
 ### S
 [Scenarios (also called Design Scenarios)](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
