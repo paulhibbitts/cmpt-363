@@ -56,7 +56,7 @@
 [Lean UX](https://canvas.sfu.ca/courses/67116/modules/items/2294802)  
 
 ### M
-[Microcopy](https://canvas.sfu.ca/courses/67116/modules/items/2294809)
+[Microcopy](https://canvas.sfu.ca/courses/67116/modules/items/2294809)  
 [Miller’s Law](https://canvas.sfu.ca/courses/67116/modules/items/2294803)  
 [Mobile Design](https://canvas.sfu.ca/courses/67116/modules/items/2294803)  
 [Multi-device Design](https://canvas.sfu.ca/courses/67116/modules/items/2294803)  
