@@ -65,7 +65,7 @@
 [Norman’s Design Principles](https://canvas.sfu.ca/courses/67116/modules/items/2294804)
 
 ### P
-[Pareto Principle](https://canvas.sfu.ca/courses/67116/modules/items/2294802)  
+[Pareto Principle](https://canvas.sfu.ca/courses/67116/modules/items/2294803)  
 [Peer Reviews](https://canvas.sfu.ca/courses/67116/modules/items/2294811)  
 [Personas/Proto-Personas](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
 [Power Law of Practice](https://canvas.sfu.ca/courses/67116/modules/items/2294803)  
