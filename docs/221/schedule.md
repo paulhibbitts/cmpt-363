@@ -69,7 +69,7 @@ No classes.
 ## :fas fa-calendar fa-fw: [Week 8 (Feb 28 - Mar 6)](221/week-08)
 **How to bridge the gap between the problem and design space?**  
 :fas fa-check fa-fw: [User Research Report Assignment due](https://canvas.sfu.ca/courses/67116/assignments/662762) <span class='badge'> [Mon Feb 28 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+User+Research+Assignment+Due+Date&iso=20220228T2359&p1=256)</span>  
-:fas fa-pen fa-fw: [Storyboard Wireframes Assignment](https://canvas.sfu.ca/courses/67116/assignments/662760) <span class='badge'> [Mon Mar 21 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Wireframes+Assignment+Due+Date&iso=20220321T2359&p1=256)</span>  
+:fas fa-pen fa-fw: https://[Storyboard Wireframes Assignment](https://canvas.sfu.ca/courses/67116/assignments/710577) <span class='badge'> [Mon Mar 21 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Wireframes+Assignment+Due+Date&iso=20220321T2359&p1=256)</span>  
 :fas fa-book fa-fw: [Don Norman’s seven fundamental design principles (5 minute read)](https://uxdesign.cc/ux-psychology-principles-seven-fundamental-design-principles-39c420a05f84)  
 :fas fa-book fa-fw: [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project (12 minute read)](https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860)  
 :fas fa-book fa-fw: [What Is The Role Of Creativity In UX Design? (10 minute read)](https://www.smashingmagazine.com/2018/12/role-of-creativity-ux-design/)  
@@ -100,8 +100,8 @@ No classes.
 
 ## :fas fa-calendar fa-fw: [Week 11 (Mar 21 - 27)](221/week-11)
 **Storyboard wireframe peer reviews**  
-:fas fa-check fa-fw: [Storyboard Wireframes Assignment due](https://canvas.sfu.ca/courses/67116/assignments/662760) <span class='badge'> [Mon Mar 21 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Wireframes+Assignment+Due+Date&iso=20220321T2359&p1=256)</span>  
-:fas fa-check fa-fw: Storyboard Wireframes Assignment Peer Reviews <span class='badge'> [Mon Apr 4 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Wireframes+Assignment+Peer+Reviews+Due+Date&iso=20220404T2359&p1=256)</span>  
+:fas fa-check fa-fw: https://[Storyboard Wireframes Assignment due](https://canvas.sfu.ca/courses/67116/assignments/710577) <span class='badge'> [Mon Mar 21 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Wireframes+Assignment+Due+Date&iso=20220321T2359&p1=256)</span>  
+:fas fa-check fa-fw: [Storyboard Wireframes Assignment Peer Reviews](https://canvas.sfu.ca/courses/67116/assignments/710594) <span class='badge'> [Mon Apr 4 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Wireframes+Assignment+Peer+Reviews+Due+Date&iso=20220404T2359&p1=256)</span>  
 :fas fa-book fa-fw: [Guidelines for Students - Peer Review (3 minute read)](https://serc.carleton.edu/sp/library/peerreview/tips.html)  
 :fas fa-book fa-fw: [Peer Review Tips (5 minute video)](https://www.coursera.org/lecture/ux-design-fundamentals/peer-review-tips-C4rbv)  
 :fas fa-desktop fa-fw: Blackboard Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-10) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544)] <span class='badge'> [Tue Mar 15 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20220315T1430&p1=256&ah=1&am=50)</span>  
@@ -120,7 +120,7 @@ No classes.
 
 ## :fas fa-calendar fa-fw: [Week 13 (Apr 4 - 10)](221/week-13)
 **Course wrap-up**  
-:fas fa-check fa-fw: Storyboard Wireframes Assignment Peer Reviews due <span class='badge'> [Mon Apr 4 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Wireframes+Assignment+Peer+Reviews+Due+Date&iso=20220404T2359&p1=256)</span>  
+:fas fa-check fa-fw: [Storyboard Wireframes Assignment Peer Reviews due](https://canvas.sfu.ca/courses/67116/assignments/710594) <span class='badge'> [Mon Apr 4 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+Storyboard+Wireframes+Assignment+Peer+Reviews+Due+Date&iso=20220404T2359&p1=256)</span>  
 :fas fa-desktop fa-fw: Blackboard Course Wrap-up <span class='badge'> [Tue Apr 5 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Course+Wrap-up&iso=20220405T1430&p1=256&ah=30)</span>  
 :fas fa-keyboard fa-fw: No required readings or one-minute summaries  
 :fas fa-image fa-fw: No visual journal entry
