@@ -65,7 +65,7 @@
 [Norman’s Design Principles](221/week-08)
 
 ### P
-[Pareto Principle](221/week-01)  
+[Pareto Principle](221/week-02)  
 [Peer Reviews](221/week-11)  
 [Personas/Proto-Personas](221/week-05)  
 [Power Law of Practice](221/week-02)  
