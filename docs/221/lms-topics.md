@@ -42,7 +42,7 @@
 
 ### I
 [Icons](https://canvas.sfu.ca/courses/67116/modules/items/2294809)  
-[Indirect User Research](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
+[Indirect User Research](https://canvas.sfu.ca/courses/67116/modules/items/2294807)  
 [Interaction Design](https://canvas.sfu.ca/courses/67116/modules/items/2294803)  
 [Interviews](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
 
