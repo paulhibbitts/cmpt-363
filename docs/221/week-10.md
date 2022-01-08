@@ -8,8 +8,8 @@
 [Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (Config) (17 minute video)](https://www.youtube.com/watch?v=vcV5Y7QaV4g)  
 
 ## Zoom Cowork/Q&A Sessions
-Week 9 Readings and Assignment 3 <span class='badge'> [Tue Mar 8 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220308T1430&p1=256&am=50)</span>  
-Week 9 Readings and Assignment 3 <span class='badge'> [Fri Mar 11 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220311T1430&p1=256&am=50)</span>  
+Week 10 Readings and Assignment 3 <span class='badge'> [Tue Mar 8 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220308T1430&p1=256&am=50)</span>  
+Week 10 Readings and Assignment 3 <span class='badge'> [Fri Mar 11 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220311T1430&p1=256&am=50)</span>  
 
 ## One-minute Summaries & Questions
 [Usability Testing Guide](https://canvas.sfu.ca/courses/67116/assignments/710576) <span class='badge'> [Sun Mar 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20220313T235900&p1=256)</span>  

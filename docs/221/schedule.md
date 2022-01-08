@@ -81,8 +81,8 @@ No classes.
 ## :fas fa-calendar fa-fw: [Week 9 (Mar 7 - 13)](221/week-09)
 **What are the essentials of visual interface design?**  
 :fas fa-book fa-fw: [5 Principles of Visual Design in UX (10 minute read)](https://www.nngroup.com/articles/principles-visual-design/)  
-:fas fa-book fa-fw: [Visual Hierarchy: Organizing content to follow natural eye movement patterns (13 minute read)](https://www.interaction-design.org/literature/article/visual-hierarchy-organizing-content-to-follow-natural-eye-movement-patterns)  
-:fas fa-book fa-fw: [Fundamentals of typography in user interface design (UI) (7 minute read)](https://uxdesign.cc/fundamentals-of-typography-in-user-interface-design-ui-67cdd13bfa24)  
+:fas fa-book fa-fw: [7 Things Every Designer Needs to Know about Accessibility (14 minute read)](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)  
+:fas fa-book fa-fw: [Guide for designing better mobile apps typography (6 minute read)](https://uxdesign.cc/guide-for-designing-better-mobile-apps-typography-5796495ef86f)  
 :fas fa-desktop fa-fw: Blackboard Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-11) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544)] <span class='badge'> [Tue Mar 22 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20220322T1430&p1=256&ah=1&am=50)</span>  
 :fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 9 Readings and Assignment 5 <span class='badge'> [Fri Mar 25 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220325T1430&p1=256&am=50)</span>  
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 9](https://canvas.sfu.ca/courses/67116/assignments) <span class='badge'> [Thu Mar 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+11+Visual+Journal+Entry+Due+Date&iso=20220324T235900)</span>  
@@ -105,14 +105,15 @@ No classes.
 :fas fa-book fa-fw: [Guidelines for Students - Peer Review (3 minute read)](https://serc.carleton.edu/sp/library/peerreview/tips.html)  
 :fas fa-book fa-fw: [Peer Review Tips (5 minute video)](https://www.coursera.org/lecture/ux-design-fundamentals/peer-review-tips-C4rbv)  
 :fas fa-desktop fa-fw: Blackboard Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-10) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544)] <span class='badge'> [Tue Mar 15 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20220315T1430&p1=256&ah=1&am=50)</span>  
-:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Assignment 4 <span class='badge'> [Fri Mar 18 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220318T1430&p1=256&am=50)</span>  
+:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 11 Readings and Assignment 4 <span class='badge'> [Fri Mar 18 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220318T1430&p1=256&am=50)</span>  
+:fas fa-keyboard fa-fw: [One-minute Summaries for Week 11](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Mar 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+11+Due+Date&iso=20220327T235900&p1=256)</span>  
 :fas fa-image fa-fw: No visual journal entry  
 
 ## :fas fa-calendar fa-fw: [Week 12 (Mar 28 - Apr 3)](221/week-12)
 **Special topic - Giving and receiving design feedback**  
-:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 12 Readings and Assignment 4 <span class='badge'> [Tue Mar 29 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220329T1430&p1=256&am=50)</span>  
 :fas fa-book fa-fw: [Visual communication: 10 tips on evaluating design (5 minute read)](https://alumni.sae.edu/2016/02/26/visual-communication-10-tips-on-evaluating-design/)  
 :fas fa-book fa-fw: [How To Give And Receive (Design) Critique Well (10 minute read)](https://blog.prototypr.io/how-to-give-and-receive-design-critique-well-20a2639f79f1)  
+:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 12 Readings and Assignment 4 <span class='badge'> [Tue Mar 29 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220329T1430&p1=256&am=50)</span>  
 :fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 12 Readings and Assignment 4 <span class='badge'> [Fri Apr 1 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220401T1430&p1=256&am=50)</span>  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 12](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Apr 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20220403T235900&p1=256)</span>  
 :fas fa-image fa-fw: No visual journal entry  

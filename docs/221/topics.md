@@ -3,7 +3,7 @@
 ### [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | K | [L](#l) | M | [N](#n) | O | [P](#p) | Q | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | W | X | Y | Z  
 
 ### A
-[Accessibility](221/week-12)  
+[Accessibility](221/week-09)  
 [Agile UX](221/week-01)  
 
 ### B
@@ -11,11 +11,12 @@
 
 ### C
 [Cognitive Walkthroughs](221/week-03)  
-[Color](221/week-12)  
+[Color](221/week-09)  
 [Conceptual Models](221/week-08)  
 [Contextual Inquiry](221/week-05)  
 
 ### D
+[Design Critiques](221/week-12)  
 [Design Ethics](221/week-01)  
 [Design Scenarios (also called Scenarios)](221/week-05)  
 [Designing for Touch](221/week-02)  
@@ -31,7 +32,7 @@
 [Five Whys](221/week-05)  
 
 ### G
-[Grids](221/week-11)  
+[Grids](221/week-09)  
 
 ### H
 [HCI Laws](221/week-02)  
@@ -40,8 +41,7 @@
 [Hypothesis](221/week-01)  
 
 ### I
-[Icons](221/week-11)  
-[Inclusive Design](221/week-12)  
+[Icons](221/week-09)  
 [Indirect User Research](221/week-05)  
 [Interaction Design](221/week-02)  
 [Interviews](221/week-05)  
@@ -52,11 +52,11 @@
 [Job Stories](221/week-05)    
 
 ### L
-[Layout](221/week-11)  
+[Layout](221/week-09)  
 [Lean UX](221/week-01)  
 
 ### M
-[Microcopy](221/week-11)  
+[Microcopy](221/week-09)  
 [Miller’s Law](221/week-02)  
 [Mobile Design](221/week-02)  
 [Multi-device Design](221/week-02)  
@@ -66,7 +66,7 @@
 
 ### P
 [Pareto Principle](221/week-01)  
-[Peer Reviews](221/week-10)  
+[Peer Reviews](221/week-11)  
 [Personas/Proto-Personas](221/week-05)  
 [Power Law of Practice](221/week-02)  
 [Problem Statements](221/week-05)  
@@ -83,12 +83,12 @@
 ### T
 [Task Analysis](221/week-05)  
 [Thematic Analysis](221/week-05)  
-[Typography](221/week-11)  
+[Typography](221/week-09)  
 
 ### U
 [Usability](221/week-01)  
 [Usability Objectives](221/week-01)  
-[Usability Testing](221/week-09)  
+[Usability Testing](221/week-10)  
 [User-centered Design (UCD)](221/week-01)  
 [User Experience Design](221/week-01)  
 [User Research](221/week-05)  
@@ -97,6 +97,6 @@
 [UX Objectives](221/week-01)  
 
 ### V
-[Visual Design](221/week-11)  
-[Visual Design Principles (CRAP)](221/week-11)  
-[Visual Hierarchy](221/week-11)  
+[Visual Design](221/week-09)  
+[Visual Design Principles (CRAP)](221/week-09)  
+[Visual Hierarchy](221/week-09)  

@@ -105,9 +105,9 @@ No classes.
 :fas fa-book fa-fw: [Guidelines for Students - Peer Review (3 minute read)](https://serc.carleton.edu/sp/library/peerreview/tips.html)  
 :fas fa-book fa-fw: [Peer Review Tips (5 minute video)](https://www.coursera.org/lecture/ux-design-fundamentals/peer-review-tips-C4rbv)  
 :fas fa-desktop fa-fw: Blackboard Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-10) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544)] <span class='badge'> [Tue Mar 15 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20220315T1430&p1=256&ah=1&am=50)</span>  
-:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Assignment 4 <span class='badge'> [Fri Mar 18 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220318T1430&p1=256&am=50)</span>  
-:fas fa-keyboard fa-fw: No required readings or one-minute summaries  
-:fas fa-image fa-fw: No visual journal entry   
+:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 11 Readings and Assignment 4 <span class='badge'> [Fri Mar 18 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220318T1430&p1=256&am=50)</span>  
+:fas fa-keyboard fa-fw: [One-minute Summaries for Week 11](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Mar 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+11+Due+Date&iso=20220327T235900&p1=256)</span>  
+:fas fa-image fa-fw: No visual journal entry  
 
 ## :fas fa-calendar fa-fw: [Week 12 (Mar 28 - Apr 3)](https://canvas.sfu.ca/courses/67116/modules/items/2294812)
 **Special topic - Giving and receiving design feedback**  
