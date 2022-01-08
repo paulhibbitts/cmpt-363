@@ -42,7 +42,7 @@
 
 ### I
 [Icons](221/week-09)  
-[Indirect User Research](221/week-05)  
+[Indirect User Research](221/week-06)  
 [Interaction Design](221/week-02)  
 [Interviews](221/week-05)  
 
