@@ -24,8 +24,8 @@
 ## :fas fa-calendar fa-fw: [Week 3 (Jan 24 - 30)](221/week-03)
 **How to conduct a user interface inspection?**  
 :fas fa-pen fa-fw: [Heuristic Inspection Assignment](https://canvas.sfu.ca/courses/67116/assignments/662758) <span class='badge'> [Mon Feb 7 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Heuristic+Inspection+Due+Date&iso=20220207T2359&p1=256)</span>  
-:fas fa-book fa-fw: [10 Usability Heuristics for User Interface Design (8 minute read)](https://www.toptal.com/designers/usability/usability-analysis-how-to-run-a-heuristic-evaluation)  
-:fas fa-book fa-fw: [Heuristic Analysis for UX – How to Run a Usability Evaluation (10 minute read)](https://www.toptal.com/designers/usability/usability-analysis-how-to-run-a-heuristic-evaluation)  
+:fas fa-book fa-fw: [Evaluating Wireframes with Usability Inspection Methods (10 minute read)](https://balsamiq.com/learn/articles/usability-inspection/)  
+:fas fa-book fa-fw: [10 Usability Heuristics for User Interface Design (8 minute read)](https://www.nngroup.com/articles/ten-usability-heuristics/)  
 :fas fa-book fa-fw: [Severity Ratings for Usability Problems (5 minute read)](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)  
 :fas fa-desktop fa-fw: Blackboard Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-03) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544)] <span class='badge'> [Tue Jan 25 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20220125T1430&p1=256&ah=1&am=50)</span>  
 :fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 3 Readings and Assignment 1 <span class='badge'> [Fri Jan 28 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220128T1430&p1=256&am=50)</span>  
