@@ -38,7 +38,7 @@
 [HCI Laws](https://canvas.sfu.ca/courses/67116/modules/items/2294803)  
 [Heuristic Evaluations](https://canvas.sfu.ca/courses/67116/modules/items/2294804)  
 [Hick’s Law](https://canvas.sfu.ca/courses/67116/modules/items/2294803)  
-[Hypothesis](https://canvas.sfu.ca/courses/67116/modules/items/2294802)  
+[Hypothesis](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
 
 ### I
 [Icons](https://canvas.sfu.ca/courses/67116/modules/items/2294809)  
