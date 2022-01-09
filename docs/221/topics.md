@@ -38,7 +38,7 @@
 [HCI Laws](221/week-02)  
 [Heuristic Evaluations](221/week-03)  
 [Hick’s Law](221/week-02)  
-[Hypothesis](221/week-01)  
+[Hypothesis](221/week-05)  
 
 ### I
 [Icons](221/week-09)  
