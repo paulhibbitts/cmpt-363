@@ -11,4 +11,4 @@ Online courses as compared to in-person classes can present unique challenges. H
 * [What Makes a Successful Online Learner?](https://careerwise.minnstate.edu/education/successonline.html)
 * [Tips for Taking Classes and Studying Online at Home](https://www.ualberta.ca/current-students/academic-success-centre/resources/working-online.html)
 
-Weekly course materials will be posted here by Monday of each week. One-minute summaries are due on Thursday and visual journal entries are due by Sunday. Major assignments are usually due by midnight on Monday.
+Weekly course materials will be posted here by Monday of each week. Visual journal entries are due on Thursdays and one-minute summaries are due on Sundays. Major assignments are usually due by midnight on Monday.
