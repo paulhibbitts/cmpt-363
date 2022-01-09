@@ -7,7 +7,7 @@
 
 ## Required Readings  
 [Evaluating Wireframes with Usability Inspection Methods (10 minute read)](https://balsamiq.com/learn/articles/usability-inspection/)  
-[10 Usability Heuristics for User Interface Design (8 minute read)](https://www.toptal.com/designers/usability/usability-analysis-how-to-run-a-heuristic-evaluation)  
+[10 Usability Heuristics for User Interface Design (8 minute read)](https://www.nngroup.com/articles/ten-usability-heuristics/)  
 [Severity Ratings for Usability Problems (5 minute read)](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)  
 
 ## Blackboard Collab Session
