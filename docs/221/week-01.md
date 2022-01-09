@@ -27,9 +27,6 @@ Week 1 Readings <span class='badge'> [Fri Jan 14 2:30pm PT](https://www.timeandd
 
 ![Double Diamond (British Design Council)](images/Double_diamond.png)
 
-## Downloads
-[Product Reaction Cards](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Product%20Reaction%20Cards)  
-
 ## Supplemental Readings
 [Design Ethics](ux-techniques-guide/01.what-is-usability-and-user-experience-design/design-ethics.md ':include')
 
