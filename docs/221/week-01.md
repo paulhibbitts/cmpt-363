@@ -21,7 +21,7 @@ Week 1 Readings <span class='badge'> [Fri Jan 14 2:30pm PT](https://www.timeandd
 [Why UX Outcomes Make Better Goals Than Business Outcomes](https://canvas.sfu.ca/courses/67116/assignments/710569) <span class='badge'> [Sun Jan 16 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220116T235900&p1=256)</span>
 
 ## Weekly Visual Journal Entry
-[Week 2 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/662767) <span class='badge'> [Thu Jan 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+2+Visual+Journal+Entry+Due+Date&iso=20220113T235900)</span>  
+[Week 1 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/710635) <span class='badge'> [Thu Jan 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+2+Visual+Journal+Entry+Due+Date&iso=20220113T235900)</span>  
 
 ## CMPT-363 UX Design Process ([Double Diamond](https://en.wikipedia.org/wiki/Double_Diamond_(design_process_model)))
 
