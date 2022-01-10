@@ -24,7 +24,7 @@ Week 5 Readings and Assignment 2 <span class='badge'> [Fri Feb 11 2:30pm PT](htt
 [User Need Statements: The ‘Define’ Stage in Design Thinking](https://canvas.sfu.ca/courses/67116/assignments/710570) <span class='badge'> [Sun Feb 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=202202133T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
-[Week 6 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/662771) <span class='badge'> [Thu Feb 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+6+Visual+Journal+Entry+Due+Date&iso=20220210T235900)</span>  
+[Week 5 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/662771) <span class='badge'> [Thu Feb 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+6+Visual+Journal+Entry+Due+Date&iso=20220210T235900)</span>  
 
 ## Supplemental Videos  
 [Erika Hall: Design Research Done Right](https://www.youtube.com/watch?v=1UCDUOB_aS8)  
