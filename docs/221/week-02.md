@@ -21,7 +21,7 @@ Week 2 Readings <span class='badge'> [Fri Jan 21 2:30pm PT](https://www.timeandd
 [Touch Targets on Touchscreens](https://canvas.sfu.ca/courses/67116/assignments/710559) <span class='badge'> [Sun Jan 23 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220123T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
-[Week 3 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/662768) <span class='badge'> [Thu Jan 20 11:59pm PTS](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+3+Visual+Journal+Entry+Due+Date&iso=20220120T235900)</span>  
+[Week 2 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/662768) <span class='badge'> [Thu Jan 20 11:59pm PTS](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+3+Visual+Journal+Entry+Due+Date&iso=20220120T235900)</span>  
 
 ## Downloads
 [One-Page Touch Interaction Design Checklist](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Touch%20Interaction%20Checklist)  
