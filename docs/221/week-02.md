@@ -28,8 +28,6 @@ Week 2 Readings <span class='badge'> [Fri Jan 21 2:30pm PT](https://www.timeandd
 
 ## Supplemental Readings
 
-[Conceptual Models](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/conceptual-models.md ':include')
-
 [Designing for Touch](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/designing-for-touch.md ':include')
 
 [Empty States](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/empty-states.md ':include')
