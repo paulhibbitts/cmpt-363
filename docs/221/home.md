@@ -53,10 +53,6 @@ Students are welcome to DM me - I will usually reply to messages 10am-4pm PT Mon
 * [Blackboard Mini-lectures and Activities](https://canvas.sfu.ca/courses/67116/external_tools/3544) <span class='badge'> [Tue Jan 18 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20220118T1430&p1=256&ah=1&am=50)</span>
 * [Zoom Cowork/Q&A - Week 2 Readings](Z-Hx86bPtV85WYPg) <span class='badge'> [Fri Jan 21 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20220121T1430&p1=256&am=50)</span>
 
-<h3> Important Reminders </h3>
-
-* [Mobile App UX Improvement Nominations](https://canvas.sfu.ca/courses/67116/discussion_topics/1379832) <span class='badge'> [Mon Jan 17 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mobile+App+UX+Improvement+Nominations+Deadline&iso=20220117T235900)</span>
-
 <h3> Required Readings </h3>
 
 * [Interaction design: a guide for beginners (19 minute read)](https://uxplanet.org/interaction-design-a-guide-for-beginners-32ff2364b53f)
