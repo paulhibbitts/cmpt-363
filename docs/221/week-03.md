@@ -3,7 +3,7 @@
 # How to conduct a user interface inspection?
 
 ## Assignment 1
-[Individual Heuristic Inspection](https://canvas.sfu.ca/courses/67116/assignments/662758) <span class='badge'> [Mon Feb 7 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Due+Date&iso=20220207T2359&p1=256)</span>
+[Individual Heuristic Inspection](https://canvas.sfu.ca/courses/67116/assignments/710579) <span class='badge'> [Mon Feb 7 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Due+Date&iso=20220207T2359&p1=256)</span>
 
 ## Required Readings  
 [Evaluating Wireframes with Usability Inspection Methods (10 minute read)](https://balsamiq.com/learn/articles/usability-inspection/)  
