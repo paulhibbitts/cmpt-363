@@ -11,4 +11,5 @@ _A collection of principles and information from research in Human Computer Inte
 *   [The Pareto Principle And UX – Why Should You Care?](https://usabilitygeek.com/pareto-principle-and-ux/)
 *   [The Psychologist's View of UX Design](http://uxmag.com/articles/the-psychologists-view-of-ux-design)  
 *   [The psychology in UX design](https://uxdesign.cc/the-psychology-of-ux-design-859439bc8a32)  
+*   [Tips to design for how people think and feel](https://uxdesign.cc/tips-to-design-for-how-people-think-and-feel-5126474b8baa)  
 *   [UX psychology principles: seven important questions](https://uxdesign.cc/ux-psychology-principles-seven-important-questions-960579272880)  
