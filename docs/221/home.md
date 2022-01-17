@@ -7,7 +7,7 @@
 
 <h3> Live Sessions </h3>
 
-* [Blackboard Mini-lectures and Activities](https://canvas.sfu.ca/courses/67116/external_tools/3544) <span class='badge'> [Tue Jan 18 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20220118T1430&p1=256&ah=1&am=50)</span>
+* [Blackboard Mini-lectures and Activities](https://canvas.sfu.ca/courses/67116/external_tools/3544) [[guest link](https://www2.cs.sfu.ca/CourseCentral/363/paulh/BB-18-01-2022-T8UBGyayr5E4bo)] (will be recorded) <span class='badge'> [Tue Jan 18 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20220118T1430&p1=256&ah=1&am=50)</span>
 * [Zoom Cowork/Q&A - Week 2 Readings](https://www2.cs.sfu.ca/CourseCentral/363/paulh/Z-u5DkmoHXx5UFpN) <span class='badge'> [Fri Jan 21 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20220121T1430&p1=256&am=50)</span>
 
 <h3> Important Reminders </h3>
