@@ -12,7 +12,7 @@
 
 <h3> Important Reminders </h3>
 
-* [Create Assignment Group](https://canvas.sfu.ca/courses/67116/groups#tab-31593) (required for both individuals and pairs) <span class='badge'> [Fri Jan 21st 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Create+Student+Project+Group+Due+Date&iso=20220121T235900&p1=256)</span>
+* [Create Assignment Group](https://canvas.sfu.ca/courses/67116/groups#tab-31593) (required for both individuals and pairs) <span class='badge'> [Mon Jan 24th 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Create+Student+Project+Group+Due+Date&iso=20220124T235900&p1=256)</span>
 
 <h3> Required Readings & One-Minute Summaries </h3>
 
