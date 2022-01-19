@@ -18,6 +18,7 @@
  - [![Calendar](https://icongr.am/fontawesome/calendar.svg?size=16&color=6D6F71) Calendar](https://canvas.sfu.ca/calendar)
  - [![Assignments](https://icongr.am/fontawesome/pencil.svg?size=16&color=6D6F71) Assignments](https://canvas.sfu.ca/courses/67116/assignments)
  - [![Discussions](https://icongr.am/fontawesome/comments-o.svg?size=16&color=6D6F71) Discussions](https://canvas.sfu.ca/courses/67116/discussion_topics)
+  - [![Email Archive](https://icongr.am/fontawesome/envelope-o.svg?size=16&color=6D6F71) Email Archive](https://www2.cs.sfu.ca/CourseCentral/Hypermail/cmpt-363-d2/)
  - [![Files](https://icongr.am/fontawesome/folder.svg?size=16&color=6D6F71) Files](https://canvas.sfu.ca/courses/67116/files)
  - [![Grades](https://icongr.am/fontawesome/calculator.svg?size=16&color=6D6F71) Grades](https://canvas.sfu.ca/courses/67116/gradebook)
  - [![Syllabus](https://icongr.am/fontawesome/list.svg?size=16&color=6D6F71) Syllabus](https://canvas.sfu.ca/courses/67116/assignments/syllabus)  
