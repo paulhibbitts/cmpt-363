@@ -51,7 +51,7 @@ Students are welcome to DM me - I will usually reply to messages 10am-4pm PT Mon
 <h3> Live Sessions </h3>
 
 * [Blackboard Mini-lectures and Activities](https://canvas.sfu.ca/courses/67116/external_tools/3544) <span class='badge'> [Tue Jan 25 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Mini-lectures+and+Activities&iso=20220125T1430&p1=256&ah=1&am=50)</span>
-* [Zoom Cowork/Q&A - Week 3 Readings](https://www2.cs.sfu.ca/CourseCentral/363/paulh/Z-u5DkmoHXx5UFpN) <span class='badge'> [Fri Jan 28 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20220128T1430&p1=256&am=50)</span>
+* [Zoom Cowork/Q&A - Week 3 Readings and Assignment 1](https://www2.cs.sfu.ca/CourseCentral/363/paulh/Z-u5DkmoHXx5UFpN) <span class='badge'> [Fri Jan 28 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Review+and+Discussion&iso=20220128T1430&p1=256&am=50)</span>
 
 <h3> Required Readings </h3>
 
