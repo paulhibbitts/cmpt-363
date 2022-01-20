@@ -61,4 +61,4 @@ Students are welcome to DM me - I will usually reply to messages 10am-4pm PT Mon
 
 <h3> Upcoming Assignment </h3>
 
-* [Heuristic Inspection](https://canvas.sfu.ca/courses/67116/assignments/710579) <span class='badge'> [Mon Feb 7 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Due+Date&iso=20220207T2359&p1=256)</span>
+* [Heuristic Inspection (Assignment 1)](https://canvas.sfu.ca/courses/67116/assignments/710579) <span class='badge'> [Mon Feb 7 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Due+Date&iso=20220207T2359&p1=256)</span>
