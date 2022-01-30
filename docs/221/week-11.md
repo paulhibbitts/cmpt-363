@@ -21,6 +21,6 @@ Week 11 Readings and Assignment 4 <span class='badge'> [Fri Mar 18 2:30pm PT](ht
 [Guidelines for Students - Peer Review](https://canvas.sfu.ca/courses/67116/assignments/729566) <span class='badge'> [Sun Mar 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+11+Due+Date&iso=20220327T235900&p1=256)</span>  
 [Peer Review Tips](https://canvas.sfu.ca/courses/67116/assignments/729567) <span class='badge'> [Sun Mar 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+11+Due+Date&iso=20220327T235900&p1=256)</span>  
 
-<h2> Weekly Visual Journal Entry </h2>
+## Weekly Visual Journal Entry
 
 No visual journal entry this week.

@@ -14,7 +14,7 @@ Week 12 Readings and Assignment 4 <span class='badge'> [Fri Apr 1 2:30pm PT](htt
 [Visual communication: 10 tips on evaluating design](https://canvas.sfu.ca/courses/67116/assignments/711654) <span class='badge'> [Sun Apr 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20220303T235900&p1=256)</span>  
 [How To Give And Receive (Design) Critique Well](https://canvas.sfu.ca/courses/67116/assignments/710565) <span class='badge'> [Sun Apr 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20220303T235900&p1=256)</span>  
 
-<h2> Weekly Visual Journal Entry </h2>
+## Weekly Visual Journal Entry
 
 No visual journal entry this week.
 
