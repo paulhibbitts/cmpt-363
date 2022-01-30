@@ -37,6 +37,8 @@
     <link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital,wght@0,400;0,600;0,700;1,400;1,600;1,700&display=swap" rel="stylesheet">
 
+    <link rel="stylesheet" href="assets/css/toc.css">
+
     <style>
       :root {
 
@@ -164,6 +166,12 @@
               crossChapterText: true,
             },
 
+            toc: {
+              scope: '.markdown-section',
+              headings: 'h2, h3, h4, h5, h6',
+              title: 'Table of Contents',
+            },
+            
             darklightTheme: {
               defaultTheme: "light",
               dark: {
@@ -265,6 +273,12 @@
         sc.setAttribute("src", "https://cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/main.min.js");
         sc.setAttribute("type", "text/javascript");
         document.head.appendChild(sc);
+      }
+    </script>
+
+    <script>
+      if (getURLParameterByName('toc') === 'true' || getURLParameterByName('ToC') === 'true') {
+        document.write('<script src="https://unpkg.com/docsify-toc@1.0.0/dist/toc.js"><\/script>');
       }
     </script>
 
