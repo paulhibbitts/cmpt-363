@@ -23,9 +23,10 @@ Week 1 Readings <span class='badge'> [Fri Jan 14 2:30pm PT](https://www.timeandd
 ## Weekly Visual Journal Entry
 [Week 1 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/710635) <span class='badge'> [Thu Jan 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+2+Visual+Journal+Entry+Due+Date&iso=20220113T235900)</span>  
 
-## CMPT-363 UX Design Process ([Double Diamond](https://en.wikipedia.org/wiki/Double_Diamond_(design_process_model)))
+## CMPT-363 UX Design Process (Double Diamond)  
 
-![Double Diamond (British Design Council)](images/Double_diamond.png)
+![Double Diamond (British Design Council)](images/Double_diamond.png)  
+Source: https://en.wikipedia.org/wiki/Double_Diamond_(design_process_model)
 
 ## Supplemental Readings
 [Design Ethics](ux-techniques-guide/01.what-is-usability-and-user-experience-design/design-ethics.md ':include')
