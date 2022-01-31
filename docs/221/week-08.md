@@ -29,7 +29,7 @@ _Web-based wireframing tool._
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQcAAXMXQiMhG--OtAv9Ckhj_6VUyvO8ME6IzdqfCZIthhi50b0DFrMv2vyoEToNhsrR5AfhSbxjyjY/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Zoom Cowork/Q&A Session
-Week 8 Readings and Assignment 3 <span class='badge'> [Fri Mar 4 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220304T1430&p1=256&am=50)</span>  
+Week 8 Readings and Assignment 3 <span class='badge'> [Fri Mar 4 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220304T1430&p1=256&am=50)</span>  
 
 ## One-minute Summaries & Questions
 [Don Norman’s seven fundamental design principles](https://canvas.sfu.ca/courses/67116/assignments/710564) <span class='badge'>[Sun Feb 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220206T235900&p1=256)</span>  

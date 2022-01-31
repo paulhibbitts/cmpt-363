@@ -16,7 +16,7 @@
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRebxbtOQyNOaVPZyE8Dfj7qfGqyL28YiZpjwJAx8EgkU3H9f4-4Zgv-MoNolRCRnf35jueaVRC1wWv/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Zoom Cowork/Q&A Session
-Week 5 Readings and Assignment 2 <span class='badge'> [Fri Feb 11 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220211T1430&p1=256&am=50)</span>  
+Week 5 Readings and Assignment 2 <span class='badge'> [Fri Feb 11 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220211T1430&p1=256&am=50)</span>  
 
 ## One-minute Summaries & Questions
 [A 5-Step Process For Conducting User Research](https://canvas.sfu.ca/courses/67116/assignments/710561) <span class='badge'> [Sun Feb 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20220213T235900&p1=256)</span>  

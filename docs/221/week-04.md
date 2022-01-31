@@ -6,8 +6,8 @@
 [Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total)](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
 
 ## Zoom Cowork/Q&A Sessions
-Week 4 Readings and Assignment 1 <span class='badge'> [Tue Feb 1 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Review+and+Discussions&iso=20220201T1430&p1=256&am=50)</span>  
-Week 4 Readings and Assignment 1 <span class='badge'> [Fri Feb 4 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Review+and+Discussions&iso=20220204T1430&p1=256&am=50)</span>  
+Week 4 Readings and Assignment 1 <span class='badge'> [Tue Feb 1 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220201T1430&p1=256&am=50)</span>  
+Week 4 Readings and Assignment 1 <span class='badge'> [Fri Feb 4 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220204T1430&p1=256&am=50)</span>  
 
 ## One-minute Summaries & Questions
 [Design Heuristics Lecture with Scott Klemmer, a Video Playlist](https://canvas.sfu.ca/courses/67116/assignments/711254) <span class='badge'> [Sun Feb 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20220206T235900&p1=256)</span>  
