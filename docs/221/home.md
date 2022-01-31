@@ -56,3 +56,7 @@ Students are welcome to DM me - I will usually reply to messages 10am-4pm PT Mon
 * [A 5-Step Process For Conducting User Research (16 minute read)](https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/)  
 * [How to Leverage Thematic Analysis for Better UX (11 minute read)](https://www.toptal.com/designers/ux-research/thematic-analysis-for-ux)  
 * [User Need Statements: The ‘Define’ Stage in Design Thinking (11 minute read)](https://www.nngroup.com/articles/user-need-statements/)  
+
+<h3> Upcoming Assignment </h3>
+
+* [User Research Report](https://canvas.sfu.ca/courses/67116/assignments/710582) <span class='badge'> [Mon Feb 28 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Group+User+Research+Assignment+Due+Date&iso=20220228T2359&p1=256)</span>  
