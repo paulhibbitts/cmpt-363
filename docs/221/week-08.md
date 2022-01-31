@@ -9,7 +9,7 @@
 
 Balsamiq for Google Drive  
 _Web-based wireframing tool._
-*   [Balsamiq for Google Drive Installation](https://balsamiq.com/wireframes/google-drive/docs/installing/#installation) (contact Paul for 4 month Editor access)
+*   [Balsamiq for Google Drive Installation](https://balsamiq.com/wireframes/google-drive/docs/installing/#installation) (contact Paul for 3 month Editor access)
 *   [Balsamiq for Google Drive Documentation](https://balsamiq.com/wireframes/google-drive/docs/)
 *   [Balsamiq for Google Drive - Exporting](https://balsamiq.com/wireframes/google-drive/docs/exporting/)
 *   [12 Practical Tips for Creating Better Wireframes](https://uxplanet.org/12-practical-tips-for-creating-better-wireframes-be0418777946)
