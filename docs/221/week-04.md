@@ -1,6 +1,6 @@
 ![Abstract Image](images/dave-hoefler-vl2uAIdBWJ8-unsplash.jpg ':class=banner-image')
 
-# Special topic — heuristic evaluations / Open office consultation hours
+# Special topic — heuristic evaluations
 
 ## Required Readings  
 [Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total)](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
