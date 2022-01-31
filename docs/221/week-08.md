@@ -39,10 +39,6 @@ Week 8 Readings and Assignment 3 <span class='badge'> [Fri Mar 4 2:30pm PT](http
 ## Weekly Visual Journal Entry
 [Week 8 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/710591) <span class='badge'> [Thu Feb 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+8+Visual+Journal+Entry+Due+Date&iso=20220203T235900)</span>  
 
-## Supplemental Videos  
-[Mind the gap, user centered design in large organizations with Luke Wroblewski](https://www.youtube.com/watch?v=mAiNdU1go1A)  
-<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/mAiNdU1go1A" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
-
 ## Supplemental Readings  
 
 [Conceptual Models](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/conceptual-models.md ':include')
