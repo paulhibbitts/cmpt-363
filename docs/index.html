@@ -154,10 +154,11 @@
 
         // remove after confirming
         // TESTS: use url : /docs/#/module-01?ricardo=true&TOC=true
-        console.log('result:' + getURLParameterByName('embedded')); // testing for any case toc Toc TOC
-        console.log('result:' + getURLParameterByName(['embedded','standalone'])); // testing for any case toc Toc TOC
-        console.log('result:' + getURLParameterByName('standalone','_top','_blank')); // should be false
-        console.log('result:' + getURLParameterByName(['standalone','blabla', 'ricardo'],'_top','_blank')); // new array support, should be true.
+
+
+        console.log('result:' + (getURLParameterByName('embedded'))); // testing
+        console.log('result:' + (getURLParameterByName('hidegitlink')));
+        console.log('result:' + gitLinkRepoURL !== null);
 
         // Docsify
         window.$docsify = {
@@ -243,16 +244,20 @@
                 // Adjust GitHub displayable image URL format to also work in Docsify
                 html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
 
-                if ((!(getURLParameterByName('embedded') === 'true') && !(getURLParameterByName('hidegitlink') === 'true'))  &&  (!!gitLinkRepoURL)) {
+                if ( !(getURLParameterByName('embedded')) && !(getURLParameterByName('hidegitlink'))  ) {
+                  console.log('first');
                   return html + '<br />' + '\n\n' + '<hr>' + '\n\n' + editHtml + creditHtml
 
-                } else if ((!(getURLParameterByName('embedded') === 'true') && (getURLParameterByName('hidegitlink') === 'true'))  &&  (!!gitLinkRepoURL)) {
+                } else if ( !(getURLParameterByName('embedded')) && (getURLParameterByName('hidegitlink')) ) {
+                  console.log('second');
                   return html + '<br />' + '\n\n' + '<hr>' + creditHtml
 
-                } else if (((getURLParameterByName('embedded') === 'true') && !(getURLParameterByName('hidegitlink') === 'true'))  &&  (!!gitLinkRepoURL)) {
+                } else if ( getURLParameterByName('embedded') && !(getURLParameterByName('hidegitlink')) ) {
+                  console.log('third')
                   return html + '<br />' + '\n\n' + '<hr>' + '\n\n' + editHtml
 
                 } else {
+                  console.log('fourth')
                   return html
                 }
 
