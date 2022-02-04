@@ -61,10 +61,6 @@ aside.nav.nothing {
   text-decoration:underline !important;
 }
 
-.page_toc ul li {
-  padding-top: .5em;
-}
-
 .page_toc ul a {
   color: var(--text-color-base, black);
   text-decoration: none;
@@ -72,13 +68,16 @@ aside.nav.nothing {
   line-height: 1.2em;
 }
 
+.page_toc ul li {
+  padding-top: .5em;
+}
+
 @media screen and (max-width: 900px) {
   .page_toc {
     position: relative;
-    left: 0;
+    left: 25px;
     top: -20px;
     padding: 10px 0;
-    padding-left: 25px;
     border: none;
     border-bottom: 1px solid #ddd;
     font-size: 1.0em;
