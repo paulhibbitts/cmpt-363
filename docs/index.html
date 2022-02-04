@@ -149,14 +149,6 @@
           return exists;
         }
 
-        // remove after confirming
-        // TESTS: use url : /docs/#/module-01?ricardo=true&TOC=true
-
-
-        console.log('result:' + (getURLParameterByName('embedded'))); // testing
-        console.log('result:' + (getURLParameterByName('hidegitlink')));
-        console.log('result:' + gitLinkRepoURL !== null);
-
         // Docsify
         window.$docsify = {
             // GENERAL SETTINGS
@@ -242,19 +234,15 @@
                 html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
 
                 if ( !(getURLParameterByName('embedded')) && !(getURLParameterByName('hidegitlink'))  ) {
-                  console.log('first');
                   return html + '<br />' + '\n\n' + '<hr>' + '\n\n' + editHtml + creditHtml
 
                 } else if ( !(getURLParameterByName('embedded')) && (getURLParameterByName('hidegitlink')) ) {
-                  console.log('second');
                   return html + '<br />' + '\n\n' + '<hr>' + creditHtml
 
                 } else if ( getURLParameterByName('embedded') && !(getURLParameterByName('hidegitlink')) ) {
-                  console.log('third')
                   return html + '<br />' + '\n\n' + '<hr>' + '\n\n' + editHtml
 
                 } else {
-                  console.log('fourth')
                   return html
                 }
 
