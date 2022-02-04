@@ -243,13 +243,13 @@
                 // Adjust GitHub displayable image URL format to also work in Docsify
                 html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
 
-                if ((!(getURLParameterByName(['embedded','standalone']) === 'true') && !(getURLParameterByName('hidegitlink') === 'true'))  &&  (!!gitLinkRepoURL)) {
+                if ((!(getURLParameterByName('embedded') === 'true') && !(getURLParameterByName('hidegitlink') === 'true'))  &&  (!!gitLinkRepoURL)) {
                   return html + '<br />' + '\n\n' + '<hr>' + '\n\n' + editHtml + creditHtml
 
-                } else if ((!(getURLParameterByName(['embedded','standalone']) === 'true') && (getURLParameterByName('hidegitlink') === 'true'))  &&  (!!gitLinkRepoURL)) {
+                } else if ((!(getURLParameterByName('embedded') === 'true') && (getURLParameterByName('hidegitlink') === 'true'))  &&  (!!gitLinkRepoURL)) {
                   return html + '<br />' + '\n\n' + '<hr>' + creditHtml
 
-                } else if (((getURLParameterByName(['embedded','standalone']) === 'true') && !(getURLParameterByName('hidegitlink') === 'true'))  &&  (!!gitLinkRepoURL)) {
+                } else if (((getURLParameterByName('embedded') === 'true') && !(getURLParameterByName('hidegitlink') === 'true'))  &&  (!!gitLinkRepoURL)) {
                   return html + '<br />' + '\n\n' + '<hr>' + '\n\n' + editHtml
 
                 } else {
