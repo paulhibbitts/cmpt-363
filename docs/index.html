@@ -233,13 +233,13 @@
                 // Adjust GitHub displayable image URL format to also work in Docsify
                 html = html.replace(new RegExp("../assets/images", 'ig'), "assets/images");
 
-                if ( !(getURLParameterByName('embedded')) && !(getURLParameterByName('hidegitlink'))  ) {
+                if ( !(getURLParameterByName('embedded')) && !(getURLParameterByName('hidegitlink'))  && (!!gitLinkRepoURL)) {
                   return html + '<br />' + '\n\n' + '<hr>' + '\n\n' + editHtml + creditHtml
 
-                } else if ( !(getURLParameterByName('embedded')) && (getURLParameterByName('hidegitlink')) ) {
+                } else if ( !(getURLParameterByName('embedded')) && (getURLParameterByName('hidegitlink')) && (!!gitLinkRepoURL)) {
                   return html + '<br />' + '\n\n' + '<hr>' + creditHtml
 
-                } else if ( getURLParameterByName('embedded') && !(getURLParameterByName('hidegitlink')) ) {
+                } else if ( getURLParameterByName('embedded') && !(getURLParameterByName('hidegitlink')) && (!!gitLinkRepoURL)) {
                   return html + '<br />' + '\n\n' + '<hr>' + '\n\n' + editHtml
 
                 } else {
