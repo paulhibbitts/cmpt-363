@@ -57,8 +57,8 @@
 :fas fa-book fa-fw: [How to Run Remote User Research (Like a Boss!) (6 minute read)](https://medium.com/mixed-methods/how-to-run-remote-user-research-like-a-boss-b3729954f03)  
 :fas fa-book fa-fw: [User Interviews: How, When, and Why to Conduct Them (13 minute read)](https://www.nngroup.com/articles/user-interviews/)  
 :fas fa-book fa-fw: [User Research When You Can’t Talk to Your Users (12 minute read)](https://alistapart.com/article/user-research-when-you-cant-talk-to-your-users/)  
-:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 6 Readings and Assignment 1 <span class='badge'> [Tue Feb 15 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220215T1430&p1=256&am=50)</span>  
-:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 6 Readings and Assignment 1 <span class='badge'> [Fri Feb 18 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220218T1430&p1=256&am=50)</span>  
+:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 6 Readings and Assignment 2 <span class='badge'> [Tue Feb 15 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220215T1430&p1=256&am=50)</span>  
+:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 6 Readings and Assignment 2 <span class='badge'> [Fri Feb 18 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220218T1430&p1=256&am=50)</span>  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 6](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Feb 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20220217T205900&p1=256)</span>  
 :fas fa-image fa-fw: No visual journal entry  
 
