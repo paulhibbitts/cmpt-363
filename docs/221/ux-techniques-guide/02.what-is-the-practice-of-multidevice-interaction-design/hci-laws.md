@@ -4,6 +4,7 @@ _A collection of principles and information from research in Human Computer Inte
 *   [4 psychology principles every UX/UI designer should know](https://uxdesign.cc/4-psychology-principles-every-ux-ui-designer-should-know-89876d3bb356)  
 *   [Cognitive Styles: Get inside the user's head](http://uxmag.com/articles/cognitive-styles)  
 *   [Designing for Human Memory](https://uxplanet.org/designing-for-human-memory-a2cdc0b6a75a)  
+*   [Fitts’ Law In The Touch Era](https://www.smashingmagazine.com/2022/02/fitts-law-touch-era/)  
 *   [Improving Usability with Fitts's Law](http://sixrevisions.com/usabilityaccessibility/improving-usability-with-fitts-law/)  
 *   [Reducing Cognitive Overload For A Better User Experience](https://www.smashingmagazine.com/2016/09/reducing-cognitive-overload-for-a-better-user-experience/)
 *   [Reducing Reliance on Superstition](http://www.humanfactors.com/downloads/sep00.asp)  
