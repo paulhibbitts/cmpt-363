@@ -63,8 +63,8 @@
 
 ## Week 6
 ### Special topic - conducting user research
-**User Interviews: How, When, and Why to Conduct Them (1 of 3 for Week 6)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/user-interviews/">User Interviews: How, When, and Why to Conduct Them</a></div>
+**Asking the right questions during user research, interviews and testing (1 of 3 for Week 6)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67">Asking the right questions during user research, interviews and testing</a></div>
 
 **How to Run Remote User Research (Like a Boss!) (2 of 3 for Week 6)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/mixed-methods/how-to-run-remote-user-research-like-a-boss-b3729954f03">How to Run Remote User Research (Like a Boss!)</a></div>
