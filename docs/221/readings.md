@@ -63,10 +63,10 @@
 
 ## Week 6
 ### Special topic - conducting user research
-**User Interviews: How, When, and Why to Conduct Them (2 of 3 for Week 6)**  
+**User Interviews: How, When, and Why to Conduct Them (1 of 3 for Week 6)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/user-interviews/">User Interviews: How, When, and Why to Conduct Them</a></div>
 
-**How to Run Remote User Research (Like a Boss!) (1 of 3 for Week 6)**  
+**How to Run Remote User Research (Like a Boss!) (2 of 3 for Week 6)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.com/mixed-methods/how-to-run-remote-user-research-like-a-boss-b3729954f03">How to Run Remote User Research (Like a Boss!)</a></div>
 
 **User Research When You Can’t Talk to Your Users (3 of 3 for Week 6)**  
