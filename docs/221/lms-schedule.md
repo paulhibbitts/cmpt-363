@@ -64,7 +64,7 @@
 
 ## :fas fa-calendar fa-fw: Week 7 (Feb 21 - 27)
 **Reading week**  
-No classes.
+No required readings, one-minute summaries or visual journal.
 
 ## :fas fa-calendar fa-fw: [Week 8 (Feb 28 - Mar 6)](https://canvas.sfu.ca/courses/67116/modules/items/2294808)
 **How to bridge the gap between the problem and design space?**  
