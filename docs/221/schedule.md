@@ -64,7 +64,7 @@
 
 ## :fas fa-calendar fa-fw: [Week 7 (Feb 21 - 27)](221/week-07)
 **Reading week**  
-No classes.
+No required readings, one-minute summaries or visual journal.
 
 ## :fas fa-calendar fa-fw: [Week 8 (Feb 28 - Mar 6)](221/week-08)
 **How to bridge the gap between the problem and design space?**  
