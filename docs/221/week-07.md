@@ -2,4 +2,4 @@
 
 # Reading week
 
-No classes.
+No live sessions, required readings, one-minute summaries or visual journal this week.
