@@ -30,8 +30,6 @@ Week 2 Readings <span class='badge'> [Fri Jan 21 2:30pm PT](https://www.timeandd
 
 [Designing for Touch](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/designing-for-touch.md ':include')
 
-[Empty States](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/empty-states.md ':include')
-
 [HCI Laws and Cognitive Psychology](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/hci-laws.md ':include')
 
 [Interaction Design](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/interaction-design.md ':include')
