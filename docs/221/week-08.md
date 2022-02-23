@@ -43,6 +43,8 @@ Week 8 Readings and Assignment 3 <span class='badge'> [Fri Mar 4 2:30pm PT](http
 
 [Conceptual Models](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/conceptual-models.md ':include')
 
+[Empty States](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/empty-states.md ':include')
+
 [HCI Laws and Cognitive Psychology](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/hci-laws.md ':include')
 
 [Problem Framing](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/problem-framing.md ':include')
