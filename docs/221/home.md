@@ -16,9 +16,9 @@
 
 <h3> Required Readings & One-Minute Summaries </h3>
 
-* [Don Norman’s seven fundamental design principles](https://canvas.sfu.ca/courses/67116/assignments/710564) <span class='badge'>[Sun Feb 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220206T235900&p1=256)</span>  
-* [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project](https://canvas.sfu.ca/courses/67116/assignments/710563) <span class='badge'>[Sun Feb 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220206T235900&p1=256)</span>  
-* [What Is The Role Of Creativity In UX Design? (10 minute read)](https://canvas.sfu.ca/courses/67116/assignments/710552) </span>
+* [Don Norman’s seven fundamental design principles](https://canvas.sfu.ca/courses/67116/assignments/710564) <span class='badge'>[Sun Mar 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220306T235900&p1=256)</span>  
+* [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project](https://canvas.sfu.ca/courses/67116/assignments/710563) <span class='badge'>[Sun Mar 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220306T235900&p1=256)</span>  
+* [What Is The Role Of Creativity In UX Design? (10 minute read)](https://canvas.sfu.ca/courses/67116/assignments/710552) <span class='badge'>[Sun Mar 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220306T235900&p1=256)</span>  
 
 [Week 8 Visual Journal Entry due Mar 3](https://canvas.sfu.ca/courses/67116/assignments/710591 ':class=button')
 
