@@ -12,7 +12,7 @@
 
 <h3> Important Reminders </h3>
 
-* [User Research Report (Assignment 2)](https://canvas.sfu.ca/courses/67116/assignments/710582) <span class='badge'> [Mon Feb 28 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+User+Research+Assignment+Due+Date&iso=20220228T2359&p1=256)</span>  
+* [Storyboard Wireframes (Assignment 3)](https://canvas.sfu.ca/courses/67116/assignments/710577) <span class='badge'> [Mon Mar 21 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Due+Date&iso=20220321T2359&p1=256)</span>  
 
 <h3> Required Readings & One-Minute Summaries </h3>
 
