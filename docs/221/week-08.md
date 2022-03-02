@@ -15,7 +15,7 @@ _Web-based wireframing tool._
 *   [12 Practical Tips for Creating Better Wireframes](https://uxplanet.org/12-practical-tips-for-creating-better-wireframes-be0418777946)
 *   [Balsamiq Wireframes for Google Drive Overview](https://www.youtube.com/watch?v=l_jJMMY_QMQ)
 *   [Creating Polished Wireframes](https://balsamiq.com/learn/resources/articles/polished-wireframes/)
-*   [Wireframes to Go - a Collection of Ready-to-Use UI Controls](https://balsamiq.com/wireframes/togo/)
+*   [Wireframes to Go - a Collection of Ready-to-Use UI Controls](https://balsamiq.com/wireframes/togo/) (incl. Android Material Design symbols)
 *   [Working with Skins (Sketch vs. Wireframe)](https://balsamiq.com/wireframes/desktop/docs/skins/)
 
 ## Required Readings  
