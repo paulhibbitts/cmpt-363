@@ -31,6 +31,9 @@ _Web-based wireframing tool._
 ## Zoom Cowork/Q&A Session
 Week 8 Readings and Assignment 3 <span class='badge'> [Fri Mar 4 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220304T1430&p1=256&am=50)</span>  
 
+## Downloads
+[Sketching Templates](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Sketching%20Templates)  
+
 ## One-minute Summaries & Questions
 [Don Norman’s seven fundamental design principles](https://canvas.sfu.ca/courses/67116/assignments/710564) <span class='badge'>[Sun Mar 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220306T235900&p1=256)</span>  
 [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project](https://canvas.sfu.ca/courses/67116/assignments/710563) <span class='badge'>[Sun Mar 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220306T235900&p1=256)</span>  
