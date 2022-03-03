@@ -17,6 +17,3 @@ Week 12 Readings and Assignment 4 <span class='badge'> [Fri Apr 1 2:30pm PT](htt
 ## Weekly Visual Journal Entry
 
 No visual journal entry this week.
-
-## Supplemental Readings  
-TBD
