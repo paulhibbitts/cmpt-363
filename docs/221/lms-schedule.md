@@ -99,7 +99,7 @@ No required readings, one-minute summaries or visual journal.
 :fas fa-image fa-fw: No visual journal entry  
 
 ## :fas fa-calendar fa-fw: [Week 11 (Mar 21 - 27)](https://canvas.sfu.ca/courses/67116/modules/items/2294811)
-**Storyboard wireframe peer reviews**  
+**Peer design reviews**  
 :fas fa-check fa-fw: [Storyboard Wireframes Assignment due](https://canvas.sfu.ca/courses/67116/assignments/710577) <span class='badge'> [Mon Mar 21 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Due+Date&iso=20220321T2359&p1=256)</span>  
 :fas fa-check fa-fw: [Storyboard Wireframes Peer Reviews (Assignment 4)](https://canvas.sfu.ca/courses/67116/assignments/710594) <span class='badge'> [Mon Apr 4 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Peer+Reviews+Due+Date&iso=20220404T2359&p1=256)</span>  
 :fas fa-book fa-fw: [Guidelines for Students - Peer Review (3 minute read)](https://serc.carleton.edu/sp/library/peerreview/tips.html)  
