@@ -14,6 +14,7 @@
 [Color](221/week-09)  
 [Conceptual Models](221/week-08)  
 [Contextual Inquiry](221/week-05)  
+[Creativity](221/week-08)  
 
 ### D
 [Design Critiques](221/week-12)  
