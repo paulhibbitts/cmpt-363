@@ -14,6 +14,7 @@
 [Color](https://canvas.sfu.ca/courses/67116/modules/items/2294809)  
 [Conceptual Models](https://canvas.sfu.ca/courses/67116/modules/items/2294808)  
 [Contextual Inquiry](https://canvas.sfu.ca/courses/67116/modules/items/2294806)  
+[Creativity](https://canvas.sfu.ca/courses/67116/modules/items/2294808)  
 
 ### D
 [Design Critiques](https://canvas.sfu.ca/courses/67116/modules/items/2294812)  
