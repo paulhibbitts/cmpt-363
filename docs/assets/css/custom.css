@@ -36,10 +36,6 @@ body .app-nav {
   line-height: 1.4;
 }
 
-.markdown-section  #docsify-darklight-theme {
-    visibility: hidden;
-}
-
 .app-nav:not(:empty)~main .markdown-section {
   padding-top: 7rem;
 }
@@ -48,8 +44,12 @@ body .app-nav {
   margin-right: -5px;
 }
 
+.markdown-section  #docsify-darklight-theme {
+    visibility: hidden;
+}
+
 .app-nav:not(:empty)~main .markdown-section #docsify-darklight-theme {
-margin-top: 40px;
+margin-top: 44px;
 }
 
 /*
