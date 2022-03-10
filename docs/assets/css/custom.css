@@ -45,7 +45,7 @@ body .app-nav {
 }
 
 .app-nav:not(:empty)~main .markdown-section #docsify-darklight-theme {
-margin-top: 38px;
+margin-top: 40px;
 }
 
 /*
