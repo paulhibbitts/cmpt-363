@@ -44,6 +44,10 @@ body .app-nav {
     visibility: hidden;
 }
 
+.app-nav > ul > li > a, .app-nav > ul > li > span {
+  margin-right: -5px;
+}
+
 /*
 .markdown-section .badge {
   color: var(--codeBackgroundColor);
