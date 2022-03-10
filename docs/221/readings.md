@@ -1,4 +1,4 @@
-# All Readings
+# Weekly Readings
 
 * [What is usability and user experience design? (Week 1)](#week-1)
 * [What is the practice of mobile and multi-device interaction design? (Week 2)](#week-2)
