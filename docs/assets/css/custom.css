@@ -37,7 +37,7 @@ body .app-nav {
 }
 
 .app-nav:not(:empty)~main .markdown-section {
-  padding-top: 7rem;
+  padding-top: 7.5rem;
 }
 
 .app-nav > ul > li > a, .app-nav > ul > li > span {
@@ -49,7 +49,7 @@ body .app-nav {
 }
 
 .app-nav:not(:empty)~main .markdown-section #docsify-darklight-theme {
-margin-top: 36px;
+margin-top: 38px;
 }
 
 /*
