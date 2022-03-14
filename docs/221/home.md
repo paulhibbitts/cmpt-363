@@ -7,8 +7,8 @@
 
 <h3> Live Sessions </h3>
 
-* [Zoom Cowork/Q&A - Assignment 3](https://www2.cs.sfu.ca/CourseCentral/363/paulh/Z-u5DkmoHXx5UFpN) <span class='badge'> [Tue Mar 15 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220315T1430&p1=256&am=50)</span>
-* [Zoom Cowork/Q&A - Assignment 3](https://www2.cs.sfu.ca/CourseCentral/363/paulh/Z-u5DkmoHXx5UFpN) <span class='badge'> [Fri Mar 18 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220318T1430&p1=256&am=50)</span>
+* [Zoom Cowork/Q&A - Week 10 Readings and Assignment 3](https://www2.cs.sfu.ca/CourseCentral/363/paulh/Z-u5DkmoHXx5UFpN) <span class='badge'> [Tue Mar 15 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220315T1430&p1=256&am=50)</span>
+* [Zoom Cowork/Q&A - Week 10 Readings and Assignment 3](https://www2.cs.sfu.ca/CourseCentral/363/paulh/Z-u5DkmoHXx5UFpN) <span class='badge'> [Fri Mar 18 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220318T1430&p1=256&am=50)</span>
 
 <h3> Important Reminders </h3>
 
