@@ -24,7 +24,7 @@ Week 3 Readings and Assignment 1 <span class='badge'> [Fri Jun 3 2:30pm PT](http
 [Severity Ratings for Usability Problems](https://canvas.sfu.ca/courses/67116/assignments/710553) <span class='badge'> [Sun Jun 5 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20220505T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
-[Week 3 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/710587) <span class='badge'> [Thu Jun 2 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+4+Visual+Journal+Entry+Due+Date&iso=20220502T235900)</span>  
+[Week 4 Visual Journal Entry](https://canvas.sfu.ca/courses/69678/assignments/751353) <span class='badge'> [Thu Jun 2 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+4+Visual+Journal+Entry+Due+Date&iso=20220502T235900)</span>  
 
 ## Supplemental Videos  
 [The 10 Usability Heuristics](https://www.youtube.com/playlist?list=PLJOFJ3Ok_idtb2YeifXlG1-TYoMBLoG6I)  

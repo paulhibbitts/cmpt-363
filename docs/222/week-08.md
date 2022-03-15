@@ -46,7 +46,7 @@ Week 8 Readings and Assignment 3 <span class='badge'> [Fri Jul 1 2:30pm PT](http
 [What Is The Role Of Creativity In UX Design? (10 minute read)](https://canvas.sfu.ca/courses/67116/assignments/710552)  <span class='badge'>[Sun Jul 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220703T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
-[Week 8 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/710591) <span class='badge'> [Thu Feb 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+8+Visual+Journal+Entry+Due+Date&iso=20220203T235900)</span>  
+[Week 8 Visual Journal Entry](https://canvas.sfu.ca/courses/69678/assignments/751355) <span class='badge'> [Thu Jun 30 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+8+Visual+Journal+Entry+Due+Date&iso=20220630T235900)</span>  
 
 ## Supplemental Readings  
 

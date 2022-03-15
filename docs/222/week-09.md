@@ -21,7 +21,7 @@ Week 9 Readings and Assignment 3 <span class='badge'> [Fri Jul 8 2:30pm PT](http
 [Guide for designing better mobile apps typography](https://canvas.sfu.ca/courses/67116/assignments/710572) <span class='badge'> [Sun Jul 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20220710T235900&p1=256)</span>
 
 ## Weekly Visual Journal Entry
-[Week 9 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/710584) <span class='badge'> [Thu Jul 7 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+9+Visual+Journal+Entry+Due+Date&iso=20220707T235900)</span>  
+[Week 9 Visual Journal Entry](https://canvas.sfu.ca/courses/69678/assignments/751356) <span class='badge'> [Thu Jul 7 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+9+Visual+Journal+Entry+Due+Date&iso=20220707T235900)</span>  
 
 ## Supplemental Readings  
 
