@@ -30,7 +30,7 @@ _Key mobile platform design guidelines._
 [What Is The Role Of Creativity In UX Design? (10 minute read)](https://www.smashingmagazine.com/2018/12/role-of-creativity-ux-design/)  
 
 ## Blackboard Collab Session
-[Conceptual Models and Prototyping](https://docs.google.com/presentation/d/e/2PACX-1vSNgbuuFZAyZ-yuMgLMmNBBKEzIn-QAkUHbphXYDhxAIqx2IaShGP8dc_Dk1tNdmSoeewHPPvB95d0p/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-08) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
+[Conceptual Models and Prototyping](https://docs.google.com/presentation/d/e/2PACX-1vSNgbuuFZAyZ-yuMgLMmNBBKEzIn-QAkUHbphXYDhxAIqx2IaShGP8dc_Dk1tNdmSoeewHPPvB95d0p/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/69678/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-08) | [Recording](https://canvas.sfu.ca/courses/69678/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSNgbuuFZAyZ-yuMgLMmNBBKEzIn-QAkUHbphXYDhxAIqx2IaShGP8dc_Dk1tNdmSoeewHPPvB95d0p/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
@@ -38,7 +38,7 @@ _Key mobile platform design guidelines._
 Week 8 Readings and Assignment 3 <span class='badge'> [Fri Jul 1 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220701T1430&p1=256&am=50)</span>  
 
 ## Downloads
-[Sketching Templates](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Sketching%20Templates)  
+[Sketching Templates](https://canvas.sfu.ca/courses/69678/files/folder/Downloads/Sketching%20Templates)  
 
 ## One-minute Summaries & Questions
 [Don Norman’s seven fundamental design principles](https://canvas.sfu.ca/courses/67116/assignments/710564) <span class='badge'>[Sun Jul 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220703T235900&p1=256)</span>  

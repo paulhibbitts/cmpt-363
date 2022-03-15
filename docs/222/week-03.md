@@ -8,7 +8,7 @@
 [Touch Targets on Touchscreens (11 minute read)](https://www.nngroup.com/articles/touch-target-size/)  
 
 ## Blackboard Collab Session
-[Mobile and Multi-device Interaction Design](https://docs.google.com/presentation/d/e/2PACX-1vSNgbuuFZAyZ-yuMgLMmNBBKEzIn-QAkUHbphXYDhxAIqx2IaShGP8dc_Dk1tNdmSoeewHPPvB95d0p/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-02) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
+[Mobile and Multi-device Interaction Design](https://docs.google.com/presentation/d/e/2PACX-1vSNgbuuFZAyZ-yuMgLMmNBBKEzIn-QAkUHbphXYDhxAIqx2IaShGP8dc_Dk1tNdmSoeewHPPvB95d0p/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/69678/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-02) | [Recording](https://canvas.sfu.ca/courses/69678/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)
 
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSNgbuuFZAyZ-yuMgLMmNBBKEzIn-QAkUHbphXYDhxAIqx2IaShGP8dc_Dk1tNdmSoeewHPPvB95d0p/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
@@ -24,7 +24,7 @@ Week 2 Readings <span class='badge'> [Fri May 27:30pm PT](https://www.timeanddat
 [Week 3 Visual Journal Entry](https://canvas.sfu.ca/courses/69678/assignments/751352) <span class='badge'> [Thu May 26 11:59pm PTS](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+3+Visual+Journal+Entry+Due+Date&iso=20220526T235900)</span>  
 
 ## Downloads
-[One-Page Touch Interaction Design Checklist](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Touch%20Interaction%20Checklist)  
+[One-Page Touch Interaction Design Checklist](https://canvas.sfu.ca/courses/69678/files/folder/Downloads/Touch%20Interaction%20Checklist)  
 
 ## Supplemental Readings
 
