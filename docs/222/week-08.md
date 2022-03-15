@@ -3,7 +3,7 @@
 # How to bridge the gap between the problem and design space?
 
 ## Assignment 3
-[Storyboard Wireframes](https://canvas.sfu.ca/courses/69678/assignments/751349) <span class='badge'> [Mon Jul 18 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Due+Date&iso=20220321T2359&p1=256)</span>  
+[Storyboard Wireframes](https://canvas.sfu.ca/courses/69678/assignments/751349) <span class='badge'> [Mon Jul 18 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Due+Date&iso=20220718T2359&p1=256)</span>  
 
 ## Assignment 3 Resources  
 
@@ -35,15 +35,15 @@ _Key mobile platform design guidelines._
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSNgbuuFZAyZ-yuMgLMmNBBKEzIn-QAkUHbphXYDhxAIqx2IaShGP8dc_Dk1tNdmSoeewHPPvB95d0p/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Zoom Cowork/Q&A Session
-Week 8 Readings and Assignment 3 <span class='badge'> [Fri Jul 1 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220304T1430&p1=256&am=50)</span>  
+Week 8 Readings and Assignment 3 <span class='badge'> [Fri Jul 1 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220701T1430&p1=256&am=50)</span>  
 
 ## Downloads
 [Sketching Templates](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Sketching%20Templates)  
 
 ## One-minute Summaries & Questions
-[Don Norman’s seven fundamental design principles](https://canvas.sfu.ca/courses/67116/assignments/710564) <span class='badge'>[Sun Jul 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220306T235900&p1=256)</span>  
-[The Right Tool For The Job: Picking The Best Prototyping Software For Your Project](https://canvas.sfu.ca/courses/67116/assignments/710563) <span class='badge'>[Sun Jul 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220306T235900&p1=256)</span>  
-[What Is The Role Of Creativity In UX Design? (10 minute read)](https://canvas.sfu.ca/courses/67116/assignments/710552)  <span class='badge'>[Sun Jul 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220306T235900&p1=256)</span>  
+[Don Norman’s seven fundamental design principles](https://canvas.sfu.ca/courses/67116/assignments/710564) <span class='badge'>[Sun Jul 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220703T235900&p1=256)</span>  
+[The Right Tool For The Job: Picking The Best Prototyping Software For Your Project](https://canvas.sfu.ca/courses/67116/assignments/710563) <span class='badge'>[Sun Jul 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220703T235900&p1=256)</span>  
+[What Is The Role Of Creativity In UX Design? (10 minute read)](https://canvas.sfu.ca/courses/67116/assignments/710552)  <span class='badge'>[Sun Jul 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220703T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
 [Week 8 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/710591) <span class='badge'> [Thu Feb 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+8+Visual+Journal+Entry+Due+Date&iso=20220203T235900)</span>  
