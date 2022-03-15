@@ -21,21 +21,3 @@ Week 1 Readings <span class='badge'> [Fri May 13 2:30pm PT](https://www.timeandd
 ## Weekly Visual Journal Entry
 
 No visual journal entry this week.  
-
-## CMPT-363 UX Design Process (Double Diamond)
-
-![Double Diamond (British Design Council)](images/Double_diamond.png)  
-Source: https://en.wikipedia.org/wiki/Double_Diamond_(design_process_model)
-
-## Supplemental Readings
-[Design Ethics](ux-techniques-guide/01.what-is-usability-and-user-experience-design/design-ethics.md ':include')
-
-[Emotional Design](ux-techniques-guide/01.what-is-usability-and-user-experience-design/emotional-design.md ':include')
-
-[Problem Statements](ux-techniques-guide/01.what-is-usability-and-user-experience-design/problem-statements.md ':include')
-
-[Usability](ux-techniques-guide/01.what-is-usability-and-user-experience-design/usability.md ':include')
-
-[User Experience Design](ux-techniques-guide/01.what-is-usability-and-user-experience-design/user-experience-design.md ':include')
-
-[User Interface Design](ux-techniques-guide/01.what-is-usability-and-user-experience-design/user-interface-design.md ':include')
