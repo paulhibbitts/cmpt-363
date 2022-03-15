@@ -3,7 +3,7 @@
 # Peer Design Reviews
 
 ## Assignment 4
-[Storyboard Wireframe Peer Reviews](https://canvas.sfu.ca/courses/67116/assignments/710594) <span class='badge'> [Mon Apr 4 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Due+Date&iso=20220404T2359&p1=256)</span>  
+[Storyboard Wireframe Peer Reviews](https://canvas.sfu.ca/courses/67116/assignments/710594) <span class='badge'> [Mon Aug 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Due+Date&iso=20220404T2359&p1=256)</span>  
 
 ## Required Readings  
 [Guidelines for Students - Peer Review (3 minute read)](https://serc.carleton.edu/sp/library/peerreview/tips.html)  
@@ -15,11 +15,11 @@
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSNgbuuFZAyZ-yuMgLMmNBBKEzIn-QAkUHbphXYDhxAIqx2IaShGP8dc_Dk1tNdmSoeewHPPvB95d0p/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Zoom Cowork/Q&A Session
-Week 11 Readings and Assignment 4 <span class='badge'> [Fri Mar 25 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220325T1430&p1=256&am=50)</span>  
+Week 11 Readings and Assignment 4 <span class='badge'> [Fri Jul 22 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220325T1430&p1=256&am=50)</span>  
 
 ## One-minute Summaries & Questions
-[Guidelines for Students - Peer Review](https://canvas.sfu.ca/courses/67116/assignments/729566) <span class='badge'> [Sun Mar 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+11+Due+Date&iso=20220327T235900&p1=256)</span>  
-[Peer Review Tips](https://canvas.sfu.ca/courses/67116/assignments/729567) <span class='badge'> [Sun Mar 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+11+Due+Date&iso=20220327T235900&p1=256)</span>  
+[Guidelines for Students - Peer Review](https://canvas.sfu.ca/courses/67116/assignments/729566) <span class='badge'> [Sun Jul 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+11+Due+Date&iso=20220327T235900&p1=256)</span>  
+[Peer Review Tips](https://canvas.sfu.ca/courses/67116/assignments/729567) <span class='badge'> [Sun Jul 24 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+11+Due+Date&iso=20220327T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
 

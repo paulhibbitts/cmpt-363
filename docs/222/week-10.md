@@ -8,13 +8,13 @@
 [Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (Config) (17 minute video)](https://www.youtube.com/watch?v=vcV5Y7QaV4g)  
 
 ## Zoom Cowork/Q&A Sessions
-Week 10 Readings and Assignment 3 <span class='badge'> [Tue Mar 15 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220315T1430&p1=256&am=50)</span>  
-Week 10 Readings and Assignment 3 <span class='badge'> [Fri Mar 18 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220318T1430&p1=256&am=50)</span>  
+Week 10 Readings and Assignment 3 <span class='badge'> [Tue Jul 12 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220315T1430&p1=256&am=50)</span>  
+Week 10 Readings and Assignment 3 <span class='badge'> [Fri Jul 15 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220318T1430&p1=256&am=50)</span>  
 
 ## One-minute Summaries & Questions
-[Usability Testing Guide](https://canvas.sfu.ca/courses/67116/assignments/710576) <span class='badge'> [Sun Mar 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220320T235900&p1=256)</span>  
-[Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid](https://canvas.sfu.ca/courses/67116/assignments/710575) <span class='badge'> [Sun Mar 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220320T235900&p1=256)</span>  
-[Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (Config)](https://canvas.sfu.ca/courses/67116/assignments/711653) <span class='badge'> [Sun Mar 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220320T235900&p1=256)</span>  
+[Usability Testing Guide](https://canvas.sfu.ca/courses/67116/assignments/710576) <span class='badge'> [Sun Jul 17 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220320T235900&p1=256)</span>  
+[Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid](https://canvas.sfu.ca/courses/67116/assignments/710575) <span class='badge'> [Sun Jul 17 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220320T235900&p1=256)</span>  
+[Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (Config)](https://canvas.sfu.ca/courses/67116/assignments/711653) <span class='badge'> [Sun Jul 17 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220320T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
 
