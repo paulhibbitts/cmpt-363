@@ -31,21 +31,21 @@
 
 ## :fas fa-calendar fa-fw: [Week 4 (May 30 - Jun 5)](https://canvas.sfu.ca/courses/69678/modules/items/2446673)
 **How to conduct a user interface inspection?**  
-:fas fa-pen fa-fw: [Heuristic Inspection (Assignment 1)](https://canvas.sfu.ca/courses/69678/assignments/751347) <span class='badge'> [Mon Jun 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Heuristic+Inspection+Due+Date&iso=20220207T2359&p1=256)</span>  
+:fas fa-pen fa-fw: [Heuristic Inspection (Assignment 1)](https://canvas.sfu.ca/courses/69678/assignments/751347) <span class='badge'> [Mon Jun 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Heuristic+Inspection+Due+Date&iso=20220613T2359&p1=256)</span>  
 :fas fa-book fa-fw: [Evaluating Wireframes with Usability Inspection Methods (10 minute read)](https://balsamiq.com/learn/articles/usability-inspection/)  
 :fas fa-book fa-fw: [10 Usability Heuristics for User Interface Design (8 minute read)](https://www.nngroup.com/articles/ten-usability-heuristics/)  
 :fas fa-book fa-fw: [Severity Ratings for Usability Problems (5 minute read)](https://www.nngroup.com/articles/how-to-rate-the-severity-of-usability-problems/)  
-:fas fa-desktop fa-fw: Blackboard Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-04) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544)] <span class='badge'> [Tue May 31 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Mini-lectures+and+Activities&iso=20220125T1430&p1=256&ah=1&am=50)</span>  
-:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 4 Readings and Assignment 1 <span class='badge'> [Fri Jun 3 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220128T1430&p1=256&am=50)</span>  
-:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 4](https://canvas.sfu.ca/courses/67116/assignments) <span class='badge'> [Thu Jun 2 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+3+Visual+Journal+Entry+Due+Date&iso=20220127T235900)</span>  
-:fas fa-keyboard fa-fw: [One-minute Summaries for Week 4](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Jun 5 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20220130T235900&p1=256)</span>  
+:fas fa-desktop fa-fw: Blackboard Mini-lectures and Activities [[PDF](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-04) | [Recording](https://canvas.sfu.ca/courses/67116/external_tools/3544)] <span class='badge'> [Tue May 31 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Mini-lectures+and+Activities&iso=20220531T1430&p1=256&ah=1&am=50)</span>  
+:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 4 Readings and Assignment 1 <span class='badge'> [Fri Jun 3 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220603T1430&p1=256&am=50)</span>  
+:fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 4](https://canvas.sfu.ca/courses/67116/assignments) <span class='badge'> [Thu Jun 2 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+3+Visual+Journal+Entry+Due+Date&iso=20220502T235900)</span>  
+:fas fa-keyboard fa-fw: [One-minute Summaries for Week 4](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Jun 5 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20220505T235900&p1=256)</span>  
 
 ## :fas fa-calendar fa-fw: [Week 5 (Jun 6 - 12)](https://canvas.sfu.ca/courses/67116/modules/items/2294805)
 **Special topic - heuristic evaluations**  
 :fas fa-book fa-fw: [Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total)](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
-:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 5 Readings and Assignment 1 <span class='badge'> [Tue Jun 7 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220201T1430&p1=256&am=50)</span>  
-:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 5 Readings and Assignment 1 <span class='badge'> [Fri Jun 10 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220204T1430&p1=256&am=50)</span>  
-:fas fa-keyboard fa-fw: [One-minute Summaries for Week 5](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Jun 12  11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20220206T235900&p1=256)</span>  
+:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 5 Readings and Assignment 1 <span class='badge'> [Tue Jun 7 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220507T1430&p1=256&am=50)</span>  
+:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 5 Readings and Assignment 1 <span class='badge'> [Fri Jun 10 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220510T1430&p1=256&am=50)</span>  
+:fas fa-keyboard fa-fw: [One-minute Summaries for Week 5](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Jun 12  11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20220512T235900&p1=256)</span>  
 :fas fa-image fa-fw: No visual journal entry  
 
 ## :fas fa-calendar fa-fw: [Week 6 (Jun 13 - 19)](https://canvas.sfu.ca/courses/69678/modules/items/2446674)
