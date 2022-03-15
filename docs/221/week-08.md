@@ -22,6 +22,7 @@ Mobile Platform Guidelines
 _Key mobile platform design guidelines._
 *  [Human Interface Guidelines (Apple iOS)](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
 *  [Material Design 2 (incl. Android)](https://material.io/design)
+*  [32 design differences between iOS and Android apps](https://uxdesign.cc/ios-vs-android-design-630340a73ee6)  
 
 ## Required Readings  
 [Don Norman’s seven fundamental design principles (5 minute read)](https://uxdesign.cc/ux-psychology-principles-seven-fundamental-design-principles-39c420a05f84)  
