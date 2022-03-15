@@ -12,8 +12,8 @@
 
 <h3> Required Readings & One-Minute Summaries </h3>
 
-* [Tips for Taking Online Classes: 8 Strategies for Success (7 minute read)](https://canvas.sfu.ca/courses/69678/assignments/751444) <span class='badge'> [Sun May 22 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220116T235900&p1=256)</span>  
-* [What Makes a Successful Online Learner? (5 minute read)](https://canvas.sfu.ca/courses/69678/assignments/751445) <span class='badge'> [Sun May 22 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220116T235900&p1=256)</span>
+* [Tips for Taking Online Classes: 8 Strategies for Success (7 minute read)](https://canvas.sfu.ca/courses/69678/assignments/751444) <span class='badge'> [Sun May 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220515T235900&p1=256)</span>  
+* [What Makes a Successful Online Learner? (5 minute read)](https://canvas.sfu.ca/courses/69678/assignments/751445) <span class='badge'> [Sun May 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220515T235900&p1=256)</span>
 
 No visual journal entry this week.
 
