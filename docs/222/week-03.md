@@ -13,15 +13,15 @@
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSNgbuuFZAyZ-yuMgLMmNBBKEzIn-QAkUHbphXYDhxAIqx2IaShGP8dc_Dk1tNdmSoeewHPPvB95d0p/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Zoom Cowork/Q&A Session
-Week 2 Readings <span class='badge'> [Fri May 272:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220121T1430&p1=256&am=50)</span>
+Week 2 Readings <span class='badge'> [Fri May 27:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220527T1430&p1=256&am=50)</span>
 
 ## One-minute Summaries & Questions
-[Interaction design: a guide for beginners](https://canvas.sfu.ca/courses/67116/assignments/710555) <span class='badge'> [Sun May 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220123T235900&p1=256)</span>  
-[Five HCI Laws for User Experience Design](https://canvas.sfu.ca/courses/67116/assignments/710554) <span class='badge'> [Sun May 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220123T235900&p1=256)</span>  
-[Touch Targets on Touchscreens](https://canvas.sfu.ca/courses/67116/assignments/710559) <span class='badge'> [Sun May 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220123T235900&p1=256)</span>  
+[Interaction design: a guide for beginners](https://canvas.sfu.ca/courses/67116/assignments/710555) <span class='badge'> [Sun May 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220529T235900&p1=256)</span>  
+[Five HCI Laws for User Experience Design](https://canvas.sfu.ca/courses/67116/assignments/710554) <span class='badge'> [Sun May 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220529T235900&p1=256)</span>  
+[Touch Targets on Touchscreens](https://canvas.sfu.ca/courses/67116/assignments/710559) <span class='badge'> [Sun May 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220529T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
-[Week 2 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/710586) <span class='badge'> [Thu May 26 11:59pm PTS](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+3+Visual+Journal+Entry+Due+Date&iso=20220120T235900)</span>  
+[Week 2 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/710586) <span class='badge'> [Thu May 26 11:59pm PTS](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+3+Visual+Journal+Entry+Due+Date&iso=20220526T235900)</span>  
 
 ## Downloads
 [One-Page Touch Interaction Design Checklist](https://canvas.sfu.ca/courses/67116/files/folder/Downloads/Touch%20Interaction%20Checklist)  
