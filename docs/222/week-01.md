@@ -12,15 +12,16 @@
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSNgbuuFZAyZ-yuMgLMmNBBKEzIn-QAkUHbphXYDhxAIqx2IaShGP8dc_Dk1tNdmSoeewHPPvB95d0p/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Zoom Cowork/Q&A Session
-Week 1 Readings <span class='badge'> [Fri Jan 14 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220114T1430&p1=256&am=50)</span>
+Week 1 Readings <span class='badge'> [Fri May 13 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220513T1430&p1=256&am=50)</span>
 
 ## One-minute Summaries & Questions
-[Defining usability](https://canvas.sfu.ca/courses/67116/assignments/710558) <span class='badge'> [Sun Jan 16 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220116T235900&p1=256)</span>  
-[The UX Pyramid](https://canvas.sfu.ca/courses/67116/assignments/710557) <span class='badge'> [Sun Jan 16 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220116T235900&p1=256)</span>  
-[Why UX Outcomes Make Better Goals Than Business Outcomes](https://canvas.sfu.ca/courses/67116/assignments/710569) <span class='badge'> [Sun Jan 16 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220116T235900&p1=256)</span>
+[Defining usability](https://canvas.sfu.ca/courses/67116/assignments/710558) <span class='badge'> [Sun May 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220515T235900&p1=256)</span>  
+[The UX Pyramid](https://canvas.sfu.ca/courses/67116/assignments/710557) <span class='badge'> [Sun May 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220515T235900&p1=256)</span>  
+[Why UX Outcomes Make Better Goals Than Business Outcomes](https://canvas.sfu.ca/courses/67116/assignments/710569) <span class='badge'> [Sun May 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220515T235900&p1=256)</span>
 
 ## Weekly Visual Journal Entry
-[Week 1 Visual Journal Entry](https://canvas.sfu.ca/courses/67116/assignments/710635) <span class='badge'> [Thu Jan 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+2+Visual+Journal+Entry+Due+Date&iso=20220113T235900)</span>  
+
+No visual journal entry this week.  
 
 ## CMPT-363 UX Design Process (Double Diamond)
 
