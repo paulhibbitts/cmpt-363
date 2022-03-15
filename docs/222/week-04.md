@@ -19,9 +19,9 @@
 Week 3 Readings and Assignment 1 <span class='badge'> [Fri Jun 3 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220603T1430&p1=256&am=50)</span>
 
 ## One-minute Summaries & Questions
-[Evaluating Wireframes with Usability Inspection Methods](https://canvas.sfu.ca/courses/67116/assignments/710556) <span class='badge'> [Sun Jun 5 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20220505T235900&p1=256)</span>  
-[10 Usability Heuristics for User Interface Design](https://canvas.sfu.ca/courses/67116/assignments/710847) <span class='badge'> [Sun Jun 5 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20220505T235900&p1=256)</span>  
-[Severity Ratings for Usability Problems](https://canvas.sfu.ca/courses/67116/assignments/710553) <span class='badge'> [Sun Jun 5 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20220505T235900&p1=256)</span>  
+[Evaluating Wireframes with Usability Inspection Methods](https://canvas.sfu.ca/courses/69678/assignments/751338) <span class='badge'> [Sun Jun 5 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20220505T235900&p1=256)</span>  
+[10 Usability Heuristics for User Interface Design](https://canvas.sfu.ca/courses/69678/assignments/751322) <span class='badge'> [Sun Jun 5 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20220505T235900&p1=256)</span>  
+[Severity Ratings for Usability Problems](https://canvas.sfu.ca/courses/69678/assignments/751341) <span class='badge'> [Sun Jun 5 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20220505T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
 [Week 4 Visual Journal Entry](https://canvas.sfu.ca/courses/69678/assignments/751353) <span class='badge'> [Thu Jun 2 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+4+Visual+Journal+Entry+Due+Date&iso=20220502T235900)</span>  

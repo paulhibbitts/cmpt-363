@@ -16,9 +16,9 @@
 Week 2 Readings <span class='badge'> [Fri May 27:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220527T1430&p1=256&am=50)</span>
 
 ## One-minute Summaries & Questions
-[Interaction design: a guide for beginners](https://canvas.sfu.ca/courses/67116/assignments/710555) <span class='badge'> [Sun May 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220529T235900&p1=256)</span>  
-[Five HCI Laws for User Experience Design](https://canvas.sfu.ca/courses/67116/assignments/710554) <span class='badge'> [Sun May 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220529T235900&p1=256)</span>  
-[Touch Targets on Touchscreens](https://canvas.sfu.ca/courses/67116/assignments/710559) <span class='badge'> [Sun May 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220529T235900&p1=256)</span>  
+[Interaction design: a guide for beginners](https://canvas.sfu.ca/courses/69678/assignments/751339) <span class='badge'> [Sun May 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220529T235900&p1=256)</span>  
+[Five HCI Laws for User Experience Design](https://canvas.sfu.ca/courses/69678/assignments/751340) <span class='badge'> [Sun May 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220529T235900&p1=256)</span>  
+[Touch Targets on Touchscreens](https://canvas.sfu.ca/courses/69678/assignments/751335) <span class='badge'> [Sun May 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220529T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
 [Week 3 Visual Journal Entry](https://canvas.sfu.ca/courses/69678/assignments/751352) <span class='badge'> [Thu May 26 11:59pm PTS](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+3+Visual+Journal+Entry+Due+Date&iso=20220526T235900)</span>  

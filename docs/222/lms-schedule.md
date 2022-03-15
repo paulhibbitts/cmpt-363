@@ -40,7 +40,7 @@
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 4]9https://canvas.sfu.ca/courses/69678/assignments) <span class='badge'> [Thu Jun 2 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+3+Visual+Journal+Entry+Due+Date&iso=20220602T235900)</span>  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 4](https://canvas.sfu.ca/courses/69678/discussion_topics) <span class='badge'> [Sun Jun 5 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20220605T235900&p1=256)</span>  
 
-## :fas fa-calendar fa-fw: [Week 5 (Jun 6 - 12)](https://canvas.sfu.ca/courses/67116/modules/items/2294805)
+## :fas fa-calendar fa-fw: [Week 5 (Jun 6 - 12)](https://canvas.sfu.ca/courses/69678/modules/items/2446674)
 **Special topic - heuristic evaluations**  
 :fas fa-book fa-fw: [Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total)](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
 :fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 5 Readings and Assignment 1 <span class='badge'> [Tue Jun 7 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220607T1430&p1=256&am=50)</span>  
@@ -122,7 +122,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 12](https://canvas.sfu.ca/courses/69678/discussion_topics) <span class='badge'> [Sun Jul 31 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20220731T235900&p1=256)</span>  
 :fas fa-image fa-fw: No visual journal entry  
 
-## :fas fa-calendar fa-fw: [Week 13 (Aug 1 - 7)](https://canvas.sfu.ca/courses/67116/modules/items/2294814)
+## :fas fa-calendar fa-fw: [Week 13 (Aug 1 - 7)](https://canvas.sfu.ca/courses/69678/modules/items/2446683)
 **Course wrap-up**  
 :fas fa-check fa-fw: [Storyboard Wireframes Peer Reviews Assignment due](https://canvas.sfu.ca/courses/69678/assignments/751348) <span class='badge'> [Mon Aug 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Peer+Reviews+Due+Date&iso=20220801T2359&p1=256)</span>  
 :fas fa-desktop fa-fw: Blackboard Course Wrap-up <span class='badge'> [Tue Aug 2 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Course+Wrap-up&iso=20220802T1430&p1=256&ah=30)</span>  
