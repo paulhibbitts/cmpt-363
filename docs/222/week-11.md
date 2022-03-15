@@ -3,7 +3,7 @@
 # Peer Design Reviews
 
 ## Assignment 4
-[Storyboard Wireframe Peer Reviews](https://canvas.sfu.ca/courses/67116/assignments/710594) <span class='badge'> [Mon Aug 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Due+Date&iso=20220404T2359&p1=256)</span>  
+[Storyboard Wireframe Peer Reviews](https://canvas.sfu.ca/courses/69678/assignments/751348) <span class='badge'> [Mon Aug 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Due+Date&iso=20220404T2359&p1=256)</span>  
 
 ## Required Readings  
 [Guidelines for Students - Peer Review (3 minute read)](https://serc.carleton.edu/sp/library/peerreview/tips.html)  
