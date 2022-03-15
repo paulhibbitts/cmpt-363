@@ -18,6 +18,11 @@ _Web-based wireframing tool._
 *   [Wireframes to Go - a Collection of Ready-to-Use UI Controls](https://balsamiq.com/wireframes/togo/) (incl. Android Material Design symbols)
 *   [Working with Skins (Sketch vs. Wireframe)](https://balsamiq.com/wireframes/desktop/docs/skins/)
 
+Mobile Platform Guidelines    
+_Key mobile platform design guidelines._
+*  [Human Interface Guidelines (Apple iOS)](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
+*  [Material Design 2 (incl. Android)](https://material.io/design)
+
 ## Required Readings  
 [Don Norman’s seven fundamental design principles (5 minute read)](https://uxdesign.cc/ux-psychology-principles-seven-fundamental-design-principles-39c420a05f84)  
 [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project (12 minute read)](https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860)  
