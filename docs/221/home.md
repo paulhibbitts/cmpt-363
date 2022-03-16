@@ -18,7 +18,7 @@
 
 * [Usability Testing Guide (14 minute read)](https://boxesandarrows.com/usability-testing-guide/)  
 * [Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid (10 minute read)](https://www.nngroup.com/articles/better-usability-tasks/)  
-* [Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (Config) (17 minute video)](https://www.youtube.com/watch?v=vcV5Y7QaV4g)  
+* [Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (17 minute video)](https://www.youtube.com/watch?v=vcV5Y7QaV4g)  
 
 No visual journal entry this week.
 

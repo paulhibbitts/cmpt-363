@@ -92,7 +92,7 @@ No required readings, one-minute summaries or visual journal.
 **Special topic - conducting usability tests**  
 :fas fa-book fa-fw: [Usability Testing Guide (14 minute read)](https://boxesandarrows.com/usability-testing-guide/)  
 :fas fa-book fa-fw: [Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid (10 minute read)](https://www.nngroup.com/articles/better-usability-tasks/)  
-:fas fa-book fa-fw: [Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (Config) (17 minute video)](https://www.youtube.com/watch?v=vcV5Y7QaV4g)  
+:fas fa-book fa-fw: [Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (17 minute video)](https://www.youtube.com/watch?v=vcV5Y7QaV4g)  
 :fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 10 Readings and Assignment 3 <span class='badge'> [Tue Mar 15 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220315T1430&p1=256&am=50)</span>  
 :fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 10 Readings and Assignment 3 <span class='badge'> [Fri Mar 18 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220318T1430&p1=256&am=50)</span>  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 10](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Mar 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220320T235900&p1=256)</span>  

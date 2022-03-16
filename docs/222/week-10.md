@@ -5,7 +5,7 @@
 ## Required Readings  
 [Usability Testing Guide (14 minute read)](https://boxesandarrows.com/usability-testing-guide/)  
 [Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid (10 minute read)](https://www.nngroup.com/articles/better-usability-tasks/)  
-[Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (Config) (17 minute video)](https://www.youtube.com/watch?v=vcV5Y7QaV4g)  
+[Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (17 minute video)](https://www.youtube.com/watch?v=vcV5Y7QaV4g)  
 
 ## Zoom Cowork/Q&A Sessions
 Week 10 Readings and Assignment 3 <span class='badge'> [Tue Jul 12 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220712T1430&p1=256&am=50)</span>  
