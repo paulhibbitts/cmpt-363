@@ -11,3 +11,4 @@ _A proposed explanation of a phenomenon._
 *   [Hypothesis driven UX design](https://medium.theuxblog.com/hypotheses-driven-ux-design-c75fbf3ce7cc)
 *   [Hypotheses in user research and discovery](https://medium.com/leading-service-design/hypotheses-in-user-research-and-discovery-82b17577c7d)
 *   [Jeff Gothelf on Design as a Hypothesis | The Hipper Element](http://thehipperelement.com/post/60361702934/jeff-gothelf-on-design-as-a-hypothesis)  
+*   [UX Research: Objectives, Assumptions, and Hypothesis](https://rickdzekman.com/thoughts/ux-research-objectives-assumption-and-hypothesis/)  
