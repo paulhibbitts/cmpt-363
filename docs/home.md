@@ -11,12 +11,12 @@ The course site for the Spring 2022 online offering of CMPT 363.
 
 ---
 
-**Future**
+**Future Courses**
 ## [Summer 2022](222/home.md)
 The course site for the Summer 2022 online offering of CMPT 363.
 
 ---
 
-**Archives**
+**Past Courses**
 ## [Fall 2021](213/home.md)
 The course site for the Fall 2021 online offering of CMPT 363.
