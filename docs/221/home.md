@@ -12,7 +12,7 @@
 
 <h3> Important Reminders </h3>
 
-* [Storyboard Wireframes (Assignment 3)](https://canvas.sfu.ca/courses/67116/assignments/710577) <span class='badge'> [Mon Mar 21 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Due+Date&iso=20220321T2359&p1=256)</span>  
+* [Storyboard Wireframe Peer Reviews](https://canvas.sfu.ca/courses/67116/assignments/710594) <span class='badge'> [Mon Apr 4 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Due+Date&iso=20220404T2359&p1=256)</span>  
 
 <h3> Required Readings & One-Minute Summaries </h3>
 
