@@ -3,7 +3,7 @@
 
 <h1> What’s Happening This Week 💫 </h1>
 
-<h2> Special topic — Giving and Receiving Design Feedback </h2> 
+<h2> Special topic — Giving and Receiving Design Feedback </h2>
 
 <h3> Live Sessions </h3>
 
