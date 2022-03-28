@@ -41,7 +41,7 @@ Students are welcome to DM me - I will usually reply to messages 10am-4pm PT Mon
 </div>
 </div>
 
-![Abstract Image](images/dave-hoefler-vl2uAIdBWJ8-unsplash.jpg ':class=banner-image')
+![SFU](images/7232870216_4b487b0cab_k.jpg ':class=banner-image')
 
 <h1> Looking Ahead to Next Week🔭 </h1>
 
