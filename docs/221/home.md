@@ -3,7 +3,7 @@
 
 <h1> What’s Happening This Week 💫 </h1>
 
-<h2> Special topic — Giving and Receiving Design Feedback </h2> 
+<h2> Special topic — Giving and Receiving Design Feedback </h2>
 
 <h3> Live Sessions </h3>
 
@@ -13,6 +13,7 @@
 <h3> Important Reminders </h3>
 
 * [Storyboard Wireframe Peer Reviews](https://canvas.sfu.ca/courses/67116/assignments/710594) <span class='badge'> [Mon Apr 4 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Due+Date&iso=20220404T2359&p1=256)</span>  
+* [Course Evaluation](https://sfu.bluera.com/SFU) <span class='badge'> [Tue Apr 11 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Course-Evaluation+Due+Date&iso=20220411T2359&p1=256)</span>  
 
 <h3> Required Readings & One-Minute Summaries </h3>
 
