@@ -61,8 +61,8 @@
 
 ## Week 6
 ### How to understand and communicate people's needs and behaviours?
-**5 steps to a hypothesis-driven design process (1 of 3 for Week 6)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.invisionapp.com/inside-design/hypothesis-driven-design-process/">5 steps to a hypothesis-driven design process</a></div>
+**A 5-Step Process For Conducting User Research (1 of 3 for Week 6)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/">A 5-Step Process For Conducting User Research</a></div>
 
 **How to Leverage Thematic Analysis for Better UX (2 of 3 for Week 6)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.toptal.com/designers/ux-research/thematic-analysis-for-ux">How to Leverage Thematic Analysis for Better UX</a></div>
