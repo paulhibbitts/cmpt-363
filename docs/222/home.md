@@ -43,7 +43,7 @@ Students are welcome to DM me - I will usually reply to messages 10am-4pm PT Mon
 
 <h1> Looking Ahead to the Second Week🔭 </h1>
 
-<h2> What is usability and user experience design?s </h2>
+<h2> What is usability and user experience design? </h2>
 
 <h3> Live Sessions </h3>
 
