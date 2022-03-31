@@ -19,7 +19,7 @@ No visual journal entry this week.
 
 </div>
 
-<h2> Discord Office (Student) Hours ‍👩🏽‍💻👨🏽‍💻 </h2>
+<h1> Discord Office (Student) Hours ‍👩🏽‍💻👨🏽‍💻 </h1>
 
 This term we will be using a private Discord server for all class discussions, including assignment clarifications - [please join us on Discord!](https://www2.cs.sfu.ca/CourseCentral/363/paulh/discord-server-invite-363-222)  
 
