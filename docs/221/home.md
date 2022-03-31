@@ -24,7 +24,7 @@ No visual journal entry this week.
 
 </div>
 
-<h2> Discord Office (Student) Hours ‍👩🏽‍💻👨🏽‍💻 </h2>
+<h1> Discord Office (Student) Hours ‍👩🏽‍💻👨🏽‍💻 </h1>
 
 <div class="row">
 <div class="column">
