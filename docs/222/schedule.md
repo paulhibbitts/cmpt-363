@@ -42,7 +42,9 @@
 
 ## :fas fa-calendar fa-fw: [Week 5 (Jun 6 - 12)](221/week-05)
 **Special topic - heuristic evaluations**  
-:fas fa-book fa-fw: [Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total)](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
+:fas fa-book fa-fw: [Lecture 4.2 Design Heuristics (Part 1/3), with Scott Klemmer (8 minute video)](https://www.youtube.com/watch?v=gSm6bOw-KcQ&list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
+:fas fa-book fa-fw: [Lecture 4.2 Design Heuristics (Part 2/3), with Scott Klemmer (9 minute video)](https://www.youtube.com/watch?v=Hi6YO1tTqTk&list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
+:fas fa-book fa-fw: [Lecture 4.2 Design Heuristics (Part 3/3), with Scott Klemmer (20 minute video)](https://www.youtube.com/watch?v=tLFrVe4o_98&list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
 :fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 5 Readings and Assignment 1 <span class='badge'> [Tue Jun 7 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220607T1430&p1=256&am=50)</span>  
 :fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 5 Readings and Assignment 1 <span class='badge'> [Fri Jun 10 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220610T1430&p1=256&am=50)</span>  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 5](https://canvas.sfu.ca/courses/69678/discussion_topics) <span class='badge'> [Sun Jun 12  11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20220612T235900&p1=256)</span>  
