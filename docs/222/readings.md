@@ -56,8 +56,14 @@
 
 ## Week 5
 ### Special topic - heuristic evaluations
-**Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total) (3 of 3 for Week 5)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.youtube.com/watch?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA&v=gSm6bOw-KcQ">Design Heuristics Lecture with Scott Klemmer, a Video Playlist</a></div>
+**Design Heuristics (Part 1/3), with Scott Klemmer (1 of 3 for Week 5)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.youtube.com/watch?v=gSm6bOw-KcQ&list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA">Design Heuristics Lecture with Scott Klemmer, a Video Playlist</a></div>
+
+**Design Heuristics (Part 2/3), with Scott Klemmer (2 of 3 for Week 5)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.youtube.com/watch?v=Hi6YO1tTqTk&list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA">Design Heuristics Lecture with Scott Klemmer, a Video Playlist</a></div>
+
+**Design Heuristics (Part 3/3), with Scott Klemmer (3 of 3 for Week 5)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.youtube.com/watch?v=tLFrVe4o_98&list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA">Design Heuristics Lecture with Scott Klemmer, a Video Playlist</a></div>
 
 ## Week 6
 ### How to understand and communicate people's needs and behaviours?
