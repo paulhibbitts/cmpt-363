@@ -54,6 +54,8 @@
 
 [Mobile and Multi-device Web Design](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/mobile-and-multidevice-web-design.md ':include')
 
+[Onboarding](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/onboarding.md ':include')
+
 [Platform Guidelines](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/platform-guidelines.md ':include')
 
 [Responsive Web Design](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/responsive-web-design.md ':include')
