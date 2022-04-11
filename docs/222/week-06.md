@@ -3,7 +3,7 @@
 # How to understand and communicate people's needs and behaviours?
 
 ## Assignment 2
-[User Research Report](https://canvas.sfu.ca/courses/69678/assignments/751350) <span class='badge'> [Mon Jun 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+User+Research+Assignment+Due+Date&iso=20220527T2359&p1=256)</span>  
+[User Research](https://canvas.sfu.ca/courses/69678/assignments/751350) <span class='badge'> [Mon Jun 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+User+Research+Assignment+Due+Date&iso=20220527T2359&p1=256)</span>  
 
 ## Required Readings  
 [A 5-Step Process For Conducting User Research (16 minute read)](https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/)  
