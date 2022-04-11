@@ -53,7 +53,7 @@
 ## :fas fa-calendar fa-fw: [Week 6 (Jun 13 - 19)](https://canvas.sfu.ca/courses/69678/modules/items/2446674)
 **How to understand and communicate people's needs and behaviours?**  
 :fas fa-check fa-fw: [Heuristic Inspection Assignment due](https://canvas.sfu.ca/courses/69678/assignments/751347) <span class='badge'> [Mon Jun 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Heuristic+Inspection+Due+Date&iso=202206513T2359&p1=256)</span>  
-:fas fa-pen fa-fw: [User Research Report (Assignment 2)](https://canvas.sfu.ca/courses/69678/assignments/751350) <span class='badge'> [Mon Jun 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+User+Research+Assignment+Due+Date&iso=20220627T2359&p1=256)</span>  
+:fas fa-pen fa-fw: [User Research (Assignment 2)](https://canvas.sfu.ca/courses/69678/assignments/751350) <span class='badge'> [Mon Jun 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+User+Research+Assignment+Due+Date&iso=20220627T2359&p1=256)</span>  
 :fas fa-book fa-fw: [A 5-Step Process For Conducting User Research (16 minute read)](https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/)  
 :fas fa-book fa-fw: [How to Leverage Thematic Analysis for Better UX (11 minute read)](https://www.toptal.com/designers/ux-research/thematic-analysis-for-ux)  
 :fas fa-book fa-fw: [User Need Statements: The ‘Define’ Stage in Design Thinking (11 minute read)](https://www.nngroup.com/articles/user-need-statements/)  
@@ -74,7 +74,7 @@
 
 ## :fas fa-calendar fa-fw: [Week 8 (Jun 27 - Jul 3)](https://canvas.sfu.ca/courses/69678/modules/items/2446678)
 **How to bridge the gap between the problem and design space?**  
-:fas fa-check fa-fw: [User Research Report Assignment due](https://canvas.sfu.ca/courses/69678/assignments/751350) <span class='badge'> [Mon Jun 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+User+Research+Assignment+Due+Date&iso=20220627T2359&p1=256)</span>  
+:fas fa-check fa-fw: [User Research Assignment due](https://canvas.sfu.ca/courses/69678/assignments/751350) <span class='badge'> [Mon Jun 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+User+Research+Assignment+Due+Date&iso=20220627T2359&p1=256)</span>  
 :fas fa-pen fa-fw: [Storyboard Wireframes (Assignment 3)](https://canvas.sfu.ca/courses/69678/assignments/751349) <span class='badge'> [Mon Jul 18 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Due+Date&iso=20220718T2359&p1=256)</span>  
 :fas fa-book fa-fw: [Don Norman’s seven fundamental design principles (5 minute read)](https://uxdesign.cc/ux-psychology-principles-seven-fundamental-design-principles-39c420a05f84)  
 :fas fa-book fa-fw: [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project (12 minute read)](https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860)  
