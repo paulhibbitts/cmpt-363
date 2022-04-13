@@ -40,10 +40,6 @@ body .app-nav {
   padding-top: 7.5rem;
 }
 
-.app-nav > ul > li > a, .app-nav > ul > li > span {
-  margin-right: -5px;
-}
-
 .markdown-section  #docsify-darklight-theme {
     visibility: hidden;
 }
