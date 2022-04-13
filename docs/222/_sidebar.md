@@ -22,7 +22,7 @@
  - [![Grades Icon](https://icongr.am/fontawesome/calculator.svg?size=16&color=6D6F71) Grades](https://canvas.sfu.ca/courses/69678/gradebook)
  - [![Syllabus Icon](https://icongr.am/fontawesome/list.svg?size=16&color=6D6F71) Syllabus](https://canvas.sfu.ca/courses/69678/assignments/syllabus)  
 
-<br><br>
+<br>
 
 <style>
   :root {
