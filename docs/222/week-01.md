@@ -4,7 +4,7 @@
 
 ## Required Readings  
 [Tips for Taking Online Classes: 8 Strategies for Success (7 minute read)](https://www.northeastern.edu/graduate/blog/tips-for-taking-online-classes/)  
-[What Makes a Successful Online Learner? (5 minute read)](https://careerwise.minnstate.edu/education/successonline.html)  
+[Why the Double Diamond is the Most Precious Diagram in UX Design … (5 minute read)](https://evaschicker2012.medium.com/why-the-double-diamond-is-the-most-precious-diagram-in-ux-design-40db0476e5d2)  
 
 ## Blackboard Collab Session
 [Course Overview](https://docs.google.com/presentation/d/e/2PACX-1vSNgbuuFZAyZ-yuMgLMmNBBKEzIn-QAkUHbphXYDhxAIqx2IaShGP8dc_Dk1tNdmSoeewHPPvB95d0p/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/69678/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-01) | [Recording](https://canvas.sfu.ca/courses/69678/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  

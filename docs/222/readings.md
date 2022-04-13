@@ -18,8 +18,8 @@
 **Tips for Taking Online Classes: 8 Strategies for Success (1 of 2 for Week 1)**  
 <div style="min-height: 430px;"><a class="embedly-card embedly-card-height" data-card-controls="0" data-card-align="left" href="https://www.northeastern.edu/graduate/blog/tips-for-taking-online-classes/">Tips for Taking Online Classes: 8 Strategies for Success</a></div>
 
-**What Makes a Successful Online Learner? (2 of 2 for Week 1)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://careerwise.minnstate.edu/education/successonline.html">What Makes a Successful Online Learner?</a></div>
+**Why the Double Diamond is the Most Precious Diagram in UX Design … (2 of 2 for Week 1)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://evaschicker2012.medium.com/why-the-double-diamond-is-the-most-precious-diagram-in-ux-design-40db0476e5d2">Why the Double Diamond is the Most Precious Diagram in UX Design …</a></div>
 
 ## Week 2
 ### What is usability and user experience design?
