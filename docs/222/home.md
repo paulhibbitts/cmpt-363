@@ -53,6 +53,6 @@ Students are welcome to DM me - I will usually reply to messages 10am-4pm PT Mon
 
 <h3> Required Readings </h3>
 
-* [Defining usability (7 minute read)](https://blog.prototypr.io/defining-usability-e7bf42e8abd0)  
-* [An Introduction to User Experience Design (8 minute read)](https://marvelapp.com/blog/introduction-user-experience-design/)  
-* [The Art of Emotion — Norman’s 3 Levels of Emotional Design (6 minute read)](https://medium.muz.li/the-art-of-emotion-normans-3-levels-of-emotional-design-88a1fb495b1d)  
+* [Interaction design: a guide for beginners (19 minute read)](https://uxplanet.org/interaction-design-a-guide-for-beginners-32ff2364b53f)  
+* [Five HCI Laws for User Experience Design (4 minute read)](https://measuringu.com/hci-laws/)  
+* [Touch Targets on Touchscreens (11 minute read)](https://www.nngroup.com/articles/touch-target-size/)  
