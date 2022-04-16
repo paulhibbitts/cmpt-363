@@ -12,7 +12,7 @@
 
 <h3> Required Readings & One-Minute Summaries </h3>
 
-* [Defining usability](https://canvas.sfu.ca/courses/69678/assignments/751336) <span class='badge'> [Sun May 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=202200515T235900&p1=256)</span>  
+* [Defining usability](https://canvas.sfu.ca/courses/69678/assignments/751336) <span class='badge'> [Sun May 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220515T235900&p1=256)</span>  
 * [An Introduction to User Experience Design](https://canvas.sfu.ca/courses/69678/assignments/751337) <span class='badge'> [Sun May 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220515T235900&p1=256)</span>  
 * [The Art of Emotion — Norman’s 3 Levels of Emotional Design](https://canvas.sfu.ca/courses/69678/assignments/751328) <span class='badge'> [Sun May 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220515T235900&p1=256)</span>
 
