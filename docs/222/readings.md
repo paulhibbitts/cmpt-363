@@ -107,7 +107,7 @@
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/principles-visual-design/">5 Principles of Visual Design in UX</a></div>
 
 **Guide for designing better mobile apps typography (2 of 3 for Week 9)**
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/guide-for-designing-better-mobile-apps-typography-5796495ef86f/">5 Principles of Visual Design in UX</a></div>
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/guide-for-designing-better-mobile-apps-typography-5796495ef86f/">Guide for designing better mobile apps typography</a></div>
 
 **Tips for UX Writing (3 of 3 for Week 9)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxmag.com/articles/tips-for-ux-writing">Tips for UX Writing</a></div>
