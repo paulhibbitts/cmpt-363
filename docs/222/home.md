@@ -3,7 +3,7 @@
 
 <h1> What’s Happening First Week 💫 </h1>
 
-<h2> Course Overview </h2>
+<h2> Course Overview / What is usability and user experience design? </h2>
 
 <h3> Live Sessions </h3>
 
@@ -12,10 +12,12 @@
 
 <h3> Required Readings & One-Minute Summaries </h3>
 
-* [Tips for Taking Online Classes: 8 Strategies for Success (7 minute read)](https://canvas.sfu.ca/courses/69678/assignments/751444) <span class='badge'> [Sun May 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220515T235900&p1=256)</span>  
-* [What Makes a Successful Online Learner? (5 minute read)](https://canvas.sfu.ca/courses/69678/assignments/751445) <span class='badge'> [Sun May 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220515T235900&p1=256)</span>
+* [Defining usability](https://canvas.sfu.ca/courses/69678/assignments/751336) <span class='badge'> [Sun May 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=202200515T235900&p1=256)</span>  
+* [An Introduction to User Experience Design](https://canvas.sfu.ca/courses/69678/assignments/751337) <span class='badge'> [Sun May 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220515T235900&p1=256)</span>  
+* [The Art of Emotion — Norman’s 3 Levels of Emotional Design](https://canvas.sfu.ca/courses/69678/assignments/751328) <span class='badge'> [Sun May 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220515T235900&p1=256)</span>
 
-No visual journal entry this week.
+
+[Week 1 Visual Journal Entry due May 12](# ':class=button')
 
 </div>
 
@@ -39,11 +41,11 @@ Students are welcome to DM me - I will usually reply to messages 10am-4pm PT Mon
 </div>
 </div>
 
-![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image')
+![Multiple Mobile Devices](images/16230041026_d438eb2482_k.jpg ':class=banner-image')
 
 <h1> Looking Ahead to the Second Week🔭 </h1>
 
-<h2> What is usability and user experience design? </h2>
+<h2> What is the practice of mobile and multi-device interaction design? </h2>
 
 <h3> Live Sessions </h3>
 

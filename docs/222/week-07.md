@@ -1,21 +1,61 @@
-![User Research Notes](images/9203760174_499895dece_k.jpeg ':class=banner-image')
+![Device Controls](images/13255989495_f545afea09_o.jpg ':class=banner-image')
 
-# Special topic - conducting user research
+# How to bridge the gap between the problem and design space?
+
+## Assignment 3
+[Storyboard Wireframes](https://canvas.sfu.ca/courses/69678/assignments/751349) <span class='badge'> [Mon Jul 18 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Due+Date&iso=20220718T2359&p1=256)</span>  
+
+## Assignment 3 Resources  
+
+Balsamiq for Google Drive  
+_Web-based wireframing tool._
+*   [Balsamiq for Google Drive Installation](https://balsamiq.com/wireframes/google-drive/docs/installing/#installation) (contact Paul for 3 month Editor access)
+*   [Balsamiq for Google Drive Documentation](https://balsamiq.com/wireframes/google-drive/docs/)
+*   [Balsamiq for Google Drive - Exporting](https://balsamiq.com/wireframes/google-drive/docs/exporting/)
+*   [12 Practical Tips for Creating Better Wireframes](https://uxplanet.org/12-practical-tips-for-creating-better-wireframes-be0418777946)
+*   [Balsamiq Wireframes for Google Drive Overview](https://www.youtube.com/watch?v=l_jJMMY_QMQ)
+*   [Creating Polished Wireframes](https://balsamiq.com/learn/resources/articles/polished-wireframes/)
+*   [Wireframes to Go - a Collection of Ready-to-Use UI Controls](https://balsamiq.com/wireframes/togo/) (incl. Android Material Design symbols)
+*   [Working with Skins (Sketch vs. Wireframe)](https://balsamiq.com/wireframes/desktop/docs/skins/)
+
+Mobile Platform Guidelines    
+_Key mobile platform design guidelines._
+*  [Human Interface Guidelines (Apple iOS)](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
+*  [Material Design 2 (incl. Android)](https://material.io/design)
+*  [32 design differences between iOS and Android apps](https://uxdesign.cc/ios-vs-android-design-630340a73ee6)  
 
 ## Required Readings  
-[Asking the right questions during user research, interviews and testing (16 minute read)](https://uxdesign.cc/asking-the-right-questions-on-user-research-interviews-and-testing-427261742a67)  
-[How to Run Remote User Research (Like a Boss!) (6 minute read)](https://medium.com/mixed-methods/how-to-run-remote-user-research-like-a-boss-b3729954f03)  
-[User Research When You Can’t Talk to Your Users (12 minute read)](https://alistapart.com/article/user-research-when-you-cant-talk-to-your-users/)
+[Don Norman’s seven fundamental design principles (5 minute read)](https://uxdesign.cc/ux-psychology-principles-seven-fundamental-design-principles-39c420a05f84)  
+[The Right Tool For The Job: Picking The Best Prototyping Software For Your Project (12 minute read)](https://uxdesign.cc/the-right-tool-for-the-job-picking-the-best-prototyping-software-for-your-project-6ddd5145d860)  
+[What Is The Role Of Creativity In UX Design? (10 minute read)](https://www.smashingmagazine.com/2018/12/role-of-creativity-ux-design/)  
 
-## Zoom Cowork/Q&A Sessions
-Week 7 Readings and Assignment 2 <span class='badge'> [Tue Jun 21 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220621T1430&p1=256&am=50)</span>  
-Week 7 Readings and Assignment 2 <span class='badge'> [Fri Jun 24 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220624T1430&p1=256&am=50)</span>  
+## Blackboard Collab Session
+[Conceptual Models and Prototyping](https://docs.google.com/presentation/d/e/2PACX-1vSNgbuuFZAyZ-yuMgLMmNBBKEzIn-QAkUHbphXYDhxAIqx2IaShGP8dc_Dk1tNdmSoeewHPPvB95d0p/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/69678/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-07) | [Recording](https://canvas.sfu.ca/courses/69678/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
+
+<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSNgbuuFZAyZ-yuMgLMmNBBKEzIn-QAkUHbphXYDhxAIqx2IaShGP8dc_Dk1tNdmSoeewHPPvB95d0p/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+
+## Zoom Cowork/Q&A Session
+Week 7 Readings and Assignment 3 <span class='badge'> [Fri Jun 24 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220701T1430&p1=256&am=50)</span>  
+
+## Downloads
+[Sketching Templates](https://canvas.sfu.ca/courses/69678/files/folder/Downloads/Sketching%20Templates)  
 
 ## One-minute Summaries & Questions
-[Asking the right questions during user research, interviews and testing](https://canvas.sfu.ca/courses/69678/assignments/751325) <span class='badge'> [Sun Jun 26 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20220220T235900&p1=256)</span>  
-[How to Run Remote User Research (Like a Boss!)](https://canvas.sfu.ca/courses/69678/assignments/751326) <span class='badge'> [Sun Jun 26 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20220220T235900&p1=256)</span>  
-[User Research When You Can’t Talk to Your Users](https://canvas.sfu.ca/courses/69678/assignments/751332) <span class='badge'> [Sun Jun 26 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20220220T235900&p1=256)</span>  
+[Don Norman’s seven fundamental design principles](https://canvas.sfu.ca/courses/69678/assignments/751330) <span class='badge'>[Sun Jun 26 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20220626T235900&p1=256)</span>  
+[The Right Tool For The Job: Picking The Best Prototyping Software For Your Project](https://canvas.sfu.ca/courses/69678/assignments/751331) <span class='badge'>[Sun Jun 26 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20220626T235900&p1=256)</span>  
+[What Is The Role Of Creativity In UX Design? (10 minute read)](https://canvas.sfu.ca/courses/69678/assignments/751342)  <span class='badge'>[Sun Jun 26 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20220626T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
+[Week 7 Visual Journal Entry](https://canvas.sfu.ca/courses/69678/assignments/751355) <span class='badge'> [Thu Jun 23 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+7+Visual+Journal+Entry+Due+Date&iso=20220623T235900)</span>  
 
-No visual journal entry this week.  
+## Supplemental Readings  
+
+[Conceptual Models](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/conceptual-models.md ':include')
+
+[Empty States](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/empty-states.md ':include')
+
+[HCI Laws and Cognitive Psychology](ux-techniques-guide/02.what-is-the-practice-of-multidevice-interaction-design/hci-laws.md ':include')
+
+[Problem Framing](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/problem-framing.md ':include')
+
+[Prototyping](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/prototyping.md ':include')

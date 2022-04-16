@@ -1,6 +1,6 @@
 ![Abstract Image](images/dave-hoefler-vl2uAIdBWJ8-unsplash.jpg ':class=banner-image')
 
-# Special topic — Giving and Receiving Design Feedback
+# Special topic - Giving and Receiving Design Feedback
 
 ## Required Readings  
 [Visual communication: 10 tips on evaluating design (5 minute read)](https://alumni.sae.edu/2016/02/26/visual-communication-10-tips-on-evaluating-design/)  
