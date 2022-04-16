@@ -12,9 +12,9 @@
 ### C
 [Cognitive Walkthroughs](221/week-03)  
 [Color](221/week-09)  
-[Conceptual Models](221/week-08)  
+[Conceptual Models](221/week-07)  
 [Contextual Inquiry](221/week-05)  
-[Creativity](221/week-08)  
+[Creativity](221/week-07)  
 
 ### D
 [Design Critiques](221/week-12)  
@@ -63,7 +63,7 @@
 [Multi-device Design](221/week-02)  
 
 ### N
-[Norman’s Design Principles](221/week-08)
+[Norman’s Design Principles](221/week-07)
 
 ### P
 [Pareto Principle](221/week-02)  
@@ -72,7 +72,7 @@
 [Power Law of Practice](221/week-02)  
 [Problem Statements](221/week-05)  
 [Product Reaction Cards](221/week-01)  
-[Prototyping](221/week-08)  
+[Prototyping](221/week-07)  
 
 ### R
 [Remote User Research and Usability Techniques](221/week-06)  
@@ -89,7 +89,7 @@
 ### U
 [Usability](221/week-01)  
 [Usability Objectives](221/week-01)  
-[Usability Testing](221/week-10)  
+[Usability Testing](221/week-08)  
 [User-centered Design (UCD)](221/week-01)  
 [User Experience Design](221/week-01)  
 [User Research](221/week-05)  
