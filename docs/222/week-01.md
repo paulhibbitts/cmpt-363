@@ -21,7 +21,7 @@ Week 1 Readings <span class='badge'> [Fri May 13 2:30pm PT](https://www.timeandd
 [The Art of Emotion — Norman’s 3 Levels of Emotional Design](https://canvas.sfu.ca/courses/69678/assignments/751328) <span class='badge'> [Sun May 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220515T235900&p1=256)</span>
 
 ## Weekly Visual Journal Entry
-[Week 1 Visual Journal Entry](https://canvas.sfu.ca/courses/69678/assignments/751351) <span class='badge'> [Thu May 12 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+1+Visual+Journal+Entry+Due+Date&iso=20220512T235900)</span>  
+[Week 1 Visual Journal Entry](https://canvas.sfu.ca/courses/69678/assignments/758885) <span class='badge'> [Thu May 12 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+1+Visual+Journal+Entry+Due+Date&iso=20220512T235900)</span>  
 
 ## CMPT-363 UX Design Process (Double Diamond)
 

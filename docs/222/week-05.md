@@ -25,7 +25,7 @@ Week 5 Readings and Assignment 2 <span class='badge'> [Fri Jun 10 2:30pm PT](htt
 [User Need Statements: The ‘Define’ Stage in Design Thinking](https://canvas.sfu.ca/courses/69678/assignments/751327) <span class='badge'> [Sun Jun 12 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=202206123T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
-[Week 5 Visual Journal Entry](https://canvas.sfu.ca/courses/69678/assignments/751354) <span class='badge'> [Thu Jun 9 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+5+Visual+Journal+Entry+Due+Date&iso=20220609T235900)</span>  
+[Week 5 Visual Journal Entry](https://canvas.sfu.ca/courses/69678/assignments/751353) <span class='badge'> [Thu Jun 9 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+5+Visual+Journal+Entry+Due+Date&iso=20220609T235900)</span>  
 
 ## Supplemental Readings  
 
