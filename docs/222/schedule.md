@@ -98,8 +98,8 @@
 ## :fas fa-calendar fa-fw: [Week 10 (Jul 11 - 17)](222/week-10)
 **Special topic - accessibility and inclusive design**  
 :fas fa-book fa-fw: [7 Things Every Designer Needs to Know about Accessibility (14 minute read)](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)  
-:fas fa-book fa-fw: [Accessibility vs Design trends](https://uxdesign.cc/accessibility-vs-design-trends-aeb24a45ef4)  
-:fas fa-book fa-fw: [Inclusion first: How to make your product accessible and inclusive](https://uxdesign.cc/inclusion-first-how-to-make-your-product-accessible-and-inclusive-b8ccbeb24b22)  
+:fas fa-book fa-fw: [Accessibility vs Design trends (6 minute read](https://uxdesign.cc/accessibility-vs-design-trends-aeb24a45ef4)  
+:fas fa-book fa-fw: [Inclusion first: How to make your product accessible and inclusive (10 minute read](https://uxdesign.cc/inclusion-first-how-to-make-your-product-accessible-and-inclusive-b8ccbeb24b22)  
 :fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 10 Readings and Assignment 3 <span class='badge'> [Tue Jul 12 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220712T1430&p1=256&am=50)</span>  
 :fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 10 Readings and Assignment 3 <span class='badge'> [Fri Jun 15 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220715T1430&p1=256&am=50)</span>  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 10](https://canvas.sfu.ca/courses/69678/discussion_topics) <span class='badge'> [Sun Jul 17 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220717T235900&p1=256)</span>  
