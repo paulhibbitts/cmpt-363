@@ -3,9 +3,9 @@
 # What are the essentials of visual interface design?
 
 ## Required Readings  
-[5 Principles of Visual Design in UX (10 minute read)](https://www.nngroup.com/articles/principles-visual-design/)  
-[7 Things Every Designer Needs to Know about Accessibility (14 minute read)](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)  
+[5 Principles of Visual Design in UX (10 minute read)](https://www.nngroup.com/articles/principles-visual-design/)   
 [Guide for designing better mobile apps typography (6 minute read)](https://uxdesign.cc/guide-for-designing-better-mobile-apps-typography-5796495ef86f)  
+[The Art of Emotion — Norman’s 3 Levels of Emotional Design (6 minute read)](https://medium.muz.li/the-art-of-emotion-normans-3-levels-of-emotional-design-88a1fb495b1d)  
 
 ## Blackboard Collab Session
 [Visual Design Essentials](https://docs.google.com/presentation/d/e/2PACX-1vSNgbuuFZAyZ-yuMgLMmNBBKEzIn-QAkUHbphXYDhxAIqx2IaShGP8dc_Dk1tNdmSoeewHPPvB95d0p/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/69678/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-09) | [Recording](https://canvas.sfu.ca/courses/69678/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
@@ -17,13 +17,15 @@ Week 9 Readings and Assignment 3 <span class='badge'> [Fri Jul 8 2:30pm PT](http
 
 ## One-minute Summaries & Questions
 [5 Principles of Visual Design in UX](https://canvas.sfu.ca/courses/69678/assignments/751346) <span class='badge'> [Sun Jul 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20220710T235900&p1=256)</span>  
-[7 Things Every Designer Needs to Know about Accessibility](https://canvas.sfu.ca/courses/69678/assignments/751345) <span class='badge'> [Sun Jul 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20220710T235900&p1=256)</span>  
-[Guide for designing better mobile apps typography](https://canvas.sfu.ca/courses/69678/assignments/751344) <span class='badge'> [Sun Jul 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20220710T235900&p1=256)</span>
+[Guide for designing better mobile apps typography](https://canvas.sfu.ca/courses/69678/assignments/751344) <span class='badge'> [Sun Jul 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20220710T235900&p1=256)</span>  
+[The Art of Emotion — Norman’s 3 Levels of Emotional Design](https://canvas.sfu.ca/courses/69678/assignments/751345) <span class='badge'> [Sun Jul 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20220710T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
 [Week 9 Visual Journal Entry](https://canvas.sfu.ca/courses/69678/assignments/751355) <span class='badge'> [Thu Jul 7 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+9+Visual+Journal+Entry+Due+Date&iso=20220707T235900)</span>  
 
 ## Supplemental Readings  
+
+[Emotional Design](ux-techniques-guide/01.what-is-usability-and-user-experience-design/emotional-design.md ':include')
 
 [Grids](ux-techniques-guide/05.what-are-the-essentials-of-visual-design/grids.md ':include')
 

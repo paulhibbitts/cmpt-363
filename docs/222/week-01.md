@@ -5,7 +5,7 @@
 ## Required Readings  
 [Defining usability (7 minute read)](https://blog.prototypr.io/defining-usability-e7bf42e8abd0)  
 [An Introduction to User Experience Design (8 minute read)](https://marvelapp.com/blog/introduction-user-experience-design/)  
-[The Art of Emotion — Norman’s 3 Levels of Emotional Design (6 minute read)](https://medium.muz.li/the-art-of-emotion-normans-3-levels-of-emotional-design-88a1fb495b1d)  
+[The Designer’s Guide to Lean and Agile UX (8 minute read)](https://xd.adobe.com/ideas/perspectives/leadership-insights/designers-guide-lean-agile-ux/)  
 
 ## Blackboard Collab Session
 [Introduction to UX](https://docs.google.com/presentation/d/e/2PACX-1vSNgbuuFZAyZ-yuMgLMmNBBKEzIn-QAkUHbphXYDhxAIqx2IaShGP8dc_Dk1tNdmSoeewHPPvB95d0p/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/69678/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-02) | [Recording](https://canvas.sfu.ca/courses/69678/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
@@ -18,7 +18,7 @@ Week 1 Readings <span class='badge'> [Fri May 13 2:30pm PT](https://www.timeandd
 ## One-minute Summaries & Questions
 [Defining usability](https://canvas.sfu.ca/courses/69678/assignments/751336) <span class='badge'> [Sun May 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=202200515T235900&p1=256)</span>  
 [An Introduction to User Experience Design](https://canvas.sfu.ca/courses/69678/assignments/751337) <span class='badge'> [Sun May 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220515T235900&p1=256)</span>  
-[The Art of Emotion — Norman’s 3 Levels of Emotional Design](https://canvas.sfu.ca/courses/69678/assignments/751328) <span class='badge'> [Sun May 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220515T235900&p1=256)</span>
+[The Designer’s Guide to Lean and Agile UX](https://canvas.sfu.ca/courses/69678/assignments/751328) <span class='badge'> [Sun May 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220515T235900&p1=256)</span>
 
 ## Weekly Visual Journal Entry
 [Week 1 Visual Journal Entry](https://canvas.sfu.ca/courses/69678/assignments/758885) <span class='badge'> [Thu May 12 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+1+Visual+Journal+Entry+Due+Date&iso=20220512T235900)</span>  
@@ -31,7 +31,7 @@ Source: https://en.wikipedia.org/wiki/Double_Diamond_(design_process_model)
 ## Supplemental Readings
 [Design Ethics](ux-techniques-guide/01.what-is-usability-and-user-experience-design/design-ethics.md ':include')
 
-[Emotional Design](ux-techniques-guide/01.what-is-usability-and-user-experience-design/emotional-design.md ':include')
+[Hypothesis](ux-techniques-guide/01.what-is-usability-and-user-experience-design/hypothesis.md ':include')  
 
 [Problem Statements](ux-techniques-guide/01.what-is-usability-and-user-experience-design/problem-statements.md ':include')
 

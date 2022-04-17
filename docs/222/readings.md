@@ -21,8 +21,8 @@
 **An Introduction to User Experience Design (2 of 3 for Week 1)**  
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://marvelapp.com/blog/introduction-user-experience-design/">An Introduction to User Experience Design</a></div>
 
-**The Art of Emotion — Norman’s 3 Levels of Emotional Design (3 of 3 for Week 1)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.muz.li/the-art-of-emotion-normans-3-levels-of-emotional-design-88a1fb495b1d">The Art of Emotion — Norman’s 3 Levels of Emotional Design</a></div>
+**The Designer’s Guide to Lean and Agile UX (3 of 3 for Week 1)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://xd.adobe.com/ideas/perspectives/leadership-insights/designers-guide-lean-agile-ux/">The Designer’s Guide to Lean and Agile UX</a></div>
 
 ## Week 2
 ### What is the practice of mobile and multi-device interaction design?
@@ -109,8 +109,8 @@
 **Guide for designing better mobile apps typography (2 of 3 for Week 9)**
 <div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxdesign.cc/guide-for-designing-better-mobile-apps-typography-5796495ef86f/">Guide for designing better mobile apps typography</a></div>
 
-**Tips for UX Writing (3 of 3 for Week 9)**  
-<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxmag.com/articles/tips-for-ux-writing">Tips for UX Writing</a></div>
+**The Art of Emotion — Norman’s 3 Levels of Emotional Design (3 of 3 for Week 9)**  
+<div style="min-height: 430px;"><a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://medium.muz.li/the-art-of-emotion-normans-3-levels-of-emotional-design-88a1fb495b1d">The Art of Emotion — Norman’s 3 Levels of Emotional Design</a></div>
 
 ## Week 10
 ### Special topic - accessibility and inclusive design
