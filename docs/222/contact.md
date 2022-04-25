@@ -9,7 +9,9 @@ Suggestion or complaint?
 :fas fa-bullhorn fa-fw: [Anonymous Course Feedback](https://www.surveymonkey.ca/r/928BYWP)  
 
 **Teaching Assistants**  
-TBD
+:fas fa-envelope fa-fw: [Arshdeep Singh Ahuja](mailto:asa338@sfu.ca)  
+:fas fa-envelope fa-fw: [Rishabh Kaushal](mailto:rka73@sfu.ca)  
+:fas fa-envelope fa-fw: [Parsa Rajabi](mailto:rezaie@sfu.ca)  
 
 This term we will be using a private Discord server for all class discussions, including assignment clarifications - [please join us on Discord!](https://www2.cs.sfu.ca/CourseCentral/363/paulh/discord-server-invite-363-222)  
 
