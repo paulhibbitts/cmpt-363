@@ -3,7 +3,7 @@
 
 <h1> What’s Happening First Week 💫 </h1>
 
-<h2> Course Overview / What is usability and user experience design? </h2>
+<h2> Course overview / What is usability and user experience design? </h2>
 
 <h3> Live Sessions </h3>
 
