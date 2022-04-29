@@ -1,7 +1,7 @@
 # Schedule
 
 ## :fas fa-calendar fa-fw: [Week 1 (May 10 - 15)](222/week-01)
-**Course introduction / What is usability and user experience design?**  
+**Course overview / What is usability and user experience design?**  
 :fas fa-book fa-fw: [Defining usability (7 minute read)](https://blog.prototypr.io/defining-usability-e7bf42e8abd0)  
 :fas fa-book fa-fw: [An Introduction to User Experience Design (8 minute read)](https://marvelapp.com/blog/introduction-user-experience-design/)  
 :fas fa-book fa-fw: [The Art of Emotion — Norman’s 3 Levels of Emotional Design (6 minute read)](https://medium.muz.li/the-art-of-emotion-normans-3-levels-of-emotional-design-88a1fb495b1d)  
