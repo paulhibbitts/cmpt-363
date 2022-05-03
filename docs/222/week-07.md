@@ -30,9 +30,9 @@ _Key mobile platform design guidelines._
 [What Is The Role Of Creativity In UX Design? (10 minute read)](https://www.smashingmagazine.com/2018/12/role-of-creativity-ux-design/)  
 
 ## Blackboard Collab Session
-[Conceptual Models and Prototyping](https://docs.google.com/presentation/d/e/2PACX-1vSNgbuuFZAyZ-yuMgLMmNBBKEzIn-QAkUHbphXYDhxAIqx2IaShGP8dc_Dk1tNdmSoeewHPPvB95d0p/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/69678/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-07) | [Recording](https://canvas.sfu.ca/courses/69678/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
+[Conceptual Models and Prototyping](https://docs.google.com/presentation/d/e/2PACX-1vQ0Mu3_t-ydhAMdk7EIQcn-4vjEuOLGyKHoBubE_J-NFqnXAbedmyVzYVIV8PK4PzTWhV0kT1qwnkQr/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/69678/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-07) | [Recording](https://canvas.sfu.ca/courses/69678/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
 
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSNgbuuFZAyZ-yuMgLMmNBBKEzIn-QAkUHbphXYDhxAIqx2IaShGP8dc_Dk1tNdmSoeewHPPvB95d0p/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ0Mu3_t-ydhAMdk7EIQcn-4vjEuOLGyKHoBubE_J-NFqnXAbedmyVzYVIV8PK4PzTWhV0kT1qwnkQr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Zoom Cowork/Q&A Session
 Week 7 Readings and Assignment 3 <span class='badge'> [Fri Jun 24 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220701T1430&p1=256&am=50)</span>  

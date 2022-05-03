@@ -12,9 +12,9 @@
 [User Need Statements: The ‘Define’ Stage in Design Thinking (11 minute read)](https://www.nngroup.com/articles/user-need-statements/)  
 
 ## Blackboard Collab Session
-[User Research](https://docs.google.com/presentation/d/e/2PACX-1vSNgbuuFZAyZ-yuMgLMmNBBKEzIn-QAkUHbphXYDhxAIqx2IaShGP8dc_Dk1tNdmSoeewHPPvB95d0p/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/69678/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-05) | [Recording](https://canvas.sfu.ca/courses/69678/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
+[User Research](https://docs.google.com/presentation/d/e/2PACX-1vRmxutAcMuUybB7isTjP_wHQ1wNfahjffAJrBhRrCxDZC_DTYdAdXyBemi0_35ufrmYGJzE8K_NLA5K/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/69678/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-05) | [Recording](https://canvas.sfu.ca/courses/69678/external_tools/3544) (Look in Hamburger :fas fa-bars fa-fw:menu)  
 
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vSNgbuuFZAyZ-yuMgLMmNBBKEzIn-QAkUHbphXYDhxAIqx2IaShGP8dc_Dk1tNdmSoeewHPPvB95d0p/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRmxutAcMuUybB7isTjP_wHQ1wNfahjffAJrBhRrCxDZC_DTYdAdXyBemi0_35ufrmYGJzE8K_NLA5K/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Zoom Cowork/Q&A Session
 Week 5 Readings and Assignment 2 <span class='badge'> [Fri Jun 10 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220510T1430&p1=256&am=50)</span>  
