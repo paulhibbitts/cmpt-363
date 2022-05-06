@@ -1,4 +1,4 @@
-Microcopy  
+UI Copy Writing  
 _The use and choice of words in user interfaces._
 
 *   [13 ways to make your UI writing better](https://www.uxpin.com/studio/blog/13-ways-to-make-your-ui-writing-better/)  
