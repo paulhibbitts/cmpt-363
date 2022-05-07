@@ -1,5 +1,6 @@
 **Summer 2022**
 
+- [Course Welcome](222/course-welcome)
 - [Week 1 (May 10 - 15)](222/week-01)
 - [Week 2 (May 16 - 22)](222/week-02)
 - [Week 3 (May 23 - 29)](222/week-03)
