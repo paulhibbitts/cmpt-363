@@ -7,7 +7,7 @@
 
 <h3> Live Sessions </h3>
 
-* [Blackboard Mini-lectures and Activities](https://canvas.sfu.ca/courses/69678/external_tools/3544) | [Guest access link TBA](#) (will be recorded) <span class='badge'> [Tue May 10 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Mini-lectures+and+Activities&iso=20220510T1430&p1=256&ah=1&am=50)</span>
+* [Blackboard Mini-lectures and Activities]((https://canvas.sfu.ca/courses/69678/external_tools/3544) | [Guest Link](https://www2.cs.sfu.ca/CourseCentral/363/paulh/BB-10-05-2022-ssyBxTVmP22Q4p) (will be recorded) <span class='badge'> [Tue May 10 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Mini-lectures+and+Activities&iso=20220510T1430&p1=256&ah=1&am=50)</span>
 * [Zoom Cowork/Q&A - Week 1 Readings](https://www2.cs.sfu.ca/CourseCentral/363/paulh/Z-u5DkmoHXx5UFpN) <span class='badge'> [Fri May 13 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220513T1430&p1=256&am=50)</span>
 
 <h3> Required Readings & One-Minute Summaries </h3>
