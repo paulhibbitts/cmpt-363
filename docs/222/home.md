@@ -35,7 +35,7 @@ Friday 3:30-4:00pm PT
 <div class="column">
 
 Text Chat only:  
-Students are welcome to DM me - I will usually reply to messages 10am-4pm PT Mon to Fri
+Students are welcome to DM me - I will usually reply to messages once or twice daily on weekdays
 
 </div>
 </div>
