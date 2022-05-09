@@ -1,6 +1,7 @@
 Systems Thinking  
 _Systems thinking is the process of designing the components of a system, and how they interact with and affect each other._
 
+*   [A comprehensive list of human-computer interactions](https://uxdesign.cc/a-comprehensive-list-of-human-computer-interactions-d72eaca2c0df)  
 *   [Activating Change: A Designer’s Guide to Systems Thinking](https://boxesandarrows.com/activating-change-a-designers-guide-to-systems-thinking/)  
 *   [Creating an Empathetic System Design](https://www.avnetwork.com/avnetwork/creating-an-empathetic-system-design-122448)  
 *   [Design Systems and Systems Design — what’s the difference?](https://uxdesign.cc/design-systems-and-systems-design-whats-the-difference-b184aa6e5f0d)  
