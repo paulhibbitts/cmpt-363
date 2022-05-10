@@ -10,7 +10,7 @@ Suggestion or complaint?
 
 **Teaching Assistants**  
 :fas fa-envelope fa-fw: [Arshdeep Singh Ahuja](mailto:asa338@sfu.ca)  
-:fas fa-envelope fa-fw: [Rishabh Kaushal](mailto:rka73@sfu.ca)  
+:fas fa-envelope fa-fw: [Rishabh Kaushal](mailto:rishabh_kaushal@sfu.ca)  
 :fas fa-envelope fa-fw: [Parsa Rajabi](mailto:parsa_r@sfu.ca)  
 
 This term we will be using a private Discord server for all class discussions, including assignment clarifications - [please join us on Discord!](https://www2.cs.sfu.ca/CourseCentral/363/paulh/discord-server-invite-363-222)  
