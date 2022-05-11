@@ -59,3 +59,5 @@ Week 7 Readings and Assignment 3 <span class='badge'> [Fri Jun 24 2:30pm PT](htt
 [Problem Framing](ux-techniques-guide/03.how-to-understand-and-communicate-peoples-needs-and-behaviours/problem-framing.md ':include')
 
 [Prototyping](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/prototyping.md ':include')
+
+[Wireframes](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/wireframes.md ':include')

@@ -1,6 +1,6 @@
 # Topics
 
-### [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | K | [L](#l) | [M](#m) | [N](#n) | O | [P](#p) | Q | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | W | X | Y | Z  
+### [A](#a) | [B](#b) | [C](#c) | [D](#d) | [E](#e) | [F](#f) | [G](#g) | [H](#h) | [I](#i) | [J](#j) | K | [L](#l) | [M](#m) | [N](#n) | O | [P](#p) | Q | [R](#r) | [S](#s) | [T](#t) | [U](#u) | [V](#v) | [W](#w) | X | Y | Z  
 
 ### A
 [Accessibility](https://canvas.sfu.ca/courses/69678/modules/items/2446680)  
@@ -100,3 +100,6 @@
 [Visual Design](https://canvas.sfu.ca/courses/69678/modules/items/2446679)  
 [Visual Design Principles (CRAP)](https://canvas.sfu.ca/courses/69678/modules/items/2446679)  
 [Visual Hierarchy](https://canvas.sfu.ca/courses/69678/modules/items/2446679)
+
+### W
+[Wireframes](https://canvas.sfu.ca/courses/69678/modules/items/2446912)  
