@@ -4,7 +4,7 @@
 **Course overview / What is usability and user experience design?**  
 :fas fa-book fa-fw: [Defining usability (7 minute read)](https://blog.prototypr.io/defining-usability-e7bf42e8abd0)  
 :fas fa-book fa-fw: [An Introduction to User Experience Design (8 minute read)](https://marvelapp.com/blog/introduction-user-experience-design/)  
-:fas fa-book fa-fw: [The Art of Emotion — Norman’s 3 Levels of Emotional Design (6 minute read)](https://medium.muz.li/the-art-of-emotion-normans-3-levels-of-emotional-design-88a1fb495b1d)  
+:fas fa-book fa-fw: [The Designer’s Guide to Lean and Agile UX (8 minute read)](https://xd.adobe.com/ideas/perspectives/leadership-insights/designers-guide-lean-agile-ux/)  
 :fas fa-desktop fa-fw: Blackboard Course Overview [[PDF](https://canvas.sfu.ca/courses/69678/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-01) | [Recording](https://canvas.sfu.ca/courses/69678/external_tools/3544)] <span class='badge'> [Tue May 10 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Mini-lectures+and+Activities&iso=20220510T1430&p1=256&ah=1&am=50)</span>  
 :fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 1 Readings <span class='badge'> [Fri May 13 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220513T1430&p1=256&am=50)</span>  
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 1](https://canvas.sfu.ca/courses/69678/assignments) <span class='badge'> [Thu May 12 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+3+Visual+Journal+Entry+Due+Date&iso=20220512T235900)</span>  
