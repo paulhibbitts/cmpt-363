@@ -26,6 +26,7 @@
 ### E
 [Emotional Design](222/week-01)  
 [Empathy Map](222/week-05)  
+[Empty States](222/week-02)  
 
 ### F
 [Fitts’s Law](222/week-02)  
