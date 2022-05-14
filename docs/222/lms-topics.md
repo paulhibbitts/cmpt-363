@@ -26,6 +26,7 @@
 ### E
 [Emotional Design](https://canvas.sfu.ca/courses/69678/modules/items/2446671)  
 [Empathy Map](https://canvas.sfu.ca/courses/69678/modules/items/2446674)  
+[Empty States](https://canvas.sfu.ca/courses/69678/modules/items/2446878)  
 
 ### F
 [Fitts’s Law](https://canvas.sfu.ca/courses/69678/modules/items/2446878)  
