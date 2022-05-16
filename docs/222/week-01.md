@@ -13,7 +13,7 @@
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRQx4F7s9WU4OFtTfklLAjk6SWvkcNGhrWW4KwSIZ6PmmW_-mtbEzAANkfQvHNkXsClnJlJRAxmZwvc/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Zoom Cowork/Q&A Session
-Week 1 Readings <span class='badge'> [Fri May 13 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220513T1430&p1=256&am=50)</span>
+Weekly Readings <span class='badge'> [Fri May 13 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220513T1430&p1=256&am=50)</span>
 
 ## One-minute Summaries & Questions
 [Defining usability](https://canvas.sfu.ca/courses/69678/assignments/751336) <span class='badge'> [Sun May 15 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=202200515T235900&p1=256)</span>  

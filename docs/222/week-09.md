@@ -13,7 +13,7 @@
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRXYgkTG2-Rbc2UUGbzDMDUiPvYdjEvuPqxQr17TaLaDa-yDjja-gV9ZXBEo9BhOWqjhPex4ae9Kgw_/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Zoom Cowork/Q&A Session
-Week 9 Readings and Assignment 3 <span class='badge'> [Fri Jul 8 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220708T1430&p1=256&am=50)</span>   
+Weekly Readings and Assignment 3 <span class='badge'> [Fri Jul 8 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork+and+Q%26A&iso=20220708T1430&p1=256&am=50)</span>   
 
 ## One-minute Summaries & Questions
 [5 Principles of Visual Design in UX](https://canvas.sfu.ca/courses/69678/assignments/751346) <span class='badge'> [Sun Jul 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20220710T235900&p1=256)</span>  

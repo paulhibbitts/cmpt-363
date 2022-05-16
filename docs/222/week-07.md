@@ -35,7 +35,7 @@ _Key mobile platform design guidelines._
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQ0Mu3_t-ydhAMdk7EIQcn-4vjEuOLGyKHoBubE_J-NFqnXAbedmyVzYVIV8PK4PzTWhV0kT1qwnkQr/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Zoom Cowork/Q&A Session
-Week 7 Readings and Assignment 3 <span class='badge'> [Fri Jun 24 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220701T1430&p1=256&am=50)</span>  
+Weekly Readings and Assignment 3 <span class='badge'> [Fri Jun 24 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220701T1430&p1=256&am=50)</span>  
 
 ## Downloads
 [Sketching Templates](https://canvas.sfu.ca/courses/69678/files/folder/Downloads/Sketching%20Templates)  

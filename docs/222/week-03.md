@@ -16,7 +16,7 @@
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQUijdw2nN9zABywd2PgwlKLyxu-bo4GGgiRU6FW5ESjXRpJRded3Khw6MWg7ub5W2cXExPfMbSMZpQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
 ## Zoom Cowork/Q&A Session
-Week 3 Readings and Assignment 1 <span class='badge'> [Fri May 27 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220527T1430&p1=256&am=50)</span>
+Weekly Readings and Assignment 1 <span class='badge'> [Fri May 27 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220527T1430&p1=256&am=50)</span>
 
 ## One-minute Summaries & Questions
 [Evaluating Wireframes with Usability Inspection Methods](https://canvas.sfu.ca/courses/69678/assignments/751338) <span class='badge'> [Sun May 29 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20220529T235900&p1=256)</span>  
