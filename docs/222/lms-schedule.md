@@ -36,7 +36,7 @@
 :fas fa-book fa-fw: [Design Heuristics (Part 1/3), with Scott Klemmer (8 minute video)](https://www.youtube.com/watch?v=gSm6bOw-KcQ&list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
 :fas fa-book fa-fw: [Design Heuristics (Part 2/3), with Scott Klemmer (9 minute video)](https://www.youtube.com/watch?v=Hi6YO1tTqTk&list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
 :fas fa-book fa-fw: [Design Heuristics (Part 3/3), with Scott Klemmer (20 minute video)](https://www.youtube.com/watch?v=tLFrVe4o_98&list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
-:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Weekly Readings and Assignment 1 <span class='badge'> [Tue May 31 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220531T1430&p1=256&am=50)</span>  
+:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Weekly Readings and Assignment 1 <span class='badge'> [Tue May 31 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220531T1430&p1=256&ah=1&am=50)</span>  
 :fas fa-users fa-fw: Zoom Cowork/Q&A Session - Weekly Readings and Assignment 1 <span class='badge'> [Fri Jun 3 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220603T1430&p1=256&am=50)</span>  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 4](https://canvas.sfu.ca/courses/69678/discussion_topics) <span class='badge'> [Sun Jun 5 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20220605T235900&p1=256)</span>  
 :fas fa-image fa-fw: No visual journal entry  
@@ -58,7 +58,7 @@
 :fas fa-book fa-fw: [User Interviews: How, When, and Why to Conduct Them (13 minute read)](https://www.nngroup.com/articles/user-interviews/)  
 :fas fa-book fa-fw: [How to Run Remote User Research (Like a Boss!) (6 minute read)](https://medium.com/mixed-methods/how-to-run-remote-user-research-like-a-boss-b3729954f03)  
 :fas fa-book fa-fw: [User Research When You Can’t Talk to Your Users (12 minute read)](https://alistapart.com/article/user-research-when-you-cant-talk-to-your-users/)  
-:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Weekly Readings and Assignment 2 <span class='badge'> [Tue Jun 14 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220614T1430&p1=256&am=50)</span>  
+:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Weekly Readings and Assignment 2 <span class='badge'> [Tue Jun 14 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220614T1430&p1=256&ah=1&am=50)</span>  
 :fas fa-users fa-fw: Zoom Cowork/Q&A Session - Weekly Readings and Assignment 2 <span class='badge'> [Fri Jun 17 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220617T1430&p1=256&am=50)</span>  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 6](https://canvas.sfu.ca/courses/69678/discussion_topics) <span class='badge'> [Sun Jun 19 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20220619T205900&p1=256)</span>  
 :fas fa-image fa-fw: No visual journal entry  
@@ -80,7 +80,7 @@
 :fas fa-book fa-fw: [Usability Testing Guide (14 minute read)](https://boxesandarrows.com/usability-testing-guide/)  
 :fas fa-book fa-fw: [Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid (10 minute read)](https://www.nngroup.com/articles/better-usability-tasks/)  
 :fas fa-book fa-fw: [Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (17 minute video)](https://www.youtube.com/watch?v=vcV5Y7QaV4g)  
-:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Weekly Readings and Assignment 3 <span class='badge'> [Tue Jun 28 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220728T1430&p1=256&am=50)</span>  
+:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Weekly Readings and Assignment 3 <span class='badge'> [Tue Jun 28 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220728T1430&p1=256&ah=1&am=50)</span>  
 :fas fa-users fa-fw: Zoom Cowork/Q&A Session - Weekly Readings and Assignment 3 <span class='badge'> [Fri Jul 1 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220701T1430&p1=256&am=50)</span>  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 8](https://canvas.sfu.ca/courses/69678/discussion_topics) <span class='badge'> [Sun Jul 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220703T235900&p1=256)</span>  
 :fas fa-image fa-fw: No visual journal entry  
@@ -100,7 +100,7 @@
 :fas fa-book fa-fw: [7 Things Every Designer Needs to Know about Accessibility (14 minute read)](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)  
 :fas fa-book fa-fw: [Accessibility vs Design trends (6 minute read](https://uxdesign.cc/accessibility-vs-design-trends-aeb24a45ef4)  
 :fas fa-book fa-fw: [Inclusion first: How to make your product accessible and inclusive (10 minute read](https://uxdesign.cc/inclusion-first-how-to-make-your-product-accessible-and-inclusive-b8ccbeb24b22)   
-:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Weekly Readings and Assignment 3 <span class='badge'> [Tue Jul 12 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220712T1430&p1=256&am=50)</span>  
+:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Weekly Readings and Assignment 3 <span class='badge'> [Tue Jul 12 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220712T1430&p1=256&ah=1&am=500)</span>  
 :fas fa-users fa-fw: Zoom Cowork/Q&A Session - Weekly Readings and Assignment 3 <span class='badge'> [Fri Jun 15 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220715T1430&p1=256&am=50)</span>  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 10](https://canvas.sfu.ca/courses/69678/discussion_topics) <span class='badge'> [Sun Jul 17 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220717T235900&p1=256)</span>  
 :fas fa-image fa-fw: No visual journal entry  
@@ -120,7 +120,7 @@
 **Special topic - Giving and receiving design feedback**  
 :fas fa-book fa-fw: [Visual communication: 10 tips on evaluating design (5 minute read)](https://alumni.sae.edu/2016/02/26/visual-communication-10-tips-on-evaluating-design/)  
 :fas fa-book fa-fw: [How To Give And Receive (Design) Critique Well (10 minute read)](https://blog.prototypr.io/how-to-give-and-receive-design-critique-well-20a2639f79f1)  
-:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Weekly Readings and Assignment 4 <span class='badge'> [Tue Jul 26 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220729T1430&p1=256&am=50)</span>  
+:fas fa-users fa-fw: Zoom Cowork/Q&A Session - Weekly Readings and Assignment 4 <span class='badge'> [Tue Jul 26 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220729T1430&p1=256&ah=1&am=50)</span>  
 :fas fa-users fa-fw: Zoom Cowork/Q&A Session - Weekly Readings and Assignment 4 <span class='badge'> [Fri Jul 29 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220729T1430&p1=256&am=50)</span>  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 12](https://canvas.sfu.ca/courses/69678/discussion_topics) <span class='badge'> [Sun Jul 31 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20220731T235900&p1=256)</span>  
 :fas fa-image fa-fw: No visual journal entry  
