@@ -83,6 +83,7 @@
         // SFU branding for sidebar and navbar
         --sidebar-background: #F5F5F5;
         --sidebar-name-color: #CC0633;
+        --sidebar-name-margin: 1.5rem -.2rem;
         --sidebar-name-font-weight: 600;
         --sidebar-nav-link-color: #7A7A7A;
         --sidebar-nav-link-color--active: #CC0633;
@@ -164,6 +165,7 @@
             // -----------------------------------------------------------------
             auto2top   : true,
             maxLevel   : 3,
+            // Set subMaxLevel to 0 to remove automatic display of page table of contents (TOC) in Sidebar
             subMaxLevel: 3,
             hideSidebar: getURLParameterByName(['standalone','embedded']),
 
