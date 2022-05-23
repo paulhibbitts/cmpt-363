@@ -279,20 +279,16 @@
 
     <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
+    <!-- Darklight Theme Plugin -->
     <script>
-      if (!(getURLParameterByName(['standalone','embedded']))) {
-        var sc = document.createElement("script");
-        sc.setAttribute("src", "https://cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/main.min.js");
-        sc.setAttribute("type", "text/javascript");
-        document.head.appendChild(sc);
+    <!-- Set hideDarkTheme to true to permanently remove the Dark Theme option -->
+    var hideDarkTheme = getURLParameterByName(['standalone','embedded']);
+    if (hideDarkTheme === false ) {
+        document.write('<script src="https://cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/main.min.js"><\/script>');
+        document.write('<script src="https://cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/index.min.js"><\/script>');
       }
     </script>
 
-    <script
-        src="//cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/index.min.js"
-        type="text/javascript">
-    </script>
-    
     <script>
       if (getURLParameterByName('toc')) {
         document.write('<link rel="stylesheet" type="text/css" href="assets/css/toc.css" />');
