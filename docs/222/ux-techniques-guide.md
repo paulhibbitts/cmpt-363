@@ -130,6 +130,8 @@
 
 [Information Architecture](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/information-architecture.md ':include')
 
+[Page Description Diagrams](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/page-description-diagrams.md ':include')
+
 [Problem Reframing](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/problem-reframing.md ':include')
 
 [Product Design Principles](ux-techniques-guide/04.how-to-bridge-the-gap-between-the-problem-space-and-design-space/product-design-principles.md ':include')
