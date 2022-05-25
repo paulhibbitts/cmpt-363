@@ -10,9 +10,7 @@ Weekly Readings and Assignment 1 <span class='badge'> [Tue May 31 2:30pm PT](htt
 Weekly Readings and Assignment 1 <span class='badge'> [Fri Jun 3 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220603T1430&p1=256&am=50)</span>  
 
 ## One-minute Summaries & Questions
-[Design Heuristics (Part 1/3), with Scott Klemmer](https://canvas.sfu.ca/courses/69678/assignments/751321) <span class='badge'> [Sun Jun 5  11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20220605T235900&p1=256)</span>  
-[Design Heuristics (Part 2/3), with Scott Klemmer](https://canvas.sfu.ca/courses/69678/assignments/757130) <span class='badge'> [Sun Jun 5  11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20220605T235900&p1=256)</span>  
-[Design Heuristics (Part 3/3), with Scott Klemmer](https://canvas.sfu.ca/courses/69678/assignments/757131) <span class='badge'> [Sun Jun 5  11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20220605T235900&p1=256)</span>  
+[Design Heuristics Lecture with Scott Klemmer, a Video Playlist](https://canvas.sfu.ca/courses/69678/assignments/751321) <span class='badge'> [Sun Jun 5  11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20220605T235900&p1=256)</span>  
 
 ## Weekly Visual Journal Entry
 
