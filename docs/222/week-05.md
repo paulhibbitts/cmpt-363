@@ -7,7 +7,6 @@
 
 ## Required Readings  
 [A 5-Step Process For Conducting User Research (16 minute read)](https://www.smashingmagazine.com/2013/09/5-step-process-conducting-user-research/)  
-[3 Key Characteristics of Well-Formed Hypotheses (4 minute read)](https://www.strategyzer.com/blog/mastering-business-testing-formulating-strong-hypotheses)
 [How to Leverage Thematic Analysis for Better UX (11 minute read)](https://www.toptal.com/designers/ux-research/thematic-analysis-for-ux)  
 [User Need Statements: The ‘Define’ Stage in Design Thinking (11 minute read)](https://www.nngroup.com/articles/user-need-statements/)  
 
