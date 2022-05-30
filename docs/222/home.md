@@ -8,7 +8,7 @@
 <h3> Live Sessions </h3>
 
 * [Zoom Cowork/Q&A - Weekly Readings and Assignment 1](https://www2.cs.sfu.ca/CourseCentral/363/paulh/Z-u5DkmoHXx5UFpO) <span class='badge'> [Tue May 31 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220531T1430&p1=256&ah=1&am=50)</span>
-* [Zoom Cowork/Q&A - Weekly Readings and Assignment 1](https://www2.cs.sfu.ca/CourseCentral/363/paulh/Z-u5DkmoHXx5UFpO) <span class='badge'> [Fri Jun 3 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220527T1430&p1=256&am=50)</span>
+* [Zoom Cowork/Q&A - Weekly Readings and Assignment 1](https://www2.cs.sfu.ca/CourseCentral/363/paulh/Z-u5DkmoHXx5UFpO) <span class='badge'> [Fri Jun 3 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220603T1430&p1=256&am=50)</span>
 
 <h3> Important Reminders </h3>
 
