@@ -5,7 +5,7 @@
 ## Assignment 1
 [Heuristic Inspection](https://canvas.sfu.ca/courses/69678/assignments/751347) <span class='badge'> [Mon Jun 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Due+Date&iso=20220613T2359&p1=256)</span>
 
-## Assignment 3 Resources  
+## Assignment 1 Resources  
 Mobile Platform Guidelines    
 _Key mobile platform design guidelines._
 *  [Human Interface Guidelines (Apple iOS)](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
