@@ -5,6 +5,13 @@
 ## Assignment 1
 [Heuristic Inspection](https://canvas.sfu.ca/courses/69678/assignments/751347) <span class='badge'> [Mon Jun 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Due+Date&iso=20220613T2359&p1=256)</span>
 
+## Assignment 3 Resources  
+Mobile Platform Guidelines    
+_Key mobile platform design guidelines._
+*  [Human Interface Guidelines (Apple iOS)](https://developer.apple.com/design/human-interface-guidelines/ios/overview/themes/)
+*  [Material Design 2 (incl. Android)](https://material.io/design)
+*  [32 design differences between iOS and Android apps](https://uxdesign.cc/ios-vs-android-design-630340a73ee6)  
+
 ## Required Readings  
 [Evaluating Wireframes with Usability Inspection Methods (10 minute read)](https://balsamiq.com/learn/articles/usability-inspection/)  
 [10 Usability Heuristics for User Interface Design (8 minute read)](https://www.nngroup.com/articles/ten-usability-heuristics/)  
