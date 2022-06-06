@@ -16,7 +16,7 @@
 
 <h3> Upcoming Assignment </h3>
 
-* [User Research](https://canvas.sfu.ca/courses/69678/assignments/751350) <span class='badge'> [Mon Jun 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+User+Research+Assignment+Due+Date&iso=20220620T2359&p1=256)</span>  
+* [User Research (Assignment 2)](https://canvas.sfu.ca/courses/69678/assignments/751350) <span class='badge'> [Mon Jun 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+User+Research+Assignment+Due+Date&iso=20220620T2359&p1=256)</span>  
 
 <h3> Required Readings & One-Minute Summaries </h3>
 
