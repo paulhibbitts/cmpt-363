@@ -12,7 +12,7 @@
 
 <h3> Important Reminders </h3>
 
-* [Heuristic Inspection (Assignment 1)](https://canvas.sfu.ca/courses/69678/assignments/751347) <span class='badge'> [Mon Jun 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Due+Date&iso=20220613T2359&p1=256)</span>
+* [Heuristic Inspection (Assignment 1)](https://canvas.sfu.ca/courses/69678/assignments/751347) <span class='badge'> [Mon Jun 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Individual+Heuristic+Inspection+Due+Date&iso=20220606T2359&p1=256)</span>
 
 <h3> Upcoming Assignment </h3>
 
