@@ -13,4 +13,9 @@
   .markdown-section  #docsify-darklight-theme {
       visibility: visible;
   }
+
+  .markdown-section {
+    padding: 1rem 40px;
+  }
+  
 </style>
