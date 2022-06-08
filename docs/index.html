@@ -295,6 +295,13 @@
       }
     </script>
 
+    <!-- Adjust margins when standalone or embedded -->
+    <script>
+      if (getURLParameterByName(['standalone','embedded']) || standalone) {
+        document.write('<link rel="stylesheet" type="text/css" href="assets/css/theme-standalone.css" />');
+      }
+    </script>
+
     <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
 
 </body>
