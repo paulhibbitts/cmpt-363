@@ -285,6 +285,15 @@
       }
     </script>
 
+    <!-- Adjust Page Margins When Standalone or Embedded -->
+    <script>
+      if (getURLParameterByName(['standalone','embedded'])) {
+        var editCSS = document.createElement('style')
+        editCSS.innerHTML = ".markdown-section {padding: 1rem 14px;}";
+        document.body.appendChild(editCSS);
+      }
+    </script>
+    
     <!-- Darklight Theme Plugin -->
     <script>
     <!-- Set hideDarkTheme to true to permanently remove the Dark Theme option -->
@@ -292,13 +301,6 @@
     if (hideDarkTheme === false ) {
         document.write('<script src="https://cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/main.min.js"><\/script>');
         document.write('<script src="https://cdn.jsdelivr.net/npm/docsify-darklight-theme@3/dist/docsify-themeable/index.min.js"><\/script>');
-      }
-    </script>
-
-    <!-- Adjust margins when standalone or embedded -->
-    <script>
-      if (getURLParameterByName(['standalone','embedded']) || standalone) {
-        document.write('<link rel="stylesheet" type="text/css" href="assets/css/theme-standalone.css" />');
       }
     </script>
 
