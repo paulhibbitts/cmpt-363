@@ -16,9 +16,10 @@
 
 <h3> Required Readings & One-Minute Summaries </h3>
 
-* [Asking the right questions during user research, interviews and testing](https://canvas.sfu.ca/courses/69678/assignments/751325) <span class='badge'> [Sun Jun 19 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20220619T235900&p1=256)</span>  
-* [How to Run Remote User Research (Like a Boss!)](https://canvas.sfu.ca/courses/69678/assignments/751326) <span class='badge'> [Sun Jun 19 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20220619T235900&p1=256)</span>  
-* [User Research When You Can’t Talk to Your Users](https://canvas.sfu.ca/courses/69678/assignments/751332) <span class='badge'> [Sun Jun 19 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20220619T235900&p1=256)</span>  
+* [Don Norman’s seven fundamental design principles](https://canvas.sfu.ca/courses/69678/assignments/751330) <span class='badge'>[Sun Jun 26 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20220626T235900&p1=256)</span>  
+* [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project](https://canvas.sfu.ca/courses/69678/assignments/751331) <span class='badge'>[Sun Jun 26 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20220626T235900&p1=256)</span>  
+* [What Is The Role Of Creativity In UX Design? (10 minute read)](https://canvas.sfu.ca/courses/69678/assignments/751342)  <span class='badge'>[Sun Jun 26 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20220626T235900&p1=256)</span>  
+
 
 [Week 7 Visual Journal Entry due Jun 23](https://canvas.sfu.ca/courses/69678/assignments/751354 ':class=button')
 
