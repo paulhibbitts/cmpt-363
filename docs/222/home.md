@@ -3,12 +3,12 @@
 
 <h1> What’s Happening This Week 💫 </h1>
 
-<h2> How to bridge the gap between the problem and design space? </h2>
+<h2> Special topic - conducting usability tests </h2>
 
 <h3> Live Sessions </h3>
 
-* [Blackboard Mini-lectures and Activities](https://canvas.sfu.ca/courses/69678/external_tools/3544) (will be recorded) <span class='badge'> [Tue Jun 21 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Mini-lectures+and+Activities&iso=20220621T1430&p1=256&ah=1&am=50)</span>
-* [Zoom Cowork/Q&A - Weekly Readings and Assignment 3](https://www2.cs.sfu.ca/CourseCentral/363/paulh/Z-u5DkmoHXx5UFpO) <span class='badge'> [Fri Jun 24 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220624T1430&p1=256&am=50)</span>
+* Zoom Cowork/Q&A - Weekly Readings and Assignment 3 / CANCELLED <span class='badge'> [Tue Jun 28 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220628T1430&p1=256&ah=1&am=50)</span>
+* [Zoom Cowork/Q&A - Weekly Readings and Assignment 3](https://www2.cs.sfu.ca/CourseCentral/363/paulh/Z-u5DkmoHXx5UFpO) <span class='badge'> [Fri Jul 1 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220701T1430&p1=256&am=50)</span>
 
 <h3> Important Reminders </h3>
 
@@ -16,12 +16,11 @@
 
 <h3> Required Readings & One-Minute Summaries </h3>
 
-* [Don Norman’s seven fundamental design principles](https://canvas.sfu.ca/courses/69678/assignments/751330) <span class='badge'>[Sun Jun 26 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20220626T235900&p1=256)</span>  
-* [The Right Tool For The Job: Picking The Best Prototyping Software For Your Project](https://canvas.sfu.ca/courses/69678/assignments/751331) <span class='badge'>[Sun Jun 26 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20220626T235900&p1=256)</span>  
-* [What Is The Role Of Creativity In UX Design? (10 minute read)](https://canvas.sfu.ca/courses/69678/assignments/751342)  <span class='badge'>[Sun Jun 26 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+7+Due+Date&iso=20220626T235900&p1=256)</span>  
+* [Usability Testing Guide](https://canvas.sfu.ca/courses/69678/assignments/751323) <span class='badge'> [Sun Jul 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220703T235900&p1=256)</span>  
+* [Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid](https://canvas.sfu.ca/courses/69678/assignments/751324) <span class='badge'> [Sun Jul 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220703T235900&p1=256)</span>  
+* [Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (Config)](https://canvas.sfu.ca/courses/69678/assignments/751320) <span class='badge'> [Sun Jul 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220703T235900&p1=256)</span>  
 
-
-[Week 7 Visual Journal Entry due Jun 23](https://canvas.sfu.ca/courses/69678/assignments/751354 ':class=button')
+No visual journal entry this week.  
 
 </div>
 
@@ -43,19 +42,19 @@ Students are welcome to DM me - I usually reply to messages once or twice daily 
 </div>
 </div>
 
-![Usability Test](images/4642289926_7964e733d1_b.jpg ':class=banner-image')
+![Type on Page](images/4762082009_e0754cd5c3_b.jpg ':class=banner-image')
 
 <h1> Looking Ahead to Next Week🔭 </h1>
 
-<h2> Special topic - conducting usability tests </h2>
+<h2> What are the essentials of visual interface design? </h2>
 
 <h3> Live Sessions </h3>
 
-* [Zoom Cowork/Q&A - Weekly Readings and Assignment 3](https://www2.cs.sfu.ca/CourseCentral/363/paulh/Z-u5DkmoHXx5UFpO) <span class='badge'> [Tue Jun 28 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220628T1430&p1=256&ah=1&am=50)</span>
-* [Zoom Cowork/Q&A - Weekly Readings and Assignment 3](https://www2.cs.sfu.ca/CourseCentral/363/paulh/Z-u5DkmoHXx5UFpO) <span class='badge'> [Fri Jul 1 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220701T1430&p1=256&am=50)</span>
+* [Blackboard Mini-lectures and Activities](https://canvas.sfu.ca/courses/69678/external_tools/3544) (will be recorded) <span class='badge'> [Tue Jul 5 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Blackboard+Mini-lectures+and+Activities&iso=20220705T1430&p1=256&ah=1&am=50)</span>
+* [Zoom Cowork/Q&A - Weekly Readings and Assignment 3](https://www2.cs.sfu.ca/CourseCentral/363/paulh/Z-u5DkmoHXx5UFpO) <span class='badge'> [Fri Jul 8 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220708T1430&p1=256&am=50)</span>
 
 <h3> Required Readings </h3>
 
-* [Usability Testing Guide (14 minute read)](https://boxesandarrows.com/usability-testing-guide/)  
-* [Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid (10 minute read)](https://www.nngroup.com/articles/better-usability-tasks/)  
-* [Remote Control: How NPR Conducts Usability Testing - Irene Kim, NPR (17 minute video)](https://www.youtube.com/watch?v=vcV5Y7QaV4g)  
+* [5 Principles of Visual Design in UX (10 minute read)](https://www.nngroup.com/articles/principles-visual-design/)   
+* [Guide for designing better mobile apps typography (6 minute read)](https://uxdesign.cc/guide-for-designing-better-mobile-apps-typography-5796495ef86f)  
+* [The Art of Emotion — Norman’s 3 Levels of Emotional Design (6 minute read)](https://medium.muz.li/the-art-of-emotion-normans-3-levels-of-emotional-design-88a1fb495b1d)  
