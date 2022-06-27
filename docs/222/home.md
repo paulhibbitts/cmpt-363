@@ -8,7 +8,7 @@
 <h3> Live Sessions </h3>
 
 * Zoom Cowork/Q&A - Weekly Readings and Assignment 3 / CANCELLED <span class='badge'> [Tue Jun 28 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220628T1430&p1=256&ah=1&am=50)</span>
-* [Zoom Cowork/Q&A - Weekly Readings and Assignment 3](https://www2.cs.sfu.ca/CourseCentral/363/paulh/Z-u5DkmoHXx5UFpO) <span class='badge'> [Fri Jul 1 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220701T1430&p1=256&am=50)</span>
+* Zoom Cowork/Q&A - Weekly Readings and Assignment 3 / CANADA DAY <span class='badge'> [Fri Jul 1 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220701T1430&p1=256&am=50)</span>
 
 <h3> Important Reminders </h3>
 
