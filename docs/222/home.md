@@ -57,3 +57,7 @@ Students are welcome to DM me - I usually reply to messages once or twice daily 
 
 * [Guidelines for Students - Peer Review (3 minute read)](https://serc.carleton.edu/sp/library/peerreview/tips.html)  
 * [Peer Review Tips (5 minute video)](https://www.coursera.org/lecture/ux-design-fundamentals/peer-review-tips-C4rbv)  
+
+<h3> Upcoming Assignment </h3>
+
+* [Storyboard Wireframe Peer Reviews](https://canvas.sfu.ca/courses/69678/assignments/751348) <span class='badge'> [Mon Aug 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Due+Date&iso=20220801T2359&p1=256)</span>  
