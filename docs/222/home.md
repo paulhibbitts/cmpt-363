@@ -12,7 +12,7 @@
 
 <h3> Important Reminders </h3>
 
-* [Storyboard Wireframes (Assignment 3)](https://canvas.sfu.ca/courses/69678/assignments/751349) <span class='badge'> [Mon Jul 18 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Due+Date&iso=20220718T2359&p1=256)</span>  
+* [Storyboard Wireframe Peer Reviews](https://canvas.sfu.ca/courses/69678/assignments/751348) <span class='badge'> [Mon Aug 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Due+Date&iso=20220801T2359&p1=256)</span>  
 
 <h3> Required Readings & One-Minute Summaries </h3>
 
@@ -56,7 +56,3 @@ Students are welcome to DM me - I usually reply to messages once or twice daily 
 
 * [Visual communication: 10 tips on evaluating design (5 minute read)](https://alumni.sae.edu/2016/02/26/visual-communication-10-tips-on-evaluating-design/)  
 * [How To Give And Receive (Design) Critique Well (10 minute read)](https://blog.prototypr.io/how-to-give-and-receive-design-critique-well-20a2639f79f1)   
-
-<h3> Upcoming Assignment </h3>
-
-* [Storyboard Wireframe Peer Reviews](https://canvas.sfu.ca/courses/69678/assignments/751348) <span class='badge'> [Mon Aug 1 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Due+Date&iso=20220801T2359&p1=256)</span>  
