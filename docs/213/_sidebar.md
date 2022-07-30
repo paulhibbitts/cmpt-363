@@ -45,7 +45,7 @@
       --sidebar-nav-link-color: #b2b4b4;
       --sidebar-nav-link-color--active: #c9494f;
       --sidebar-nav-link-border-color--active: #c9494f;
-      --sidebar-nav-strong-color: #c9494f;
+      --sidebar-nav-strong-color: #b2b4b4;
       --navbar-root-color: #b2b4b4;
       --navbar-root-color--active: #c9494f;
     }
