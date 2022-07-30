@@ -1,4 +1,4 @@
-![SFU](images/1406322240943.jpg ':class=banner-image')
+![SFU in the Winter](images/FF8J5MjXwA0S3UP.jpg ':class=banner-image')
 
 # End of the Semester
 
