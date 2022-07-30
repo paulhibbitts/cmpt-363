@@ -42,7 +42,7 @@ Students are welcome to DM me - I usually reply to messages once or twice daily 
 </div>
 </div>
 
-![SFU](images/1406322240943.jpg ':class=banner-image')
+![SFU](images/7232870216_4b487b0cab_k.jpg ':class=banner-image')
 
 <h1> Looking Ahead to Next Week🔭 </h1>
 
