@@ -10,8 +10,17 @@
 
   }
 
-  .markdown-section  #docsify-darklight-theme {
-      visibility: visible;
+  @media (prefers-color-scheme: dark) {
+    :root {
+      --link-color: #c9494f;
+      --sidebar-name-color: #c9494f;
+      --sidebar-nav-link-color: #b2b4b4;
+      --sidebar-nav-link-color--active: #c9494f;
+      --sidebar-nav-link-border-color--active: #c9494f;
+      --sidebar-nav-strong-color: #c9494f;
+      --navbar-root-color: #b2b4b4;
+      --navbar-root-color--active: #c9494f;
+    }
   }
 
 </style>
