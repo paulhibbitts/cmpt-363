@@ -31,6 +31,7 @@
     --link-color: #CC0633;
     --link-text-decoration: none;
     --link-text-decoration--hover: underline;
+    --pagination-title-color: #CC0633;
 
   }
 
