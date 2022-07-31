@@ -153,6 +153,7 @@
 
 .markdown-section .fa-fw {
   text-align: left;
+  color: #4c4c4c;
 }
 
 .markdown-section .video-container-4by3 {
@@ -318,6 +319,24 @@ body .docsify-pagination-container {
 
   .markdown-section a.button {
     color: #222222;
+  }
+
+  .markdown-section .badge {
+    background-color: #AAAAAA;
+  }
+
+  .markdown-section .badge a {
+    color: #333333;
+    text-decoration: none !important;
+  }
+
+  .markdown-section #a, .markdown-section #b, .markdown-section #c, .markdown-section #d, .markdown-section #e, .markdown-section #f, .markdown-section #g, .markdown-section #h, .markdown-section #i, .markdown-section #j, .markdown-section #k, .markdown-section #l, .markdown-section #m, .markdown-section #n, .markdown-section #o, .markdown-section #p, .markdown-section #q, .markdown-section #r, .markdown-section #s, .markdown-section #t, .markdown-section #u, .markdown-section #v, .markdown-section #w, .markdown-section #x, .markdown-section #y, .markdown-section #z {
+    color: #333333;
+    background: #AAAAAA;
+  }
+
+  .markdown-section .fa-fw {
+    color: #AAAAAA;
   }
 
 }
