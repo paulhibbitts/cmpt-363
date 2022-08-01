@@ -28,14 +28,6 @@ body .app-nav {
   padding-top: 7.5rem;
 }
 
-.markdown-section  #docsify-darklight-theme {
-    visibility: hidden;
-}
-
-.app-nav:not(:empty)~main .markdown-section #docsify-darklight-theme {
-margin-top: 40px;
-}
-
 /*
 .markdown-section .badge {
   color: var(--codeBackgroundColor);
