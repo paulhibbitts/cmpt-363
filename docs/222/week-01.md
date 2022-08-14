@@ -7,7 +7,6 @@
 [An Introduction to User Experience Design (8 minute read)](https://marvelapp.com/blog/introduction-user-experience-design/)  
 [The Designer’s Guide to Lean and Agile UX (8 minute read)](https://xd.adobe.com/ideas/perspectives/leadership-insights/designers-guide-lean-agile-ux/)  
 
-
 ## Blackboard Collab Session
 [Introduction to UX](https://docs.google.com/presentation/d/e/2PACX-1vRQx4F7s9WU4OFtTfklLAjk6SWvkcNGhrWW4KwSIZ6PmmW_-mtbEzAANkfQvHNkXsClnJlJRAxmZwvc/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/69678/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-01) | [Recording](https://canvas.sfu.ca/courses/69678/external_tools/3544) (Look in Hamburger <i class="fa fa-bars" aria-hidden="true"></i> menu)  
 
