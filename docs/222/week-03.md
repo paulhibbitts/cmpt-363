@@ -20,7 +20,7 @@ _Key mobile platform design guidelines._
 ## Blackboard Collab Session
 [Usability Inspections](https://docs.google.com/presentation/d/e/2PACX-1vQUijdw2nN9zABywd2PgwlKLyxu-bo4GGgiRU6FW5ESjXRpJRded3Khw6MWg7ub5W2cXExPfMbSMZpQ/pub?start=false&loop=false&delayms=3000) | [PDF](https://canvas.sfu.ca/courses/69678/files/folder/Downloads/Slides%20PDFs/Mini-Lectures%20and%20Activities/Week-03) | [Recording](https://canvas.sfu.ca/courses/69678/external_tools/3544) (Look in Hamburger <i class="fa fa-bars"></i> menu)
 
-<div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vQUijdw2nN9zABywd2PgwlKLyxu-bo4GGgiRU6FW5ESjXRpJRded3Khw6MWg7ub5W2cXExPfMbSMZpQ/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
+<a class="embedly-card" data-card-controls="0" data-card-align="left" data-card-width="100%" href="https://docs.google.com/presentation/d/1aLYKPyiRsknc8Hb1LiP4VrsqJj2xNHnU0B1Rix5ywlw/edit?usp=sharing">Usability Inspections</a>
 
 ## Zoom Cowork/Q&A Session
 Weekly Readings and Assignment 1 <span class='badge'> [Fri May 27 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220527T1430&p1=256&am=50)</span>
@@ -35,7 +35,8 @@ Weekly Readings and Assignment 1 <span class='badge'> [Fri May 27 2:30pm PT](htt
 
 ## Supplemental Videos  
 [The 10 Usability Heuristics](https://www.youtube.com/playlist?list=PLJOFJ3Ok_idtb2YeifXlG1-TYoMBLoG6I)  
-<div class="video-container-16by9"><iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLJOFJ3Ok_idtb2YeifXlG1-TYoMBLoG6I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+
+<a class="embedly-card" data-card-controls="0" data-card-align="left" data-card-width="100%" href="https://www.youtube.com/watch?v=cTtc90jCULU&list=PLJOFJ3Ok_idtb2YeifXlG1-TYoMBLoG6I&index=1">The 10 Usability Heuristics</a>
 
 ## Supplemental Readings
 
