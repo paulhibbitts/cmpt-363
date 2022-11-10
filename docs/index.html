@@ -185,6 +185,12 @@
       return exists;
     }
 
+    window.matchMedia('(prefers-color-scheme: dark)').addListener(function (e) {
+      console.log(`changed to ${e.matches ? "dark" : "light"} mode`);
+      console.log(e.matches);
+      location.reload();
+    });
+
     // Docsify
     window.$docsify = {
       // GENERAL SETTINGS
