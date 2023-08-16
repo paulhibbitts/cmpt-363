@@ -40,7 +40,3 @@
     }
 
 </style>
-
-  .markdown-section {
-    padding: 1rem 40px;
-  }
