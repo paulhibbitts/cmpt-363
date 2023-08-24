@@ -9,27 +9,23 @@
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <link rel="icon" href="assets/favicon/favicon.png">
 
-  <!-- Theme: Simple (light + dark) -->
+  <!-- Themeable Simple theme -->
+  <!-- <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css"> -->
+
+  <!-- Themeable Simple light + dark theme (uncomment to use, and comment out the above loading of Simple theme) -->
   <link rel="stylesheet" media="(prefers-color-scheme: light)"
     href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
   <link rel="stylesheet" media="(prefers-color-scheme: dark)"
     href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
-
+    
   <link rel="stylesheet" href="assets/css/theme.css">
   <link rel="stylesheet" href="assets/css/custom.css">
 
   <!-- Font Awesome Stylesheets -->
-  <!-- <link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free/css/fontawesome.css" /> -->
-  <!-- <link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free/css/brands.css" /> -->
-  <!-- <link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free/css/regular.css" /> -->
-  <!-- <link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free/css/solid.css" /> -->
-  <!-- <link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free/css/fontawesome.css" /> -->
-
-  <link rel="stylesheet" href="assets/vendor/fontawesome/css/fontawesome.css" />
-  <link rel="stylesheet" href="assets/vendor/fontawesome/css/brands.css" />
-  <link rel="stylesheet" href="assets/vendor/fontawesome/css/regular.css" />
-  <link rel="stylesheet" href="assets/vendor/fontawesome/css/solid.css" />
-  <link rel="stylesheet" href="assets/vendor/fontawesome/css/solid.css" />
+  <link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free/css/fontawesome.css" />
+  <link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free/css/brands.css" />
+  <link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free/css/regular.css" />
+  <link rel="stylesheet" href="https://unpkg.com/@fortawesome/fontawesome-free/css/solid.css" />
 
   <!-- Google Fonts -->
   <link rel="preconnect" href="https://fonts.gstatic.com">
@@ -39,11 +35,9 @@
 
   <style>
     :root {
-
       --base-font-family: "Source Sans Pro", "Helvetica Neue", Arial, sans-serif;
-
       --base-line-height: 1.4;
-      --base-font-size: 1.1rem;
+      --base-font-size: 1.125rem;
 
       --cover-max-width: 45em;
 
@@ -67,73 +61,44 @@
       --heading-h5-font-weight: 400;
       --heading-h6-font-weight: 400;
 
-      --navbar-root-color--active: #0374B5;
-      --navbar-root-margin: 0 0 0 .8em;
-
-      --blockquote-border-color: #757b7f;
-
-      --sidebar-name-color: #0374B5;
-      --sidebar-nav-link-color--active: #0374B5;
-      --sidebar-nav-link-border-color--active: #0374B5;
-      --sidebar-name-margin: 1.5rem -.2rem;
-      --sidebar-nav-link-font-weight--active: bold;
-
       --link-color: #0374B5;
-
       --link-text-decoration: underline;
       --link-text-decoration--hover: underline;
 
+      --sidebar-name-margin: 1.5rem -.2rem;
+      --sidebar-name-color: #0374B5;
+      --sidebar-nav-link-color--active: #0374B5;
+      --sidebar-nav-link-border-color--active: #0374B5;
+      --sidebar-nav-link-font-weight--active: bold;
+
+      --sidebar-nav-pagelink-background--active:
+          no-repeat 0px center / 5px 6px
+          linear-gradient(225deg, transparent 2.75px, #0374B5 2.75px 4.25px, transparent 4.25px),
+          no-repeat 5px center / 5px 6px
+          linear-gradient(135deg, transparent 2.75px, #0374B5 2.75px 4.25px, transparent 4.25px);
+      --sidebar-nav-pagelink-background--collapse:
+          no-repeat 2px calc(50% - 2.5px) / 6px 5px
+          linear-gradient(45deg, transparent 2.75px, #0374B5 2.75px 4.25px, transparent 4px),
+          no-repeat 2px calc(50% + 2.5px) / 6px 5px
+          linear-gradient(135deg, transparent 2.75px, #0374B5 2.75px 4.25px, transparent 4px);
+      --sidebar-nav-pagelink-background--loaded:
+          no-repeat 0px center / 5px 6px
+          linear-gradient(225deg, transparent 2.75px, #0374B5 2.75px 4.25px, transparent 4.25px),
+          no-repeat 5px center / 5px 6px
+          linear-gradient(135deg, transparent 2.75px, #0374B5 2.75px 4.25px, transparent 4.25px);
+
+      --navbar-root-margin: 0 0 0 .8em;
+      --navbar-root-color--active: #0374B5;
+
+      --blockquote-border-color: #0374B5;
+
       --pagination-title-color: #0374B5;
 
-      // Link colours to match visual styling of Moodle LMS
-      // --navbar-root-color--active: #0F6CBF;
-      // --sidebar-name-color: #0F6CBF;
-      // --sidebar-nav-link-color--active: #0F6CBF;
-      // --sidebar-nav-link-border-color--active: #0F6CBF;
-      // --link-color: #0F6CBF;
-      // --pagination-title-color: #0F6CBF;
-
-      // Link colours to match visual styling of Sakai LMS
-      // --navbar-root-color--active: #0B1660;
-      // --sidebar-name-color: #0B1660;
-      // --sidebar-nav-link-color--active: #0B1660;
-      // --sidebar-nav-link-border-color--active: #0B1660;
-      // --link-color: #0B1660;
-      // --pagination-title-color: #0B1660;
-
-      // SFU branding for sidebar and navbar
-      --sidebar-background: #F5F5F5;
-      --sidebar-name-color: #CC0633;
-      --sidebar-name-margin: 1.5rem -.2rem;
-      --sidebar-name-font-weight: 600;
-      --sidebar-nav-link-color: #757575;
-      --sidebar-nav-link-color--active: #CC0633;
-      --sidebar-nav-link-border-color--active: #CC0633;
-      --sidebar-nav-strong-color: #707070;
-      --sidebar-nav-strong-border-color: #C8CCD0;
-      --sidebar-nav-pagelink-background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='7' height='11.2' viewBox='0 0 7 11.2'%3E%3Cpath d='M1.5 1.5l4 4.1 -4 4.1' stroke-width='1.5' stroke='%236D6F71' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/%3E%3C/svg%3E");
-      --sidebar-nav-pagelink-background-image--active: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='11.2' height='7' viewBox='0 0 11.2 7'%3E%3Cpath d='M1.5 1.5l4.1 4 4.1-4' stroke-width='1.5' stroke='%23CC0633' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/%3E%3C/svg%3E");
-      --sidebar-nav-pagelink-background-image--collapse: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='7' height='11.2' viewBox='0 0 7 11.2'%3E%3Cpath d='M1.5 1.5l4 4.1 -4 4.1' stroke-width='1.5' stroke='%23CC0633' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/%3E%3C/svg%3E");
-      --sidebar-nav-pagelink-background-image--loaded: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='11.2' height='7' viewBox='0 0 11.2 7'%3E%3Cpath d='M1.5 1.5l4.1 4 4.1-4' stroke-width='1.5' stroke='%23CC0633' fill='none' stroke-linecap='square' stroke-linejoin='miter' vector-effect='non-scaling-stroke'/%3E%3C/svg%3E");
-
-      --navbar-root-color: #757575;
-      --navbar-root-color--active: #CC0633;
-
+      --cover-button-background: var(--cover-button-primary-background);
+      --cover-button-color: var(--cover-button-primary-color);
+      --cover-button-text-decoration-color: var(--cover-button-primary-color);
     }
 
-    @media (prefers-color-scheme: dark) {
-      :root {
-        --link-color: #89b6e9;
-        --navbar-root-color: #b2b4b4;
-        --navbar-root-color--active: #89b6e9;
-        --sidebar-name-color: #89b6e9;
-        --sidebar-nav-link-color: #b2b4b4;
-        --sidebar-nav-link-color--active: #89b6e9;
-        --sidebar-nav-link-border-color--active: #89b6e9;
-        --sidebar-nav-strong-color: #b2b4b4;
-        --pagination-title-color: #89b6e9;
-      }
-    }
   </style>
 
 </head>
@@ -145,13 +110,25 @@
     var gitLinkRepoURL = 'https://github.com/paulhibbitts/cmpt-363';
 
     // Customize the text for your Edit this Page on GitHub link between the two quotes below
-    var editThisPageLinkText = 'Suggest Edit for this Page';
+    var editThisPageLinkText = 'Edit this Page';
+
+    // Set standalone to true to permanently hide the Sidebar and Navbar
+    var standalone = false;
+
+    // Set ToC to true to permanently show page Table of Contents (Sidebar and Navbar must also be hidden)
+    var ToC = false;
+    
+    // Set navbar to true to permanently override the hiding of the Navbar when displaying as standalone
+    var navbar = false;
+
+    // Set footer to true to permanently show the Footer ('_footer.md)
+    var footer = false;
 
     // Get value from GET-parameter in URL
-    // @param {string|array} name Parameter-name
+    // @param {array} name Parameter-name
     // @param {*} isTrue Return if found
     // @param {*} isFalse Return if not found
-    // @returns {boolean|string} Parameter-value
+    // @returns {string|null} Parameter-value
     function getURLParameterByName(name, isTrue = null, isFalse = null, url = window.location.href) {
 
       let exists = false;
@@ -185,22 +162,17 @@
       return exists;
     }
 
-    window.matchMedia('(prefers-color-scheme: dark)').addListener(function (e) {
-      // console.log(`changed to ${e.matches ? "dark" : "light"} mode`);
-      // console.log(e.matches);
-      location.reload();
-    });
-
     // Docsify
     window.$docsify = {
       // GENERAL SETTINGS
       // -----------------------------------------------------------------
-      name: 'CMPT 363 Hub',
+      name: 'Docsify Open MultiCourse Starter Kit',
       homepage: 'home.md',
       onlyCover: true,
-      loadSidebar: true,
-      loadNavbar: !(getURLParameterByName(['standalone', 'embedded'])),
+      loadSidebar: !(getURLParameterByName(['standalone', 'embedded']) || standalone || false),
+      loadNavbar: !(getURLParameterByName(['standalone', 'embedded']) && !(getURLParameterByName('navbar')) || standalone && !navbar ||false),
       externalLinkTarget: (getURLParameterByName(['standalone', 'embedded'], '_top', '_blank')),
+      loadFooter: (getURLParameterByName('footer') || footer || false),
 
       // SIDEBAR NAVIGATION
       // -----------------------------------------------------------------
@@ -208,7 +180,7 @@
       maxLevel: 3,
       // Set subMaxLevel to 0 to remove automatic display of page table of contents (TOC) in Sidebar
       subMaxLevel: 3,
-      hideSidebar: getURLParameterByName(['standalone', 'embedded']),
+      hideSidebar: (getURLParameterByName(['standalone', 'embedded']) || standalone),
 
       // PLUGIN SETTINGS
       // -----------------------------------------------------------------
@@ -216,21 +188,20 @@
         previousText: 'PREV',
         nextText: 'NEXT',
         crossChapter: false,
-        crossChapterText: true,
+        crossChapterText: false,
       },
 
       toc: {
         scope: '.markdown-section',
-        headings: 'h2, h3, h4, h5, h6',
-        title: 'Table of Contents',
+        headings: 'h2,h3',
+        title: '',
       },
 
       // CUSTOM PLUGINS
       // -----------------------------------------------------------------
       plugins: [
-
         function (hook, vm) {
- 
+
           hook.afterEach(function (html, next) {
             // Invoked each time after the Markdown file is parsed.
             // beforeEach and afterEach support asynchronous。
@@ -239,7 +210,57 @@
 
             var htmlElement = document.createElement('div');
             htmlElement.innerHTML = html;
- 
+
+            if (getURLParameterByName(['standalone', 'embedded']) || standalone) {
+
+              // Carry any existing URL parms in links
+              var URLparms = '';
+
+              if (getURLParameterByName('standalone') || standalone) {
+                URLparms = `?standalone=true`;
+              }
+
+              if (getURLParameterByName('embedded')) {
+                URLparms = `?embedded=true`;
+              }
+
+              if (getURLParameterByName('hidegitlink')) {
+                URLparms = URLparms + `&hidegitlink=true`;
+              }
+
+              if (getURLParameterByName('navbar') || navbar) {
+                URLparms = URLparms + `&navbar=true`;
+              }
+
+              if (getURLParameterByName('toc') || ToC) {
+                URLparms = URLparms + `&toc=true`;
+              }
+
+              if (getURLParameterByName('footer') || footer) {
+                URLparms = URLparms + `&footer=true`;
+              }
+
+              const links = Array.from(htmlElement.querySelectorAll('a'))
+
+              for (const link of links) {
+                //console.log(link.getAttribute('href'));
+                // Find any local Markdown file links not including Docsify id anchor links
+                if ((link.getAttribute('href')?.match(/^#/) && (link.getAttribute('href').includes('id=')) === false)) {
+                  // Modify each Markdown file link to include existing parms
+                  var existingLink = link.getAttribute('href');
+                  //console.log(existingLink);
+                  // Update Markdown file link
+                  var newURL = existingLink + URLparms;
+                  //console.log("Changed:");
+                  //console.log(newURL);
+                  link.setAttribute('href', newURL);
+                  //console.log(link.getAttribute('href'));
+                }
+              }
+            }
+              
+            /* JS to change Embedly cards to light or dark theme based on system setting when using the light + dark theme (uncomment to use) */
+            /*
             const embeds = Array.from(htmlElement.querySelectorAll('.embedly-card'))
             if (!(embeds.length === 0)) {
                if (window.matchMedia && window.matchMedia('(prefers-color-scheme: dark)').matches)  {
@@ -262,9 +283,12 @@
               });
 
             }
+            */
+
             next(htmlElement.innerHTML);
+
           });
- 
+
           hook.beforeEach(function (html) {
             if (/githubusercontent\.com/.test(vm.route.file)) {
               url = vm.route.file
@@ -275,22 +299,65 @@
             }
             var editHtml = '[:memo:' + editThisPageLinkText + '](' + url + ')\n'
 
-            var creditHtml = '\n\n' + '<br />' + '<span style="color:#757575">This site was <i class="fa fa-code" aria-hidden="true" title="Coded"></i> with <i class="fa fa-heart" aria-hidden="true" title="Love"></i> love using <a href="https://docsify.js.org" target="_blank">Docsify</a> and the <a href="https://github.com/hibbitts-design/docsify-open-multicourse-starter-kit" target="_blank">Docsify Open MultiCourse Starter Kit</a> by <a href="https://hibbittsdesign.org/" target="_blank">Hibbitts Design</a>.</span>'
-
-            if (!(getURLParameterByName(['standalone', 'embedded'])) && !(getURLParameterByName('hidegitlink')) && (!!gitLinkRepoURL)) {
-              return html + '<br />' + '\n\n' + '<hr>' + '\n\n' + editHtml + creditHtml
-
-            } else if (getURLParameterByName(['standalone', 'embedded']) && !(getURLParameterByName('hidegitlink')) && (!!gitLinkRepoURL)) {
-              return html + '<br />' + '\n\n' + '<hr>' + '\n\n' + editHtml
-
-            } else if (!(getURLParameterByName(['standalone', 'embedded']))) {
-              return html + '<br />' + '\n\n' + '<hr>' + creditHtml
-
+            if ((!(getURLParameterByName('hidegitlink'))) && (!!gitLinkRepoURL)) {
+              return html + '<br />' + '\n\n' + editHtml
             } else {
               return html
             }
 
-          })
+          });
+
+          // Invoked on each page load after new HTML has been appended to the DOM
+          hook.doneEach(function () {
+            var hasEmbedly = document.getElementsByClassName('embedly-card');
+            if (hasEmbedly.length > 0) {
+                // elements with class "embedly-card" exist
+                var script = document.createElement('script');
+                script.type = 'text/javascript';
+                script.src = 'https://cdn.embedly.com/widgets/platform.js';    
+                document.head.appendChild(script);
+            }
+
+            // Remove optional ToC area if full width header image is present
+            var hasImageHeader = document.getElementsByClassName('header-image-full-width');
+            if (hasImageHeader.length > 0) {
+              const elements = document.getElementsByClassName("nav");
+              while (elements.length > 0) elements[0].remove();
+            }
+
+            // Adjust left margin for optional ToC area if faded header image is present
+            var hasImageFade = document.getElementsByClassName('header-image-fade');
+            var hasNav = document.getElementsByClassName('nav');
+            if (hasImageFade.length > 0 && hasNav.length > 0) {
+              var editCSS = document.createElement('style')
+              editCSS.innerHTML = ".markdown-section {margin-right: 0px;}";
+              document.body.appendChild(editCSS);
+            }
+
+            // Update all iframes with source domains 'youtube.com', 'youtube-nocookie.com' or 'docs.google.com' to include the default responsive CSS Markdown class `video-container-16by9`
+            const allIframes = Array.from(document.querySelectorAll('iframe[src*="youtube.com"], iframe[src*="youtube-nocookie.com"], iframe[src*="docs.google.com"]'));
+
+            // Filter out iframes that are not already wrapped with a div including the classes 'video-container-16by9' and 'video-container-4by3'
+            const targetIframes = allIframes.filter(function(iframe) {
+              const parentDiv = iframe.parentNode;
+              return !parentDiv.matches('.video-container-16by9, .video-container-4by3');
+            });
+
+            // Wrap each target iframe with a div element
+            targetIframes.forEach(function(iframe) {
+              const wrapperDiv = document.createElement('div');
+              wrapperDiv.classList.add('video-container-16by9');
+              // Preserve existing classes on the iframe
+              iframe.classList.forEach(function(className) {
+                wrapperDiv.classList.add(className);
+              });
+              // Replace the iframe with the wrapper div
+              iframe.parentNode.replaceChild(wrapperDiv, iframe);
+              wrapperDiv.appendChild(iframe);
+            });
+
+          });
+
         }
       ]
     }
@@ -300,9 +367,9 @@
 
   <!-- Adjust Page Margins When Standalone or Embedded -->
   <script>
-    if (getURLParameterByName(['standalone', 'embedded'])) {
+    if (getURLParameterByName(['standalone', 'embedded']) || standalone) {
       var editCSS = document.createElement('style')
-      editCSS.innerHTML = ".markdown-section {padding: 1rem 10px;}";
+      editCSS.innerHTML = ".markdown-section {padding: 1rem 14px;}";
       document.body.appendChild(editCSS);
     }
   </script>
@@ -310,13 +377,8 @@
   <!-- Customizable Theme-->
   <script src="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/js/docsify-themeable.min.js"></script>
 
-  <!-- Emoji Plugin -->
-  <!-- <script src="https://unpkg.com/docsify/lib/plugins/emoji.min.js"></script>-->
-  <script src="assets/vendor/docsify/plugins/emoji.min.js"></script>
-
   <!-- Font Awesome Plugin -->
-  <!-- <script src="https://unpkg.com/docsify-fontawesome/dist/docsify-fontawesome.min.js"></script>-->
-  <script src="assets/vendor/docsify/plugins/docsify-fontawesome.min.js"></script>
+  <script src="https://unpkg.com/docsify-fontawesome/dist/docsify-fontawesome.min.js"></script>
 
   <!-- Tabs Plugin-->
   <script src="https://cdn.jsdelivr.net/npm/docsify-tabs@1/dist/docsify-tabs.min.js"></script>
@@ -324,19 +386,28 @@
   <!-- Run External Scripts Plugin -->
   <script src="https://cdn.jsdelivr.net/npm/docsify@4/lib/plugins/external-script.min.js"></script>
 
+  <!-- Footer Plugin -->
+  <script src="//cdn.jsdelivr.net/npm/@alertbox/docsify-footer/dist/docsify-footer.min.js"></script>
+
   <!-- Pagination Plugin -->
-  <!-- <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>-->
-  <script src="assets/vendor/docsify/plugins/docsify-pagination.min.js"></script>
+  <script src="//unpkg.com/docsify-pagination/dist/docsify-pagination.min.js"></script>
 
   <!-- Table of Contents Plugin -->
   <script>
-    if (getURLParameterByName('toc')) {
+    if (getURLParameterByName('toc') || ToC) {
       document.write('<link rel="stylesheet" type="text/css" href="assets/css/toc.css" />');
-      document.write('<script src="https://unpkg.com/docsify-toc@1.0.2/dist/toc.js"><\/script>');
+      document.write('<script src="https://unpkg.com/docsify-toc@1.1.0/dist/toc.js"><\/script>');
     }
   </script>
 
-  <script async src="//cdn.embedly.com/widgets/platform.js" charset="UTF-8"></script>
+  <!-- Additional Languages for Prismjs -->
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-bash.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-go.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-java.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-kotlin.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-php.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-python.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/prismjs@1.29.0/components/prism-swift.min.js"></script>
 
 </body>
 
