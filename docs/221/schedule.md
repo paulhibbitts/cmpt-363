@@ -1,6 +1,6 @@
 # Schedule
 
-## :fas fa-calendar fa-fw: [Week 1 (Jan 10 - 16)](221/week-01)
+## :fas fa-calendar fa-pull-left: [Week 1 (Jan 10 - 16)](221/week-01)
 **Course introduction / What is usability and user experience design?**  
 :fas fa-book fa-fw: [Defining usability (7 minute read)](https://blog.prototypr.io/defining-usability-e7bf42e8abd0)  
 :fas fa-book fa-fw: [An Introduction to User Experience Design (8 minute read)](https://marvelapp.com/blog/introduction-user-experience-design/)  
@@ -10,7 +10,7 @@
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 1](https://canvas.sfu.ca/courses/67116/assignments) <span class='badge'> [Thu Jan 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+1+Visual+Journal+Entry+Due+Date&iso=20220113T235900)</span>  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 1](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Jan 16 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+1+Due+Date&iso=20220116T235900&p1=256)</span>  
 
-## :fas fa-calendar fa-fw: [Week 2 (Jan 17 - 23)](221/week-02)
+## :fas fa-calendar fa-pull-left: [Week 2 (Jan 17 - 23)](221/week-02)
 **What is the practice of mobile and multi-device interaction design?**  
 :fas fa-book fa-fw: [Interaction design: a guide for beginners (19 minute read)](https://uxplanet.org/interaction-design-a-guide-for-beginners-32ff2364b53f)  
 :fas fa-book fa-fw: [Five HCI Laws for User Experience Design (4 minute read)](https://measuringu.com/hci-laws/)  
@@ -21,7 +21,7 @@
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 2](https://canvas.sfu.ca/courses/67116/assignments) <span class='badge'> [Thu Jan 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+2+Visual+Journal+Entry+Due+Date&iso=20220120T235900)</span>  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 2](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Jan 23 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+2+Due+Date&iso=20220123T235900&p1=256)</span>  
 
-## :fas fa-calendar fa-fw: [Week 3 (Jan 24 - 30)](221/week-03)
+## :fas fa-calendar fa-pull-left: [Week 3 (Jan 24 - 30)](221/week-03)
 **How to conduct a user interface inspection?**  
 :fas fa-pen fa-fw: [Heuristic Inspection (Assignment 1)](https://canvas.sfu.ca/courses/67116/assignments/710579) <span class='badge'> [Mon Feb 7 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Heuristic+Inspection+Due+Date&iso=20220207T2359&p1=256)</span>  
 :fas fa-book fa-fw: [Evaluating Wireframes with Usability Inspection Methods (10 minute read)](https://balsamiq.com/learn/articles/usability-inspection/)  
@@ -32,7 +32,7 @@
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 3](https://canvas.sfu.ca/courses/67116/assignments) <span class='badge'> [Thu Jan 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+3+Visual+Journal+Entry+Due+Date&iso=20220127T235900)</span>  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 3](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Jan 30 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+3+Due+Date&iso=20220130T235900&p1=256)</span>  
 
-## :fas fa-calendar fa-fw: [Week 4 (Jan 31 - Feb 6)](221/week-04)
+## :fas fa-calendar fa-pull-left: [Week 4 (Jan 31 - Feb 6)](221/week-04)
 **Special topic - heuristic evaluations**  
 :fas fa-book fa-fw: [Design Heuristics Lecture with Scott Klemmer, a Video Playlist (35 minutes in total)](https://www.youtube.com/playlist?list=PLVtu1bDQijari7LfHOoSTdcpbWIkwZWIA)  
 :fas fa-users fa-fw: Zoom Cowork/Q&A Session - Week 4 Readings and Assignment 1 <span class='badge'> [Tue Feb 1 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Zoom+Cowork%2FQ%26A+Session&iso=20220201T1430&p1=256&am=50)</span>  
@@ -40,7 +40,7 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 4](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Feb 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+4+Due+Date&iso=20220206T235900&p1=256)</span>  
 :fas fa-image fa-fw: No visual journal entry  
 
-## :fas fa-calendar fa-fw: [Week 5 (Feb 7 - 13)](221/week-05)
+## :fas fa-calendar fa-pull-left: [Week 5 (Feb 7 - 13)](221/week-05)
 **How to understand and communicate people's needs and behaviours?**  
 :fas fa-check fa-fw: [Heuristic Inspection Assignment due](https://canvas.sfu.ca/courses/67116/assignments/710579) <span class='badge'> [Tue Feb 8 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Heuristic+Inspection+Due+Date&iso=20220208T2359&p1=256)</span>  
 :fas fa-pen fa-fw: [User Research Report (Assignment 2)](https://canvas.sfu.ca/courses/67116/assignments/710582) <span class='badge'> [Mon Feb 28 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+User+Research+Assignment+Due+Date&iso=20220228T2359&p1=256)</span>  
@@ -52,7 +52,7 @@
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 5](https://canvas.sfu.ca/courses/67116/assignments) <span class='badge'> [Thu Feb 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+5+Visual+Journal+Entry+Due+Date&iso=20220210T235900)</span>  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 5](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Feb 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+5+Due+Date&iso=20220213T235900&p1=256)</span>  
 
-## :fas fa-calendar fa-fw: [Week 6 (Feb 14 - 20)](221/week-06)
+## :fas fa-calendar fa-pull-left: [Week 6 (Feb 14 - 20)](221/week-06)
 **Special topic - conducting user research**  
 :fas fa-book fa-fw: [User Interviews: How, When, and Why to Conduct Them (13 minute read)](https://www.nngroup.com/articles/user-interviews/)  
 :fas fa-book fa-fw: [How to Run Remote User Research (Like a Boss!) (6 minute read)](https://medium.com/mixed-methods/how-to-run-remote-user-research-like-a-boss-b3729954f03)  
@@ -62,11 +62,11 @@
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 6](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Feb 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+6+Due+Date&iso=20220217T205900&p1=256)</span>  
 :fas fa-image fa-fw: No visual journal entry  
 
-## :fas fa-calendar fa-fw: [Week 7 (Feb 21 - 27)](221/week-07)
+## :fas fa-calendar fa-pull-left: [Week 7 (Feb 21 - 27)](221/week-07)
 **Reading week**  
 No required readings, one-minute summaries or visual journal.
 
-## :fas fa-calendar fa-fw: [Week 8 (Feb 28 - Mar 6)](221/week-08)
+## :fas fa-calendar fa-pull-left: [Week 8 (Feb 28 - Mar 6)](221/week-08)
 **How to bridge the gap between the problem and design space?**  
 :fas fa-check fa-fw: [User Research Report Assignment due](https://canvas.sfu.ca/courses/67116/assignments/710582) <span class='badge'> [Mon Feb 28 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+User+Research+Assignment+Due+Date&iso=20220228T2359&p1=256)</span>  
 :fas fa-pen fa-fw: [Storyboard Wireframes (Assignment 3)](https://canvas.sfu.ca/courses/67116/assignments/710577) <span class='badge'> [Mon Mar 21 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Due+Date&iso=20220321T2359&p1=256)</span>  
@@ -78,7 +78,7 @@ No required readings, one-minute summaries or visual journal.
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 8](https://canvas.sfu.ca/courses/67116/assignments) <span class='badge'> [Thu Mar 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+8+Visual+Journal+Entry+Due+Date&iso=20220303T235900)</span>  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 8](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Mar 6 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+8+Due+Date&iso=20220306T235900&p1=256)</span>  
 
-## :fas fa-calendar fa-fw: [Week 9 (Mar 7 - 13)](221/week-09)
+## :fas fa-calendar fa-pull-left: [Week 9 (Mar 7 - 13)](221/week-09)
 **What are the essentials of visual interface design?**  
 :fas fa-book fa-fw: [5 Principles of Visual Design in UX (10 minute read)](https://www.nngroup.com/articles/principles-visual-design/)  
 :fas fa-book fa-fw: [7 Things Every Designer Needs to Know about Accessibility (14 minute read)](https://medium.com/salesforce-ux/7-things-every-designer-needs-to-know-about-accessibility-64f105f0881b)  
@@ -88,7 +88,7 @@ No required readings, one-minute summaries or visual journal.
 :fas fa-image fa-fw: [Weekly Visual Journal Entry for Week 9](https://canvas.sfu.ca/courses/67116/assignments) <span class='badge'> [Thu Mar 10 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Week+11+Visual+Journal+Entry+Due+Date&iso=20220310T235900)</span>  
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 9](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Mar 13 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+9+Due+Date&iso=20220313T235900&p1=256)</span>  
 
-## :fas fa-calendar fa-fw: [Week 10 (Mar 14 - 20)](221/week-10)
+## :fas fa-calendar fa-pull-left: [Week 10 (Mar 14 - 20)](221/week-10)
 **Special topic - conducting usability tests**  
 :fas fa-book fa-fw: [Usability Testing Guide (14 minute read)](https://boxesandarrows.com/usability-testing-guide/)  
 :fas fa-book fa-fw: [Write Better Qualitative Usability Tasks: Top 10 Mistakes to Avoid (10 minute read)](https://www.nngroup.com/articles/better-usability-tasks/)  
@@ -98,7 +98,7 @@ No required readings, one-minute summaries or visual journal.
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 10](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Mar 20 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+10+Due+Date&iso=20220320T235900&p1=256)</span>  
 :fas fa-image fa-fw: No visual journal entry  
 
-## :fas fa-calendar fa-fw: [Week 11 (Mar 21 - 27)](221/week-11)
+## :fas fa-calendar fa-pull-left: [Week 11 (Mar 21 - 27)](221/week-11)
 **Peer design reviews**  
 :fas fa-check fa-fw: [Storyboard Wireframes Assignment due](https://canvas.sfu.ca/courses/67116/assignments/710577) <span class='badge'> [Mon Mar 21 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Due+Date&iso=20220321T2359&p1=256)</span>  
 :fas fa-check fa-fw: [Storyboard Wireframes Peer Reviews (Assignment 4)](https://canvas.sfu.ca/courses/67116/assignments/710594) <span class='badge'> [Mon Apr 4 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Peer+Reviews+Due+Date&iso=20220404T2359&p1=256)</span>  
@@ -109,7 +109,7 @@ No required readings, one-minute summaries or visual journal.
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 11](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Mar 27 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+11+Due+Date&iso=20220327T235900&p1=256)</span>  
 :fas fa-image fa-fw: No visual journal entry  
 
-## :fas fa-calendar fa-fw: [Week 12 (Mar 28 - Apr 3)](221/week-12)
+## :fas fa-calendar fa-pull-left: [Week 12 (Mar 28 - Apr 3)](221/week-12)
 **Special topic - Giving and receiving design feedback**  
 :fas fa-book fa-fw: [Visual communication: 10 tips on evaluating design (5 minute read)](https://alumni.sae.edu/2016/02/26/visual-communication-10-tips-on-evaluating-design/)  
 :fas fa-book fa-fw: [How To Give And Receive (Design) Critique Well (10 minute read)](https://blog.prototypr.io/how-to-give-and-receive-design-critique-well-20a2639f79f1)  
@@ -118,7 +118,7 @@ No required readings, one-minute summaries or visual journal.
 :fas fa-keyboard fa-fw: [One-minute Summaries for Week 12](https://canvas.sfu.ca/courses/67116/discussion_topics) <span class='badge'> [Sun Apr 3 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=One-minute+Summaries+for+Week+12+Due+Date&iso=20220403T235900&p1=256)</span>  
 :fas fa-image fa-fw: No visual journal entry  
 
-## :fas fa-calendar fa-fw: [Week 13 (Apr 4 - 10)](221/week-13)
+## :fas fa-calendar fa-pull-left: [Week 13 (Apr 4 - 10)](221/week-13)
 **Course wrap-up**  
 :fas fa-check fa-fw: [Storyboard Wireframes Peer Reviews Assignment due](https://canvas.sfu.ca/courses/67116/assignments/710594) <span class='badge'> [Mon Apr 4 11:59pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Storyboard+Wireframes+Assignment+Peer+Reviews+Due+Date&iso=20220404T2359&p1=256)</span>  
 :fas fa-desktop fa-fw: Blackboard Course Wrap-up <span class='badge'> [Tue Apr 5 2:30pm PT](https://www.timeanddate.com/worldclock/fixedtime.html?msg=CMPT-363+Course+Wrap-up&iso=20220405T1430&p1=256&ah=30)</span>  
