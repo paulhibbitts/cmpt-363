@@ -1,5 +1,5 @@
 - **LMS Links**
-- [![Calendar Icon](https://icongr.am/fontawesome/calendar.svg?size=16&color=808080)Calendar](https://canvas.sfu.ca/calendar)
+- [![Calendar Icon](https://api.iconify.design/fa6-solid/calendar.svg?height=16&color=%23808080)Calendar](https://canvas.sfu.ca/calendar)
 
 <style>
   /*
