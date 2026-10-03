@@ -15,12 +15,12 @@
 - [Week 12 (Mar 28 - Apr 3)](221/week-12)
 - [Week 13 (Apr 4 - 10)](221/week-13)
 - **Course Tools**
- - [![Calendar](https://api.iconify.design/fa6-solid/calendar.svg?height=16&&color=%236D6F71)Calendar](https://canvas.sfu.ca/calendar)
- - [![Assignments](https://api.iconify.design/fa6-solid/pencil.svg?height=16&color=%236D6F71)Assignments](https://canvas.sfu.ca/courses/67116/assignments)
- - [![Discussions](https://api.iconify.design/fa6-solid/comments.svg?size=16&color=%236D6F71)Discussions](https://canvas.sfu.ca/courses/67116/discussion_topics)
- - [![Files](https://api.iconify.design/fa6-solid/folder.svg?size=16&color=%236D6F71)Files](https://canvas.sfu.ca/courses/67116/files)
- - [![Grades](https://api.iconify.design/fa6-solid/calculator.svg?size=16&color=%236D6F71)Grades](https://canvas.sfu.ca/courses/67116/gradebook)
- - [![Syllabus](https://api.iconify.design/fa6-solid/list.svg?height=16&&color=%236D6F71)Syllabus](https://canvas.sfu.ca/courses/67116/assignments/syllabus)  
+ - [![Calendar](../assets/icons/calendar.svg)Calendar](https://canvas.sfu.ca/calendar)
+ - [![Assignments](../assets/icons/pencil.svg)Assignments](https://canvas.sfu.ca/courses/67116/assignments)
+ - [![Discussions](../assets/icons/comments.svg)Discussions](https://canvas.sfu.ca/courses/67116/discussion_topics)
+ - [![Files](../assets/icons/folder.svg)Files](https://canvas.sfu.ca/courses/67116/files)
+ - [![Grades](../assets/icons/calculator.svg)Grades](https://canvas.sfu.ca/courses/67116/gradebook)
+ - [![Syllabus](../assets/icons/list.svg)Syllabus](https://canvas.sfu.ca/courses/67116/assignments/syllabus)  
 
 <br>
 
